@@ -1,5 +1,5 @@
 # Literature Review
-Collins, Michael F. (Michael Frank), and Tess. Kay. 2003. Sport and Social Exclusion. London: Routledge.
+<p>Collins, Michael F. (Michael Frank), and Tess. Kay. 2003. Sport and Social Exclusion. London: Routledge.</p>
 <br>
 Cranz, Galen. 1982. The Politics of Park Design : A History of Urban Parks in America. Cambridge, Mass: MIT Press.
 <br>
