@@ -1,15 +1,12 @@
 # Frames of Reference
 
-<br>
 ## Abstract
 `to be updated`
 
-<br>
 ## Introduction
 `to be updated`
 
 
-<br>
 ## Literature Review
 `to be updated`
 <p>Collins, Michael F. (Michael Frank), and Tess. Kay. 2003. Sport and Social Exclusion. London: Routledge.</p>
