@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "buffer": "^6.0.3",
+    "graphql-config": "^5.0.3",
     "https-browserify": "^1.0.0",
     "node-cooperhewitt": "^0.0.2",
     "querystring-browser": "^1.0.4"
