@@ -2,9 +2,12 @@
   "dependencies": {
     "buffer": "^6.0.3",
     "graphql-config": "^5.0.3",
+    "http-proxy-middleware": "^2.0.6",
     "https-browserify": "^1.0.0",
     "node-cooperhewitt": "^0.0.2",
-    "querystring-browser": "^1.0.4"
+    "querystring-browser": "^1.0.4",
+    "traverson": "^8.0.3",
+    "traverson-hal": "^8.1.1"
   },
   "name": "bundler",
   "description": "## Initial Form",

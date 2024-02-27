@@ -2,6 +2,7 @@
 async function fetchDataAndProcess() {
   try {
     query = "Product Design and Decorative Arts";
+    // query = "decorative art";
     token = "657c180a00b71ad5bf34d5f64f282a99";
     url =
       "https://api.collection.cooperhewitt.org/rest/?method=cooperhewitt.exhibitions.getObjects&access_token=" +
@@ -11,9 +12,9 @@ async function fetchDataAndProcess() {
     // Fetch data from the API endpoint
     let response = await fetch(url);
     // Parse the JSON response
-    let CHdata = await response.json();
+    let api = await response.json();
     // Access the 'objects' property
-    objects = CHdata.objects;
+    objects = api.objects;
     console.log(objects);
     displayImages(objects);
   } catch (error) {
@@ -31,17 +32,9 @@ function displayImages(json) {
   let app = d3.select("#app").text("");
 
   // take our JSON and sort it
-  // attribution ascending, then title ascending
-  let data = json.sort((a, b) => {
-    if (a.decade === b.decade) {
-      // If artist names are equal, sort by title A-Z
-      //   return b.title > a.title ? 1 : -1;
-      return a.title.localeCompare(b.title);
-    } else {
-      // Sort by artist name
-      return a.decade > b.decade ? 1 : -1;
-    }
-  });
+  // descending
+  let data = json.sort((a, b) => (b.date > a.date ? 1 : -1));
+
   //---------------CARDS---------------
   // define "cards" for each item
   let card = app
@@ -72,6 +65,7 @@ function displayImages(json) {
     .append("img")
     .attr("src", (d) => {
       return d.images[0].n.url;
+      // return d.images[0].b.url;
     });
 }
 
