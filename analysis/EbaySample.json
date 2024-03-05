@@ -3,872 +3,28 @@
     {
       "ack": ["Success"],
       "version": ["1.13.0"],
-      "timestamp": ["2024-02-27T15:06:37.405Z"],
+      "timestamp": ["2024-02-27T20:54:32.031Z"],
       "searchResult": [
         {
-          "@count": "68",
+          "@count": "7",
           "item": [
             {
-              "itemId": ["110554611870"],
+              "itemId": ["110554610303"],
               "title": [
-                "Chinese Vintage Antique Reproduction Figurine 福建會館 \"14.5\" (H)"
+                "Snoopy Woodstock Hugs Ceramic ornament 1977 New in box"
               ],
               "globalId": ["EBAY-US"],
               "primaryCategory": [
                 {
-                  "categoryId": ["184440"],
-                  "categoryName": ["Figurines & Statues"]
+                  "categoryId": ["261055"],
+                  "categoryName": ["Figures & Statues"]
                 }
               ],
               "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/16cAAOSw~udl1r1A/s-l140.jpg"
+                "https://i.ebayimg.sandbox.ebay.com/images/g/Op8AAOSw2H1eDhOX/s-l140.jpg"
               ],
               "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Chinese-Vintage-Antique-Reproduction-Figurine-14-5-H-/110554611870"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["906**"],
-              "location": ["La Habra,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "50.0" }
-                  ],
-                  "shippingType": ["Flat"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "0.99" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "0.99" }
-                  ],
-                  "bidCount": ["0"],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P4DT12H13M2S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-22T03:19:38.000Z"],
-                  "endTime": ["2024-03-03T03:19:38.000Z"],
-                  "listingType": ["Auction"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554611876"],
-              "title": [
-                "Chinese Vintage Antique Reproduction Cloisonné Clock \"10.5\" (H)"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["73465"],
-                  "categoryName": ["Other Chinese Antiques"]
-                }
-              ],
-              "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/zMcAAOSwNCZl1r2P/s-l140.jpg"
-              ],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Chinese-Vintage-Antique-Reproduction-Cloisonne-Clock-10-5-H-/110554611876"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["906**"],
-              "location": ["La Habra,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "300.0" }
-                  ],
-                  "shippingType": ["Flat"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "0.99" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "0.99" }
-                  ],
-                  "bidCount": ["0"],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P4DT12H14M23S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-22T03:20:59.000Z"],
-                  "endTime": ["2024-03-03T03:20:59.000Z"],
-                  "listingType": ["Auction"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554610490"],
-              "title": ["Erika Running Short-32-Red"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Erika-Running-Short-32-Red-/110554610490"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "46.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "46.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P22DT20H21M57S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-21T11:28:33.000Z"],
-                  "endTime": ["2024-03-21T11:28:33.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597231"],
-              "title": [" LOUSY LIVIN INTO THE WILD BOXERSHORTS BLUE"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["20291"],
-                  "categoryName": ["Other Kids' Vintage Clothing"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/LOUSY-LIVIN-INTO-WILD-BOXERSHORTS-BLUE-/110554597231?var=0"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.59" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.59" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P16DT0H2M44S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-14T15:09:20.000Z"],
-                  "endTime": ["2024-03-14T15:09:20.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554590006"],
-              "title": [" LOUSY LIVIN X KOLOSS SKATEBOARDS BOXERSHORTS BLACK"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["20291"],
-                  "categoryName": ["Other Kids' Vintage Clothing"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/LOUSY-LIVIN-X-KOLOSS-SKATEBOARDS-BOXERSHORTS-BLACK-/110554590006?var=410109330785"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "18.33" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "18.33" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P11DT0H9M20S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-09T15:15:56.000Z"],
-                  "endTime": ["2024-03-09T15:15:56.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554611045"],
-              "title": ["Antique 3.82 Ct Old Cut Diamond Cluster Earrings"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261990"], "categoryName": ["Earrings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-3-82-Ct-Old-Cut-Diamond-Cluster-Earrings-/110554611045"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "10500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "10500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P23DT5H16M53S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-21T20:23:29.000Z"],
-                  "endTime": ["2024-03-21T20:23:29.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554576348"],
-              "title": ["Running Shoe"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["163619"], "categoryName": ["Men's Hats"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Running-Shoe-/110554576348?var=410109323199"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["633**"],
-              "location": ["Saint Charles,MO,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "1.0" }
-                  ],
-                  "shippingType": ["Flat"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P2DT1H0M41S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-01-31T16:07:17.000Z"],
-                  "endTime": ["2024-02-29T16:07:17.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597899"],
-              "title": ["New Demo Tire"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/8pcAAOSw8UplzbT9/s-l140.jpg"
-              ],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/New-Demo-Tire-/110554597899"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "369.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "369.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P16DT15H47M15S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T06:53:51.000Z"],
-                  "endTime": ["2024-03-15T06:53:51.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554613225"],
-              "title": ["Pastry"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["58799"], "categoryName": ["Marbles"] }
-              ],
-              "secondaryCategory": [
-                { "categoryId": ["37978"], "categoryName": ["Rugs & Carpets"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Pastry-/110554613225?var=410109341892"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["GU167HF"],
-              "location": ["United Kingdom"],
-              "country": ["GB"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "3.68" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "3.68" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P24DT3H22M49S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-22T18:29:25.000Z"],
-                  "endTime": ["2024-03-22T18:29:25.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
-              ],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585877"],
-              "title": ["301 test 6_2_24 5"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162929"], "categoryName": ["Corbels"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/301-test-6-2-24-5-/110554585877"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT19H10M40S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T10:17:16.000Z"],
-                  "endTime": ["2024-03-06T10:17:16.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587253"],
-              "title": ["new Bundle"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["74962"],
-                  "categoryName": ["Bags, Handbags & Cases"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/new-Bundle-/110554587253"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P9DT19H7M58S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T10:14:34.000Z"],
-                  "endTime": ["2024-03-08T10:14:34.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554602206"],
-              "title": ["ATV Demo Tire"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/xy4AAOSwNCZl0wl-/s-l140.jpg"
-              ],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/ATV-Demo-Tire-/110554602206"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "238.54" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "238.54" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P20DT16H49M12S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-19T07:55:48.000Z"],
-                  "endTime": ["2024-03-19T07:55:48.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554613140"],
-              "title": ["stethoscope"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["58799"], "categoryName": ["Marbles"] }
-              ],
-              "secondaryCategory": [
-                { "categoryId": ["37978"], "categoryName": ["Rugs & Carpets"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/stethoscope-/110554613140?var=410109341836"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["GU167HF"],
-              "location": ["United Kingdom"],
-              "country": ["GB"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "140.52" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "140.52" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P24DT0H58M30S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-22T16:05:06.000Z"],
-                  "endTime": ["2024-03-22T16:05:06.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
-              ],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554574736"],
-              "title": ["price 7"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/price-7-/110554574736"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["*****"],
-              "location": ["Ukraine"],
-              "country": ["UA"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["0"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "7.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "7.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P1DT20H24M3S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-01-30T11:30:39.000Z"],
-                  "endTime": ["2024-02-29T11:30:39.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["false"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554613892"],
-              "title": ["house slippers1"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["58799"], "categoryName": ["Marbles"] }
-              ],
-              "secondaryCategory": [
-                { "categoryId": ["37978"], "categoryName": ["Rugs & Carpets"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/house-slippers1-/110554613892?var=410109342323"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["GU167HF"],
-              "location": ["United Kingdom"],
-              "country": ["GB"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "16.88" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "16.88" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P24DT17H6M41S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-23T08:13:17.000Z"],
-                  "endTime": ["2024-03-23T08:13:17.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
-              ],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554594107"],
-              "title": ["Antique 3.82 Ct Old Cut Diamond Cluster Earrings"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261990"], "categoryName": ["Earrings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-3-82-Ct-Old-Cut-Diamond-Cluster-Earrings-/110554594107"
+                "https://cgi.sandbox.ebay.com/Snoopy-Woodstock-Hugs-Ceramic-ornament-1977-New-box-/110554610303"
               ],
               "autoPay": ["false"],
               "location": ["USA"],
@@ -876,931 +32,33 @@
               "shippingInfo": [
                 {
                   "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "10500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "10500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P14DT6H28M10S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-12T21:34:46.000Z"],
-                  "endTime": ["2024-03-12T21:34:46.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554584697"],
-              "title": ["Antique Victorian Ruby Diamond Bangle Bracelet"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261988"],
-                  "categoryName": ["Bracelets & Charms"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Victorian-Ruby-Diamond-Bangle-Bracelet-/110554584697"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P5DT11H40M25S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-04T02:47:01.000Z"],
-                  "endTime": ["2024-03-04T02:47:01.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554586110"],
-              "title": ["Antique Art Nouveau Peridot Flower Ring"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Art-Nouveau-Peridot-Flower-Ring-/110554586110"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "3650.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "3650.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P8DT7H4M4S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T22:10:40.000Z"],
-                  "endTime": ["2024-03-06T22:10:40.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587872"],
-              "title": ["Antique Late 19th Century Sapphire Diamond Brooch"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261989"],
-                  "categoryName": ["Brooches & Pins"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Late-19th-Century-Sapphire-Diamond-Brooch-/110554587872"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "2900.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "2900.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P10DT6H18M43S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T21:25:19.000Z"],
-                  "endTime": ["2024-03-08T21:25:19.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554596043"],
-              "title": ["Trump"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162972"], "categoryName": ["Fans"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Trump-/110554596043"
-              ],
-              "autoPay": ["false"],
-              "location": ["Japan"],
-              "country": ["JP"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["10"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.76" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.76" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P14DT23H10M50S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-13T14:17:26.000Z"],
-                  "endTime": ["2024-03-13T14:17:26.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585674"],
-              "title": ["Antique Art Nouveau Brooch / Pin"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261989"],
-                  "categoryName": ["Brooches & Pins"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Art-Nouveau-Brooch-Pin-/110554585674"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "2500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "2500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT14H32M58S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T05:39:34.000Z"],
-                  "endTime": ["2024-03-06T05:39:34.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554614186"],
-              "title": ["Erika Running Short-29-Purple"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["162913"],
-                  "categoryName": ["Parts & Salvaged Pieces"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Erika-Running-Short-29-Purple-/110554614186?var=410109342506"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["*****"],
-              "location": ["Ukraine"],
-              "country": ["UA"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.01" }
+                    { "@currencyId": "USD", "__value__": "3.99" }
                   ],
                   "shippingType": ["Flat"],
                   "shipToLocations": ["Worldwide"],
                   "expeditedShipping": ["false"],
                   "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["0"]
+                  "handlingTime": ["3"]
                 }
               ],
               "sellingStatus": [
                 {
                   "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "69.64" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "69.64" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "sellingState": ["Active"],
-                  "timeLeft": ["P24DT21H55M28S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-23T13:02:04.000Z"],
-                  "endTime": ["2024-03-23T13:02:04.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["false"],
-              "condition": [
-                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
-              ],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597717"],
-              "title": [
-                "Large Antique Victorian Turquoise Pearl Diamond Pendant"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261993"],
-                  "categoryName": ["Necklaces & Pendants"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Large-Antique-Victorian-Turquoise-Pearl-Diamond-Pendant-/110554597717"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P16DT11H22M12S"]
+                  "timeLeft": ["P22DT11H57M34S"]
                 }
               ],
               "listingInfo": [
                 {
                   "bestOfferEnabled": ["true"],
                   "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T02:28:48.000Z"],
-                  "endTime": ["2024-03-15T02:28:48.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554591196"],
-              "title": [
-                "[Item 9921]Jordan 1 Retro High OG Chicago Reimagined Lost & Found 77"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Item-9921-Jordan-1-Retro-High-OG-Chicago-Reimagined-Lost-Found-77-/110554591196"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "58.52" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "58.52" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P12DT0H28M27S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-10T15:35:03.000Z"],
-                  "endTime": ["2024-03-10T15:35:03.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585869"],
-              "title": ["test"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["262983"], "categoryName": ["Area Rugs"] }
-              ],
-              "secondaryCategory": [
-                { "categoryId": ["37978"], "categoryName": ["Rugs & Carpets"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/test-/110554585869"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["282**"],
-              "location": ["Charlotte,NC,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "1.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "1.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT18H50M55S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T09:57:31.000Z"],
-                  "endTime": ["2024-03-06T09:57:31.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["1000"],
-                  "conditionDisplayName": ["New with tags"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587873"],
-              "title": [
-                "Antique Victorian Sapphire Diamond 18K Gold Cluster Ring"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Victorian-Sapphire-Diamond-18K-Gold-Cluster-Ring-/110554587873"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "7500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "7500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P10DT6H23M44S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T21:30:20.000Z"],
-                  "endTime": ["2024-03-08T21:30:20.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554584544"],
-              "title": ["Antique 6.20 Ct Old European Diamond Dangle Earrings"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261990"], "categoryName": ["Earrings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-6-20-Ct-Old-European-Diamond-Dangle-Earrings-/110554584544"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "15000.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "15000.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P5DT8H16M35S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-03T23:23:11.000Z"],
-                  "endTime": ["2024-03-03T23:23:11.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587255"],
-              "title": ["Crown Summit Backpack"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["74962"],
-                  "categoryName": ["Bags, Handbags & Cases"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Crown-Summit-Backpack-/110554587255"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "37.36" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "37.36" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P9DT19H7M58S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T10:14:34.000Z"],
-                  "endTime": ["2024-03-08T10:14:34.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554575889"],
-              "title": ["Antique Edwardian Era Two Diamond Engagement Ring"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Edwardian-Era-Two-Diamond-Engagement-Ring-/110554575889"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "4600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "4600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P2DT14H20M4S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-01-31T05:26:40.000Z"],
-                  "endTime": ["2024-03-01T05:26:40.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554584536"],
-              "title": [
-                "Antique French \u2018En tremblant\u2019 Diamond Flower Brooch"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261989"],
-                  "categoryName": ["Brooches & Pins"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-French-En-tremblant-Diamond-Flower-Brooch-/110554584536"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "9800.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "9800.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P5DT8H10M11S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-03T23:16:47.000Z"],
-                  "endTime": ["2024-03-03T23:16:47.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554574670"],
-              "title": ["New with barcode"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["162913"],
-                  "categoryName": ["Parts & Salvaged Pieces"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/New-barcode-/110554574670"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["E16**"],
-              "location": ["United Kingdom"],
-              "country": ["GB"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "100.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "100.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P1DT19H43M8S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-01-30T10:49:44.000Z"],
-                  "endTime": ["2024-02-29T10:49:44.000Z"],
+                  "startTime": ["2024-02-21T08:52:05.000Z"],
+                  "endTime": ["2024-03-21T08:52:05.000Z"],
                   "listingType": ["FixedPrice"],
                   "gift": ["false"]
                 }
@@ -1813,89 +71,22 @@
               "topRatedListing": ["false"]
             },
             {
-              "itemId": ["110554587349"],
-              "title": ["Woo_order_2"],
+              "itemId": ["110554575914"],
+              "title": [
+                "Chanel J-12 Chromatic H3155 Unisex Watch in  Ceramic/Titanium"
+              ],
               "globalId": ["EBAY-US"],
               "primaryCategory": [
-                {
-                  "categoryId": ["88433"],
-                  "categoryName": ["Every Other Thing"]
-                }
-              ],
-              "secondaryCategory": [
-                {
-                  "categoryId": ["162913"],
-                  "categoryName": ["Parts & Salvaged Pieces"]
-                }
+                { "categoryId": ["31387"], "categoryName": ["Wristwatches"] }
               ],
               "galleryURL": [""],
               "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Woo-order-2-/110554587349"
+                "https://cgi.sandbox.ebay.com/Chanel-J-12-Chromatic-H3155-Unisex-Watch-Ceramic-Titanium-/110554575914"
               ],
               "autoPay": ["false"],
-              "postalCode": ["E16**"],
-              "location": ["United Kingdom"],
-              "country": ["GB"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.01" }
-                  ],
-                  "shippingType": ["Flat"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["3"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "2.66" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "2.66" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P9DT20H21M4S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T11:27:41.000Z"],
-                  "endTime": ["2024-03-08T11:27:41.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["false"],
-              "condition": [
-                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554588265"],
-              "title": [
-                "Perfect Chinese High Ice Jade Precision Carved Necklace Ring Earrings M06"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["37928"], "categoryName": ["Plates"] }
-              ],
-              "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/iOYAAOSwlsRlEjBU/s-l140.jpg"
-              ],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Perfect-Chinese-High-Ice-Jade-Precision-Carved-Necklace-Ring-Earrings-M06-/110554588265"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["******"],
-              "location": ["China"],
-              "country": ["CN"],
+              "postalCode": ["100**"],
+              "location": ["New York,NY,USA"],
+              "country": ["US"],
               "shippingInfo": [
                 {
                   "shippingServiceCost": [
@@ -1904,136 +95,28 @@
                   "shippingType": ["Free"],
                   "shipToLocations": ["Worldwide"],
                   "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["10"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "28.12" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "28.12" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P10DT15H1M54S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-09T06:08:31.000Z"],
-                  "endTime": ["2024-03-09T06:08:31.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554590325"],
-              "title": [
-                "William HILLIARD 1800s Antique Etching \"Fishing the Coast of Holland\" Framed COA"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["360"], "categoryName": ["Art Prints"] }
-              ],
-              "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/bswAAOSwLVZVihwT/s-l140.jpg"
-              ],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/William-HILLIARD-1800s-Antique-Etching-Fishing-Coast-Holland-Framed-COA-/110554590325"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["339**"],
-              "location": ["Cape Coral,FL,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingType": ["Calculated"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
                   "oneDayShippingAvailable": ["true"],
-                  "handlingTime": ["1"]
+                  "handlingTime": ["2"]
                 }
               ],
               "sellingStatus": [
                 {
                   "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "244.0" }
+                    { "@currencyId": "USD", "__value__": "14500.0" }
                   ],
                   "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "244.0" }
+                    { "@currencyId": "USD", "__value__": "14500.0" }
                   ],
                   "sellingState": ["Active"],
-                  "timeLeft": ["P11DT0H33M5S"]
+                  "timeLeft": ["P1DT10H31M8S"]
                 }
               ],
               "listingInfo": [
                 {
                   "bestOfferEnabled": ["true"],
                   "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-09T15:39:42.000Z"],
-                  "endTime": ["2024-03-09T15:39:42.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554589688"],
-              "title": ["Loro Piana Lucienne 22 Antique Dress"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["63861"], "categoryName": ["Dresses"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Loro-Piana-Lucienne-22-Antique-Dress-/110554589688"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["201**"],
-              "location": ["Italy"],
-              "country": ["IT"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "2421.61" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "2421.61" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P10DT23H50M33S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-09T14:57:10.000Z"],
-                  "endTime": ["2024-03-09T14:57:10.000Z"],
+                  "startTime": ["2024-01-31T07:25:39.000Z"],
+                  "endTime": ["2024-02-29T07:25:39.000Z"],
                   "listingType": ["FixedPrice"],
                   "gift": ["false"]
                 }
@@ -2041,1784 +124,40 @@
               "returnsAccepted": ["true"],
               "condition": [
                 {
-                  "conditionId": ["1000"],
-                  "conditionDisplayName": ["New with tags"]
+                  "conditionId": ["3000"],
+                  "conditionDisplayName": ["Pre-owned"]
                 }
               ],
               "isMultiVariationListing": ["false"],
               "topRatedListing": ["false"]
             },
             {
-              "itemId": ["110554574238"],
+              "itemId": ["110554610312"],
               "title": [
-                "Tricker's Bourton Acorn Antique Dainite Sole 5 Fit Lace Up Shoes"
+                "Snoopy Woodstock Hugs Ceramic ornament 1977 New in box"
               ],
               "globalId": ["EBAY-US"],
               "primaryCategory": [
-                { "categoryId": ["24087"], "categoryName": ["Casual Shoes"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Trickers-Bourton-Acorn-Antique-Dainite-Sole-5-Fit-Lace-Up-Shoes-/110554574238"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["201**"],
-              "location": ["Italy"],
-              "country": ["IT"],
-              "shippingInfo": [
                 {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
+                  "categoryId": ["261055"],
+                  "categoryName": ["Figures & Statues"]
                 }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "650.52" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "650.52" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P1DT17H25M52S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-01-30T08:32:29.000Z"],
-                  "endTime": ["2024-02-29T08:32:29.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["1000"],
-                  "conditionDisplayName": ["New with box"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554598290"],
-              "title": ["STARRY NIGHT | VINCENT VAN GOGH"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162927"], "categoryName": ["Beams"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/STARRY-NIGHT-VINCENT-VAN-GOGH-/110554598290"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["809**"],
-              "location": ["Colorado Springs,CO,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FreePickup"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "12.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "12.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P16DT23H27M52S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T14:34:29.000Z"],
-                  "endTime": ["2024-03-15T14:34:29.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554592962"],
-              "title": [" LOUSY LIVIN INTO THE WILD BOXERSHORTS BLUE"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["20291"],
-                  "categoryName": ["Other Kids' Vintage Clothing"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/LOUSY-LIVIN-INTO-WILD-BOXERSHORTS-BLUE-/110554592962?var=0"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.59" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.59" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P13DT21H16M8S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-12T12:22:45.000Z"],
-                  "endTime": ["2024-03-12T12:22:45.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554595656"],
-              "title": [" LOUSY LIVIN LASER YE-YE BOXERSHORTS PEONY"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["20291"],
-                  "categoryName": ["Other Kids' Vintage Clothing"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/LOUSY-LIVIN-LASER-YE-YE-BOXERSHORTS-PEONY-/110554595656?var=410109331791"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.59" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.59" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P14DT22H6M5S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-13T13:12:42.000Z"],
-                  "endTime": ["2024-03-13T13:12:42.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554593417"],
-              "title": [" LOUSY LIVIN LASER YE-YE BOXERSHORTS PEONY"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["20291"],
-                  "categoryName": ["Other Kids' Vintage Clothing"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/LOUSY-LIVIN-LASER-YE-YE-BOXERSHORTS-PEONY-/110554593417?var=410109331682"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.53" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.53" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P13DT22H31M26S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-12T13:38:03.000Z"],
-                  "endTime": ["2024-03-12T13:38:03.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554590010"],
-              "title": [" LOUSY LIVIN LASER YE-YE BOXERSHORTS PEONY"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["20291"],
-                  "categoryName": ["Other Kids' Vintage Clothing"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/LOUSY-LIVIN-LASER-YE-YE-BOXERSHORTS-PEONY-/110554590010?var=410109330794"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.57" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.57" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P11DT0H13M39S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-09T15:20:16.000Z"],
-                  "endTime": ["2024-03-09T15:20:16.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["true"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587256"],
-              "title": ["new Bundle"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["74962"],
-                  "categoryName": ["Bags, Handbags & Cases"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/new-Bundle-/110554587256"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P9DT19H7M57S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T10:14:34.000Z"],
-                  "endTime": ["2024-03-08T10:14:34.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587257"],
-              "title": ["new Bundle"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["74962"],
-                  "categoryName": ["Bags, Handbags & Cases"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/new-Bundle-/110554587257"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P9DT19H7M57S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T10:14:34.000Z"],
-                  "endTime": ["2024-03-08T10:14:34.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587260"],
-              "title": ["new Bundle"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["74962"],
-                  "categoryName": ["Bags, Handbags & Cases"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/new-Bundle-/110554587260"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["900**"],
-              "location": ["Los Angeles,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "30.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P9DT19H7M57S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T10:14:34.000Z"],
-                  "endTime": ["2024-03-08T10:14:34.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585805"],
-              "title": ["301 test 6_2_24 2"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162929"], "categoryName": ["Corbels"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/301-test-6-2-24-2-/110554585805"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT17H39M39S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T08:46:16.000Z"],
-                  "endTime": ["2024-03-06T08:46:16.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585875"],
-              "title": ["301 test 6_2_24 3"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162929"], "categoryName": ["Corbels"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/301-test-6-2-24-3-/110554585875"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT19H7M24S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T10:14:01.000Z"],
-                  "endTime": ["2024-03-06T10:14:01.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585881"],
-              "title": ["301 test 6_2_24 6"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162945"], "categoryName": ["Masks"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/301-test-6-2-24-6-/110554585881"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT19H17M21S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T10:23:58.000Z"],
-                  "endTime": ["2024-03-06T10:23:58.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554584748"],
-              "title": ["Antique Victorian Ruby Diamond Bangle Bracelet"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261988"],
-                  "categoryName": ["Bracelets & Charms"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Victorian-Ruby-Diamond-Bangle-Bracelet-/110554584748"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P5DT12H39M39S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-04T03:46:16.000Z"],
-                  "endTime": ["2024-03-04T03:46:16.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554584749"],
-              "title": ["Antique Victorian Ruby Diamond Bangle Bracelet"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261988"],
-                  "categoryName": ["Bracelets & Charms"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Victorian-Ruby-Diamond-Bangle-Bracelet-/110554584749"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P5DT12H42M21S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-04T03:48:58.000Z"],
-                  "endTime": ["2024-03-04T03:48:58.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585002"],
-              "title": ["Antique Victorian Ruby Diamond Bangle Bracelet"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261988"],
-                  "categoryName": ["Bracelets & Charms"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Victorian-Ruby-Diamond-Bangle-Bracelet-/110554585002"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P6DT4H54M54S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-04T20:01:31.000Z"],
-                  "endTime": ["2024-03-04T20:01:31.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597038"],
-              "title": [
-                "ACCELERA ALPHA 225/45R17 121/118Q D 320 AA ALL SEASON BW TIRE"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/ACCELERA-ALPHA-225-45R17-121-118Q-D-320-AA-ALL-SEASON-BW-TIRE-/110554597038"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "369.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "369.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P15DT20H28M49S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-14T11:35:26.000Z"],
-                  "endTime": ["2024-03-14T11:35:26.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554586111"],
-              "title": ["Antique Art Nouveau Peridot Flower Ring"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Art-Nouveau-Peridot-Flower-Ring-/110554586111"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "3650.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "3650.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P8DT7H12M15S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T22:18:52.000Z"],
-                  "endTime": ["2024-03-06T22:18:52.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554596048"],
-              "title": ["Trump"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162972"], "categoryName": ["Fans"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Trump-/110554596048"
-              ],
-              "autoPay": ["false"],
-              "location": ["Japan"],
-              "country": ["JP"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["false"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["10"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.76" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "21.76" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P14DT23H17M20S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-13T14:23:57.000Z"],
-                  "endTime": ["2024-03-13T14:23:57.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585677"],
-              "title": ["Antique Art Nouveau Brooch / Pin"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261989"],
-                  "categoryName": ["Brooches & Pins"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Art-Nouveau-Brooch-Pin-/110554585677"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "2500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "2500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT14H35M4S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T05:41:41.000Z"],
-                  "endTime": ["2024-03-06T05:41:41.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554598669"],
-              "title": [
-                "Large Antique Victorian Turquoise Pearl Diamond Pendant"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261993"],
-                  "categoryName": ["Necklaces & Pendants"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Large-Antique-Victorian-Turquoise-Pearl-Diamond-Pendant-/110554598669"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P17DT8H23M59S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T23:30:36.000Z"],
-                  "endTime": ["2024-03-15T23:30:36.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554598671"],
-              "title": [
-                "Large Antique Victorian Turquoise Pearl Diamond Pendant"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261993"],
-                  "categoryName": ["Necklaces & Pendants"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Large-Antique-Victorian-Turquoise-Pearl-Diamond-Pendant-/110554598671"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P17DT8H26M54S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T23:33:31.000Z"],
-                  "endTime": ["2024-03-15T23:33:31.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597676"],
-              "title": [
-                "Large Antique Victorian Turquoise Pearl Diamond Pendant"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261993"],
-                  "categoryName": ["Necklaces & Pendants"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Large-Antique-Victorian-Turquoise-Pearl-Diamond-Pendant-/110554597676"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P16DT10H20M22S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T01:26:59.000Z"],
-                  "endTime": ["2024-03-15T01:26:59.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597683"],
-              "title": [
-                "Large Antique Victorian Turquoise Pearl Diamond Pendant"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["261993"],
-                  "categoryName": ["Necklaces & Pendants"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Large-Antique-Victorian-Turquoise-Pearl-Diamond-Pendant-/110554597683"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P16DT10H27M39S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T01:34:16.000Z"],
-                  "endTime": ["2024-03-15T01:34:16.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554598662"],
-              "title": [
-                "Large Antique Victorian Turquoise Pearl Diamond Pendant"
-              ],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["262013"],
-                  "categoryName": ["Necklaces & Pendants"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Large-Antique-Victorian-Turquoise-Pearl-Diamond-Pendant-/110554598662"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P17DT8H22M12S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-15T23:28:49.000Z"],
-                  "endTime": ["2024-03-15T23:28:49.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554599141"],
-              "title": ["ATV Demo Tire"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
               ],
               "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/T-AAAOSwdxZlzzjF/s-l140.jpg"
+                "https://i.ebayimg.sandbox.ebay.com/images/g/Op8AAOSw2H1eDhOX/s-l140.jpg"
               ],
               "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/ATV-Demo-Tire-/110554599141"
+                "https://cgi.sandbox.ebay.com/Snoopy-Woodstock-Hugs-Ceramic-ornament-1977-New-box-/110554610312"
               ],
-              "paymentMethod": ["CashOnPickup"],
               "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
+              "location": ["USA"],
               "country": ["US"],
               "shippingInfo": [
                 {
                   "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
+                    { "@currencyId": "USD", "__value__": "3.99" }
                   ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "371.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "371.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P17DT19H21M46S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-16T10:28:23.000Z"],
-                  "endTime": ["2024-03-16T10:28:23.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585876"],
-              "title": ["301 test 6_2_24 4"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162929"], "categoryName": ["Corbels"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/301-test-6-2-24-4-/110554585876"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT19H9M50S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-06T10:16:27.000Z"],
-                  "endTime": ["2024-03-06T10:16:27.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554605653"],
-              "title": ["Antique Diamond Platinum Gold Openwork Earrings"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261990"], "categoryName": ["Earrings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Diamond-Platinum-Gold-Openwork-Earrings-/110554605653"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "5600.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P21DT10H6M51S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["true"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-20T01:13:28.000Z"],
-                  "endTime": ["2024-03-20T01:13:28.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554597047"],
-              "title": ["Appolo tire 22/12/12"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["162925"], "categoryName": ["Balusters"] }
-              ],
-              "galleryURL": [
-                "https://i.ebayimg.sandbox.ebay.com/images/g/hkMAAOSwgQRlzKft/s-l140.jpg"
-              ],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Appolo-tire-22-12-12-/110554597047"
-              ],
-              "paymentMethod": ["CashOnPickup"],
-              "autoPay": ["false"],
-              "postalCode": ["951**"],
-              "location": ["San Jose,CA,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["FlatDomesticCalculatedInternational"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "369.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "369.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P15DT20H39M14S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-14T11:45:51.000Z"],
-                  "endTime": ["2024-03-14T11:45:51.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554587871"],
-              "title": ["Belle Epoque Antique Diamond Pearl Gold Ring"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Belle-Epoque-Antique-Diamond-Pearl-Gold-Ring-/110554587871"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "6500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P10DT6H16M39S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-08T21:23:16.000Z"],
-                  "endTime": ["2024-03-08T21:23:16.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554585622"],
-              "title": ["Antique Art Deco Emerald Diamond Platinum Gold Ring"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Art-Deco-Emerald-Diamond-Platinum-Gold-Ring-/110554585622"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
-              "country": ["US"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
-                  "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
-                  "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
-                }
-              ],
-              "sellingStatus": [
-                {
-                  "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "10500.0" }
-                  ],
-                  "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "10500.0" }
-                  ],
-                  "sellingState": ["Active"],
-                  "timeLeft": ["P7DT8H26M27S"]
-                }
-              ],
-              "listingInfo": [
-                {
-                  "bestOfferEnabled": ["false"],
-                  "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-05T23:33:04.000Z"],
-                  "endTime": ["2024-03-05T23:33:04.000Z"],
-                  "listingType": ["FixedPrice"],
-                  "gift": ["false"]
-                }
-              ],
-              "returnsAccepted": ["true"],
-              "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
-              ],
-              "isMultiVariationListing": ["false"],
-              "topRatedListing": ["false"]
-            },
-            {
-              "itemId": ["110554574808"],
-              "title": ["New with barcode"],
-              "globalId": ["EBAY-US"],
-              "primaryCategory": [
-                {
-                  "categoryId": ["162913"],
-                  "categoryName": ["Parts & Salvaged Pieces"]
-                }
-              ],
-              "galleryURL": [""],
-              "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/New-barcode-/110554574808"
-              ],
-              "autoPay": ["false"],
-              "postalCode": ["E16**"],
-              "location": ["United Kingdom"],
-              "country": ["GB"],
-              "shippingInfo": [
-                {
-                  "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
-                  ],
-                  "shippingType": ["Free"],
+                  "shippingType": ["Flat"],
                   "shipToLocations": ["Worldwide"],
                   "expeditedShipping": ["false"],
                   "oneDayShippingAvailable": ["false"],
@@ -3828,21 +167,21 @@
               "sellingStatus": [
                 {
                   "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "2.66" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "2.66" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "sellingState": ["Active"],
-                  "timeLeft": ["P1DT21H49M36S"]
+                  "timeLeft": ["P22DT11H58M41S"]
                 }
               ],
               "listingInfo": [
                 {
-                  "bestOfferEnabled": ["false"],
+                  "bestOfferEnabled": ["true"],
                   "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-01-30T12:56:13.000Z"],
-                  "endTime": ["2024-02-29T12:56:13.000Z"],
+                  "startTime": ["2024-02-21T08:53:12.000Z"],
+                  "endTime": ["2024-03-21T08:53:12.000Z"],
                   "listingType": ["FixedPrice"],
                   "gift": ["false"]
                 }
@@ -3855,124 +194,249 @@
               "topRatedListing": ["false"]
             },
             {
-              "itemId": ["110554578596"],
+              "itemId": ["110554602242"],
               "title": [
-                "Antique Victorian Sapphire Diamond 18K Gold Cluster Ring"
+                "Snoopy Woodstock Hugs Ceramic ornament 1977 New in box"
               ],
               "globalId": ["EBAY-US"],
               "primaryCategory": [
-                { "categoryId": ["261994"], "categoryName": ["Rings"] }
+                {
+                  "categoryId": ["261055"],
+                  "categoryName": ["Figures & Statues"]
+                }
               ],
-              "galleryURL": [""],
+              "galleryURL": [
+                "https://i.ebayimg.sandbox.ebay.com/images/g/Op8AAOSw2H1eDhOX/s-l140.jpg"
+              ],
               "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Antique-Victorian-Sapphire-Diamond-18K-Gold-Cluster-Ring-/110554578596"
+                "https://cgi.sandbox.ebay.com/Snoopy-Woodstock-Hugs-Ceramic-ornament-1977-New-box-/110554602242"
               ],
               "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
+              "location": ["USA"],
               "country": ["US"],
               "shippingInfo": [
                 {
                   "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
+                    { "@currencyId": "USD", "__value__": "3.99" }
                   ],
-                  "shippingType": ["Free"],
+                  "shippingType": ["Flat"],
                   "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
+                  "expeditedShipping": ["false"],
                   "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
+                  "handlingTime": ["3"]
                 }
               ],
               "sellingStatus": [
                 {
                   "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "7500.0" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "7500.0" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "sellingState": ["Active"],
-                  "timeLeft": ["P2DT14H18M33S"]
+                  "timeLeft": ["P20DT11H39M14S"]
                 }
               ],
               "listingInfo": [
                 {
-                  "bestOfferEnabled": ["false"],
+                  "bestOfferEnabled": ["true"],
                   "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-01T05:25:10.000Z"],
-                  "endTime": ["2024-03-01T05:25:10.000Z"],
+                  "startTime": ["2024-02-19T08:33:45.000Z"],
+                  "endTime": ["2024-03-19T08:33:45.000Z"],
                   "listingType": ["FixedPrice"],
                   "gift": ["false"]
                 }
               ],
-              "returnsAccepted": ["true"],
+              "returnsAccepted": ["false"],
               "condition": [
-                {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
-                }
+                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
               ],
               "isMultiVariationListing": ["false"],
               "topRatedListing": ["false"]
             },
             {
-              "itemId": ["110554578666"],
-              "title": ["Belle Epoque Antique Sapphire Diamond Necklace"],
+              "itemId": ["110554602185"],
+              "title": [
+                "Snoopy Woodstock Hugs Ceramic ornament 1977 New in box"
+              ],
               "globalId": ["EBAY-US"],
               "primaryCategory": [
                 {
-                  "categoryId": ["261993"],
-                  "categoryName": ["Necklaces & Pendants"]
+                  "categoryId": ["261055"],
+                  "categoryName": ["Figures & Statues"]
                 }
               ],
-              "galleryURL": [""],
+              "galleryURL": [
+                "https://i.ebayimg.sandbox.ebay.com/images/g/Op8AAOSw2H1eDhOX/s-l140.jpg"
+              ],
               "viewItemURL": [
-                "https://cgi.sandbox.ebay.com/Belle-Epoque-Antique-Sapphire-Diamond-Necklace-/110554578666"
+                "https://cgi.sandbox.ebay.com/Snoopy-Woodstock-Hugs-Ceramic-ornament-1977-New-box-/110554602185"
               ],
               "autoPay": ["false"],
-              "postalCode": ["100**"],
-              "location": ["New York,NY,USA"],
+              "location": ["USA"],
               "country": ["US"],
               "shippingInfo": [
                 {
                   "shippingServiceCost": [
-                    { "@currencyId": "USD", "__value__": "0.0" }
+                    { "@currencyId": "USD", "__value__": "3.99" }
                   ],
-                  "shippingType": ["Free"],
+                  "shippingType": ["Flat"],
                   "shipToLocations": ["Worldwide"],
-                  "expeditedShipping": ["true"],
+                  "expeditedShipping": ["false"],
                   "oneDayShippingAvailable": ["false"],
-                  "handlingTime": ["1"]
+                  "handlingTime": ["3"]
                 }
               ],
               "sellingStatus": [
                 {
                   "currentPrice": [
-                    { "@currencyId": "USD", "__value__": "6300.0" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "convertedCurrentPrice": [
-                    { "@currencyId": "USD", "__value__": "6300.0" }
+                    { "@currencyId": "USD", "__value__": "19.99" }
                   ],
                   "sellingState": ["Active"],
-                  "timeLeft": ["P2DT16H1M49S"]
+                  "timeLeft": ["P20DT10H43M3S"]
                 }
               ],
               "listingInfo": [
                 {
                   "bestOfferEnabled": ["false"],
                   "buyItNowAvailable": ["false"],
-                  "startTime": ["2024-02-01T07:08:26.000Z"],
-                  "endTime": ["2024-03-01T07:08:26.000Z"],
+                  "startTime": ["2024-02-19T07:37:35.000Z"],
+                  "endTime": ["2024-03-19T07:37:35.000Z"],
                   "listingType": ["FixedPrice"],
                   "gift": ["false"]
                 }
               ],
-              "returnsAccepted": ["true"],
+              "returnsAccepted": ["false"],
               "condition": [
+                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
+              ],
+              "isMultiVariationListing": ["false"],
+              "topRatedListing": ["false"]
+            },
+            {
+              "itemId": ["110554602239"],
+              "title": [
+                "Snoopy Woodstock Hugs Ceramic ornament 1977 New in box"
+              ],
+              "globalId": ["EBAY-US"],
+              "primaryCategory": [
                 {
-                  "conditionId": ["3000"],
-                  "conditionDisplayName": ["Pre-owned"]
+                  "categoryId": ["261055"],
+                  "categoryName": ["Figures & Statues"]
                 }
+              ],
+              "galleryURL": [
+                "https://i.ebayimg.sandbox.ebay.com/images/g/Op8AAOSw2H1eDhOX/s-l140.jpg"
+              ],
+              "viewItemURL": [
+                "https://cgi.sandbox.ebay.com/Snoopy-Woodstock-Hugs-Ceramic-ornament-1977-New-box-/110554602239"
+              ],
+              "autoPay": ["false"],
+              "location": ["USA"],
+              "country": ["US"],
+              "shippingInfo": [
+                {
+                  "shippingServiceCost": [
+                    { "@currencyId": "USD", "__value__": "3.99" }
+                  ],
+                  "shippingType": ["Flat"],
+                  "shipToLocations": ["Worldwide"],
+                  "expeditedShipping": ["false"],
+                  "oneDayShippingAvailable": ["false"],
+                  "handlingTime": ["3"]
+                }
+              ],
+              "sellingStatus": [
+                {
+                  "currentPrice": [
+                    { "@currencyId": "USD", "__value__": "19.99" }
+                  ],
+                  "convertedCurrentPrice": [
+                    { "@currencyId": "USD", "__value__": "19.99" }
+                  ],
+                  "sellingState": ["Active"],
+                  "timeLeft": ["P20DT11H37M59S"]
+                }
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": ["false"],
+                  "buyItNowAvailable": ["false"],
+                  "startTime": ["2024-02-19T08:32:31.000Z"],
+                  "endTime": ["2024-03-19T08:32:31.000Z"],
+                  "listingType": ["FixedPrice"],
+                  "gift": ["false"]
+                }
+              ],
+              "returnsAccepted": ["false"],
+              "condition": [
+                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
+              ],
+              "isMultiVariationListing": ["false"],
+              "topRatedListing": ["false"]
+            },
+            {
+              "itemId": ["110554585168"],
+              "title": [
+                "Snoopy Woodstock Hugs Ceramic ornament 1977 New in box"
+              ],
+              "globalId": ["EBAY-US"],
+              "primaryCategory": [
+                {
+                  "categoryId": ["261055"],
+                  "categoryName": ["Figures & Statues"]
+                }
+              ],
+              "galleryURL": [
+                "https://i.ebayimg.sandbox.ebay.com/images/g/Op8AAOSw2H1eDhOX/s-l140.jpg"
+              ],
+              "viewItemURL": [
+                "https://cgi.sandbox.ebay.com/Snoopy-Woodstock-Hugs-Ceramic-ornament-1977-New-box-/110554585168"
+              ],
+              "autoPay": ["false"],
+              "location": ["USA"],
+              "country": ["US"],
+              "shippingInfo": [
+                {
+                  "shippingServiceCost": [
+                    { "@currencyId": "USD", "__value__": "3.99" }
+                  ],
+                  "shippingType": ["Flat"],
+                  "shipToLocations": ["Worldwide"],
+                  "expeditedShipping": ["false"],
+                  "oneDayShippingAvailable": ["false"],
+                  "handlingTime": ["3"]
+                }
+              ],
+              "sellingStatus": [
+                {
+                  "currentPrice": [
+                    { "@currencyId": "USD", "__value__": "19.99" }
+                  ],
+                  "convertedCurrentPrice": [
+                    { "@currencyId": "USD", "__value__": "19.99" }
+                  ],
+                  "sellingState": ["Active"],
+                  "timeLeft": ["P6DT10H13M44S"]
+                }
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": ["true"],
+                  "buyItNowAvailable": ["false"],
+                  "startTime": ["2024-02-05T07:08:16.000Z"],
+                  "endTime": ["2024-03-05T07:08:16.000Z"],
+                  "listingType": ["FixedPrice"],
+                  "gift": ["false"]
+                }
+              ],
+              "returnsAccepted": ["false"],
+              "condition": [
+                { "conditionId": ["1000"], "conditionDisplayName": ["New"] }
               ],
               "isMultiVariationListing": ["false"],
               "topRatedListing": ["false"]
@@ -3985,11 +449,11 @@
           "pageNumber": ["1"],
           "entriesPerPage": ["100"],
           "totalPages": ["1"],
-          "totalEntries": ["96"]
+          "totalEntries": ["7"]
         }
       ],
       "itemSearchURL": [
-        "https://shop.sandbox.ebay.com/i.html?_nkw=antique&_ddo=1&_ipg=100&_pgn=1"
+        "https://shop.sandbox.ebay.com/i.html?_nkw=ceramic&_ddo=1&_ipg=100&_pgn=1"
       ]
     }
   ]

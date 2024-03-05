@@ -1,0 +1,1069 @@
+[
+    {
+        "ID": "1D8",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Flower pot",
+            "maker": "Kohler Pottery 1865-1915 Pensacola, Florida",
+            "materials": [],
+            "renderer": "Annie B. Johnston",
+            "owner": "(1937) Florida State Museum, Gainesville, Fla",
+            "code": "Fla-Cer-34"
+        }
+    },
+    {
+        "ID": "2B12",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jar",
+            "maker": "Burr Frost 1847 Missouri",
+            "materials": [],
+            "renderer": "Clyde L. Cheney",
+            "owner": "(1937) Judy Lund, Salt Lake City, Utah",
+            "code": "Utah-Cer-3"
+        }
+    },
+    {
+        "ID": "3A6",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jar with cover",
+            "maker": "early 19th c Long Island, New York State",
+            "materials": [],
+            "renderer": "Alvin Shiren",
+            "owner": "(1939) Metropolitan Museum of Art, New York City, NY",
+            "code": "NYC-Cer-51"
+        }
+    },
+    {
+        "ID": "3E5",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jar",
+            "maker": "Pennsylvania",
+            "materials": [],
+            "renderer": "Yolande Delasser",
+            "owner": "(1938) Alfred B. Maclay, New York City, NY",
+            "code": "NYC-Cer-68"
+        }
+    },
+    {
+        "ID": "4C12",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jar",
+            "maker": "John Eardley 186O\u2019s St. George, Utah",
+            "materials": [],
+            "renderer": "Clyde L. Cheney",
+            "owner": "Miss Fern Seegmiller, St. George, Utah",
+            "code": "Utah-Cer-22"
+        }
+    },
+    {
+        "ID": "5A3",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Bell late 18th c Strasburg, Virginia",
+            "materials": [],
+            "renderer": "Hugh Ryan",
+            "owner": "(1940) Mrs Bess H. Muller, Chester County, Pa",
+            "code": "Del-Cer-29"
+        }
+    },
+    {
+        "ID": "5A12",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jug",
+            "maker": "T. Grim 1866-70 Strasburg, Virginia",
+            "materials": [],
+            "renderer": "Willoughby Ions",
+            "owner": "(1936) R.N. Ions, Fairfax, Va",
+            "code": "Va-Cer-l"
+        }
+    },
+    {
+        "ID": "5C2",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jug: front shaped as face",
+            "maker": "early 19th c",
+            "materials": [],
+            "renderer": "Alfred Parys",
+            "owner": "(1939) W.W. Williams, New Haven, Ct",
+            "code": "Conn-Cer-76"
+        }
+    },
+    {
+        "ID": "5E9",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Jug",
+            "maker": "Central America",
+            "materials": [],
+            "renderer": "Michael J. Miceli",
+            "owner": "(1937) Camden County Historical Society, Camden, NJ",
+            "code": "NJ-Cer-88"
+        }
+    },
+    {
+        "ID": "6A9",
+        "type": "earthenware",
+        "metadata": {
+            "name": "Cheese pot",
+            "maker": "late 18th c",
+            "materials": [],
+            "renderer": "Frank Fumagalli",
+            "owner": "(1938) New York Historical Society, New York City, NY",
+            "code": "NYC-Cer-45"
+        }
+    },
+    {
+        "ID": "6D3",
+        "type": "majolica",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": null,
+            "materials": [],
+            "renderer": "Della Button",
+            "owner": null,
+            "code": "No class #"
+        }
+    },
+    {
+        "ID": "6D4",
+        "type": "majolica",
+        "metadata": {
+            "name": "Apple butter jar",
+            "maker": "before 1820 Lebanon, Pennsylvania",
+            "materials": [],
+            "renderer": "Harry Mann Waddell",
+            "owner": "(1937) Dora B. Talaferro, San Diego, Ca",
+            "code": "So Cal-Cer-15a"
+        }
+    },
+    {
+        "ID": "6D5",
+        "type": "majolica",
+        "metadata": {
+            "name": "Dog pitcher",
+            "maker": "Griffin, Smith and Hill, c. 1860 Phoenixville, Pennsylvania",
+            "materials": [],
+            "renderer": "Ernest A. Towers",
+            "owner": "(1938) Theodore H. Buckalew, Wilmington, Del",
+            "code": "Del-Cer-23"
+        }
+    },
+    {
+        "ID": "6D6",
+        "type": "majolica",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Griffin, Smith and Hill c. 1880-90 Phoenixville, Pennsylvania",
+            "materials": [],
+            "renderer": "Ernest A. Towers",
+            "owner": "(1938) Theodore H. Buckalew, Wilmington, Del",
+            "code": "Del-Cer-24"
+        }
+    },
+    {
+        "ID": "6D7",
+        "type": "majolica",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Griffin, Smith and Hill c. 1880-90 Phoenixville, Pennsylvania",
+            "materials": [],
+            "renderer": "Amos Brinton",
+            "owner": "(1938) Mrs T.H. Buckalew, Wilmington, Del",
+            "code": "Del-Cer-26"
+        }
+    },
+    {
+        "ID": "6D8",
+        "type": "majolica",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Preston Moore c. 1820 Wilmington, Delaware",
+            "materials": [],
+            "renderer": "Edward Loper",
+            "owner": "(1940) Mrs Mary Cabali, Wilmington, Del",
+            "code": "Del-Cer-30"
+        }
+    },
+    {
+        "ID": "6D9",
+        "type": "majolica",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "c. 1885",
+            "materials": [
+                "Crockery"
+            ],
+            "renderer": "Doris Hollingsworth",
+            "owner": "(1940) Sioux City Museum, Sioux City, Iowa",
+            "code": "Iowa-Ccr-33"
+        }
+    },
+    {
+        "ID": "6D10",
+        "type": "majolica",
+        "metadata": {
+            "name": "Water pitcher",
+            "maker": "1850 Wellsville, Ohio",
+            "materials": [],
+            "renderer": "Al Curry",
+            "owner": "(1938) Louisiana State Museum, La",
+            "code": "La-Cer-3"
+        }
+    },
+    {
+        "ID": "6D11",
+        "type": "majolica",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Pennsylvania",
+            "materials": [],
+            "renderer": "Carl Buergerniss",
+            "owner": "(1940) Mrs Alva Walton, NJ",
+            "code": "NJ-Ccr-114"
+        }
+    },
+    {
+        "ID": "6D12",
+        "type": "majolica",
+        "metadata": {
+            "name": "Plate",
+            "maker": null,
+            "materials": [],
+            "renderer": "Dorothy Posten",
+            "owner": "(1936) Mrs William Gibson, Crafton, Pa",
+            "code": "Pa-Ccr-425"
+        }
+    },
+    {
+        "ID": "6E2",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Plates",
+            "maker": "Benjamin Tucker 1832-38 Philadelphia, Pennsylvania",
+            "materials": [],
+            "renderer": "Cora Parker",
+            "owner": "(1938) Cora Parker, Coral Gables, Fla",
+            "code": "Fla-Cer-46"
+        }
+    },
+    {
+        "ID": "6E3",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Mug",
+            "maker": "1848 New England",
+            "materials": [],
+            "renderer": "Robert Scheurer",
+            "owner": "(1937) Mr and Mrs W.H. Richardson, Jersey City, NJ",
+            "code": "NJ-Cer-9"
+        }
+    },
+    {
+        "ID": "6E4",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Bowl",
+            "maker": "c. 1800",
+            "materials": [],
+            "renderer": "Henry Marsh",
+            "owner": null,
+            "code": "NJ-Cer-34"
+        }
+    },
+    {
+        "ID": "6E5",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "c. 1850-60",
+            "materials": [
+                "Copper luster"
+            ],
+            "renderer": "Samuel O. Klein",
+            "owner": "(1936) Mrs Gladys Segar, Montclair, NJ",
+            "code": "NJ-Cer-47"
+        }
+    },
+    {
+        "ID": "6E6",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Creamer",
+            "maker": null,
+            "materials": [],
+            "renderer": "Arthur Wegg",
+            "owner": "(1937) Mr and Mrs W.R. Richardson, Jersey City, NJ",
+            "code": "NJ-Cer-133"
+        }
+    },
+    {
+        "ID": "6E7",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Plate",
+            "maker": "Chelsea Ceramic Art Works 1872-89 Chelsea, Massachusetts",
+            "materials": [],
+            "renderer": "J. Howard lams",
+            "owner": "(1936) Mrs Lee Knode, Washington, Pa",
+            "code": "Pa-Cer-148"
+        }
+    },
+    {
+        "ID": "6E8",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": null,
+            "materials": [],
+            "renderer": "Willoughby Ions",
+            "owner": "in Fairfax County, Va",
+            "code": "Va-Cer-7"
+        }
+    },
+    {
+        "ID": "6E9",
+        "type": "lusterware",
+        "metadata": {
+            "name": "Shaving mug",
+            "maker": "1860",
+            "materials": [],
+            "renderer": "Mary Ann Burton",
+            "owner": "(1940) Lily M. Moncure, Richmond, Va",
+            "code": "Va-Ccr-8"
+        }
+    },
+    {
+        "ID": "7A6",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Two handled preserve crock",
+            "maker": "Swan and States 1800-30 Stonington, Connecticut",
+            "materials": [],
+            "renderer": "Jerome Hoxie",
+            "owner": "(1936) Dr C.P. Williams, Stonington, Ct",
+            "code": "Conn-Cer-St-11"
+        }
+    },
+    {
+        "ID": "9C3",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Jar: detail",
+            "maker": "possibly William A. Macquoid and Company 1864-76 New York City, New York State",
+            "materials": [],
+            "renderer": "Yolande Delasser",
+            "owner": "(1937) Israel Putnam, The Cobweb Shop, Brooklyn, NY",
+            "code": "NYC-Cer-St-l00d"
+        }
+    },
+    {
+        "ID": "9D7",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Crock",
+            "maker": "C. Crolius c. 1800 Manhattan Wells, New York State",
+            "materials": [],
+            "renderer": "Yolande Delasser",
+            "owner": "(1936) Elie Nadelman, Museum of Folk Arts, New York City, NY",
+            "code": "NYC-Cer-St-174d"
+        }
+    },
+    {
+        "ID": "10A4",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Jar",
+            "maker": "C. Crolius 1815-48 New York City, New York State",
+            "materials": [],
+            "renderer": "John Tarantino",
+            "owner": "(1940) Walter H. Powers, New York City, NY",
+            "code": "NYC-Cer-St-300"
+        }
+    },
+    {
+        "ID": "10A5",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Jar",
+            "maker": "C. Crolius 1799 New York City, New York State",
+            "materials": [],
+            "renderer": "John Garay",
+            "owner": "(1940) New York Historical Society, New York City, NY",
+            "code": "NYC-Ccr-St-301"
+        }
+    },
+    {
+        "ID": "11BI0",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Jar",
+            "maker": "Reidinger and Caire c. 1856 Poughkeepsie, New York State",
+            "materials": [],
+            "renderer": "Charles Caseau",
+            "owner": "( 1937) New York Historical Society, New York City, NY",
+            "code": "NYC-Cer-St-125c"
+        }
+    },
+    {
+        "ID": "11E12",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Jug",
+            "maker": "N. White 1828-48 Utica, New York State",
+            "materials": [],
+            "renderer": "George Loughridge",
+            "owner": "(1939) Katharine Willis Antiques, Flushing, Long Island, NY",
+            "code": "NYC-Cer-St-252"
+        }
+    },
+    {
+        "ID": "12A4",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Crock",
+            "maker": "J. Sanger and Company New York State",
+            "materials": [],
+            "renderer": "George Loughridge",
+            "owner": "(1939) Mrs Stay, Brooklyn, NY",
+            "code": "NYC-Cer-St-267"
+        }
+    },
+    {
+        "ID": "I2A7",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Crock",
+            "maker": "Riedinger and Caire 1856-78 Poughkeepsie, New York State",
+            "materials": [],
+            "renderer": "Nicholas Amantea",
+            "owner": "(1939) Mrs Ida Stay, Brooklyn, NY",
+            "code": "NYC-Cer-St-278"
+        }
+    },
+    {
+        "ID": "12C9",
+        "type": "stoneware",
+        "metadata": {
+            "name": "Wine flask",
+            "maker": "Oliver Dubois 1821 Zanesville, Ohio",
+            "materials": [],
+            "renderer": "Yolande Delasser",
+            "owner": "(1936) Elie Nadelman Collection, New York Historical Society, New York City, NY",
+            "code": "NYC-Cer-St-164"
+        }
+    },
+    {
+        "ID": "16A7",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Platter",
+            "maker": "Glascow Pottery c. 1875 Trenton, New Jersey",
+            "materials": [],
+            "renderer": "Joseph Sudek",
+            "owner": "(1937) Passaic County Historical Society, Paterson, NJ",
+            "code": "NJ-Cer-72"
+        }
+    },
+    {
+        "ID": "16A8",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Platter",
+            "maker": "Crescent Pottery 19th c Trenton, New Jersey",
+            "materials": [],
+            "renderer": "Joseph Sudek",
+            "owner": "(1937) Joseph Sudek, East Paterson, NJ",
+            "code": "NJ-Cer-82"
+        }
+    },
+    {
+        "ID": "16A9",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Ott and Brewer 19th c Trenton, New Jersey",
+            "materials": [],
+            "renderer": "Joseph Sudek",
+            "owner": "(1937) Joseph Sudek, East Paterson, NJ",
+            "code": "NJ-Ccr-87"
+        }
+    },
+    {
+        "ID": "16A10",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Soup tureen",
+            "maker": "Willets Manufacturing Company 19th c Trenton, New Jersey",
+            "materials": [],
+            "renderer": "Joseph Sudek",
+            "owner": "(1937) Joseph Sudek, East Paterson, NJ",
+            "code": "NJ-Ccr-89"
+        }
+    },
+    {
+        "ID": "16B6",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Empire Pottery c. 1884 Trenton, New Jersey",
+            "materials": [],
+            "renderer": "Roberta Spicer",
+            "owner": "(1939) James McCreery, Brooklyn, NY",
+            "code": "NYC-Cer-13"
+        }
+    },
+    {
+        "ID": "16B7",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Mug",
+            "maker": "late 19th c",
+            "materials": [
+                "\u201c16-B-8\""
+            ],
+            "renderer": "Roberta Spicer",
+            "owner": "(1939) James McCreery, Brooklyn, NY",
+            "code": "NYC-Cer-25"
+        }
+    },
+    {
+        "ID": "16B8",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Bowl and pitcher",
+            "maker": "United States Pottery 1853-58 Bennington, Vermont",
+            "materials": [],
+            "renderer": "Frank Fumagalli",
+            "owner": "(1937) Elie Nadelman, Museum of Folk Arts, New York City, NY",
+            "code": "NYC-Cer-38a"
+        }
+    },
+    {
+        "ID": "16B10",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Compote",
+            "maker": "1850-1900",
+            "materials": [],
+            "renderer": "Bena Mayer",
+            "owner": "(1939) James McCreery, Brooklyn, NY",
+            "code": "NYC-Cer-102"
+        }
+    },
+    {
+        "ID": "16C4",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Plate",
+            "maker": "Pennsylvania Germans after 1830",
+            "materials": [],
+            "renderer": "Albert Eyth",
+            "owner": "(1936) Bessie Mollard, Harmony, Pa",
+            "code": "Pa-Cer-183"
+        }
+    },
+    {
+        "ID": "16C5",
+        "type": "ironstone",
+        "metadata": {
+            "name": "Bowl",
+            "maker": null,
+            "materials": [],
+            "renderer": "J. Howard Iams",
+            "owner": "(1937) Mrs Lee Knode, Washington, Pa",
+            "code": "Pa-Cer-233"
+        }
+    },
+    {
+        "ID": "16C11",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Felix Hodt 1793 Connecticut or Rhode Island",
+            "materials": [],
+            "renderer": "Barnes",
+            "owner": "(1936) Ethnology Museum, Washington, DC",
+            "code": "DC-Cer-12a"
+        }
+    },
+    {
+        "ID": "16D6",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Mug",
+            "maker": "c. 1889 probably New Jersey",
+            "materials": [],
+            "renderer": "Samuel O. Klein",
+            "owner": "(1936) Florence Stevenson, East Orange, NJ",
+            "code": "NJ-Cer-36"
+        }
+    },
+    {
+        "ID": "16D8",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "Bridgwood and Son 1892 Trenton, New Jersey",
+            "materials": [],
+            "renderer": "Joseph Sudek",
+            "owner": "(1936) Passaic County Historical Society, Paterson, NJ",
+            "code": "NJ-Cer-54"
+        }
+    },
+    {
+        "ID": "17A5",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Vase",
+            "maker": "c, 1870 New York City, New York State",
+            "materials": [],
+            "renderer": "Josephine Lindley",
+            "owner": "(1937) Mrs Austin E. Allen, West Palm Beach, Fla",
+            "code": "Fla-Cer-l"
+        }
+    },
+    {
+        "ID": "17A12",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Tie back",
+            "maker": "William H. Bloor, 1860 East Liverpool, Ohio",
+            "materials": [],
+            "renderer": "Richard Barnett",
+            "owner": "(1938) American Ceramic Society, Columbus Ohio",
+            "code": "Ohio-Cer-25"
+        }
+    },
+    {
+        "ID": "17C12",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Vase",
+            "maker": "c. 1871 purchased in Midway, Utah",
+            "materials": [],
+            "renderer": "Gerald Transpota",
+            "owner": "(1937) Jane G. Corless, Los Angeles, Ca",
+            "code": "So Cal-Cer-17"
+        }
+    },
+    {
+        "ID": "17E3",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Pitcher",
+            "maker": "1856-60 near Lynchburg, Virginia",
+            "materials": [],
+            "renderer": "Mrs M.M. Jones",
+            "owner": "(1942) Mrs M.M. Jones, Richmond, Va",
+            "code": "Va-Cer-5"
+        }
+    },
+    {
+        "ID": "17E8",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Saucer",
+            "maker": "1816",
+            "materials": [],
+            "renderer": "Irene M. Burge",
+            "owner": "(1937) Mrs George Daniels, Pasadena, Ca",
+            "code": "So Cal-Cer-6"
+        }
+    },
+    {
+        "ID": "18A8",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Plate",
+            "maker": "1826 Staffordshire, England",
+            "materials": [],
+            "renderer": "William Kerby",
+            "owner": "(1936) Grand Rapids Art Gallery, Grand Rapids, Mi",
+            "code": "Mich-Cer-16b"
+        }
+    },
+    {
+        "ID": "18D9",
+        "type": "porcelain",
+        "metadata": {
+            "name": "Plate",
+            "maker": "c. 1840 England",
+            "materials": [],
+            "renderer": "Byron A. Dingman",
+            "owner": "(1938) Mrs Smoots, Allison Park, Pa",
+            "code": "Pa-Cer-395"
+        }
+    },
+    {
+        "ID": "18E2",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Tile: view of New Amsterdam",
+            "maker": "1636",
+            "materials": [],
+            "renderer": "A. Zimet",
+            "owner": "New York Historical Society, New York City, NY",
+            "code": "NYC-no class #"
+        }
+    },
+    {
+        "ID": "18E3",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Ornament",
+            "maker": "c. 1860 Connecticut",
+            "materials": [
+                "Pottery"
+            ],
+            "renderer": "Dana Bartlett",
+            "owner": "(1937) A.B. Wheeler, Los Angeles, Ca",
+            "code": "So Cal-Cer-4"
+        }
+    },
+    {
+        "ID": "18E4",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Tile drain",
+            "maker": "Kohler Pottery 1868-1915 Pensacola. Florida",
+            "materials": [],
+            "renderer": "Annie B. Johnston",
+            "owner": "(1937) Florida State Museum. Gainesville. Fla",
+            "code": "Fla-Ccr-37"
+        }
+    },
+    {
+        "ID": "18E5",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Floor tile",
+            "maker": "M.A.W. and Company and Brosley, Salop 1756 (from The Isaac Drake House Washington Headquarters)",
+            "materials": [],
+            "renderer": "W.VI- Jennings",
+            "owner": "(1936) Original Drake House Washington, DC",
+            "code": "NJ-Cer-3"
+        }
+    },
+    {
+        "ID": "18E6",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Tiles",
+            "maker": "Zoar Pottery 1818-98 Zoar, Ohio",
+            "materials": [],
+            "renderer": "Angelo Bulone",
+            "owner": "(1938) Zoar Museum, Zoar, Ohio",
+            "code": "Ohio-Cer-49"
+        }
+    },
+    {
+        "ID": "18E7",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Fireplace",
+            "maker": "Baron Stiegel late 18th c",
+            "materials": [],
+            "renderer": "John Dixon",
+            "owner": "(1936) Historical Society of Pennsylvania, Philadelphia, Pa",
+            "code": "Pa-Cer-59a"
+        }
+    },
+    {
+        "ID": "18E8",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Fireplace tiles",
+            "maker": "Baron Stiegel late 18th c",
+            "materials": [],
+            "renderer": "John Dixon",
+            "owner": "(1936) Historical Society of Pennsylvania, Philadelphia, Pa",
+            "code": "Pa-Cer-59b"
+        }
+    },
+    {
+        "ID": "18E9",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Fireplace",
+            "maker": "Baron Stiegel late 18th c",
+            "materials": [],
+            "renderer": "John Dixon",
+            "owner": "(1936) Historical Society of Pennsylvania, Philadelphia, Pa",
+            "code": "Pa-Cer-59c"
+        }
+    },
+    {
+        "ID": "18EI0",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Tiles",
+            "maker": "Baron Stiegel late 18th c",
+            "materials": [],
+            "renderer": "John Dixon",
+            "owner": "(1936) Historical Society of Pennsylvania, Philadelphia, Pa",
+            "code": "Pa-Mscl-4a"
+        }
+    },
+    {
+        "ID": "18E11",
+        "type": "tilesandplaques",
+        "metadata": {
+            "name": "Fireplace tile",
+            "maker": "Baron Stiegel late 18th c",
+            "materials": [],
+            "renderer": "John Dixon",
+            "owner": "(1936) Historical Society of Pennsylvania, Philadelphia\u2019 Pa",
+            "code": "Pa-Mscl-4b"
+        }
+    },
+    {
+        "ID": "19A3",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Lion",
+            "maker": "John Sanders, Connecticut dated on back: 1817 or 1877",
+            "materials": [],
+            "renderer": "John Matulis",
+            "owner": "(1937) Wadsworth Atheneum, Hartford, Ct",
+            "code": "Conn-Cer-38"
+        }
+    },
+    {
+        "ID": "19A4",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Potpourri jar",
+            "maker": "Winkle Terra Cotta Company c. 1890 St Louis, Mo",
+            "materials": [
+                "lll-Cer-28"
+            ],
+            "renderer": "Adolph Opstad",
+            "owner": "(1941) Paul Joseph, Chicago, 111",
+            "code": null
+        }
+    },
+    {
+        "ID": "19A6",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Statuette",
+            "maker": "1899 Bedford, Ohio",
+            "materials": [],
+            "renderer": "Ralph Atkinson",
+            "owner": "(1937) Mrs D. Zeber, Bellevue, Pa",
+            "code": "Pa-Cer-282"
+        }
+    },
+    {
+        "ID": "19A9",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Squirrel statuette",
+            "maker": "early 19th c Pennsylvania",
+            "materials": [],
+            "renderer": "Yolande Delasser",
+            "owner": "(1937) Elie Nadelman, Museum of Folk Arts, New York City, NY",
+            "code": "NYC-Cer-no class #"
+        }
+    },
+    {
+        "ID": "19A11",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Statuette",
+            "maker": "19 th c Pennsylvania",
+            "materials": [],
+            "renderer": "Frank Fumagalli",
+            "owner": "(1937) Elie Nadelman Collection, New York City, NY",
+            "code": "NYC-Cer-41"
+        }
+    },
+    {
+        "ID": "19B3",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Ceramic coach dog",
+            "maker": "Gallatin Works c. 1804 Greensboro, Pennsylvania",
+            "materials": [],
+            "renderer": "George Yanosko",
+            "owner": "(1940) Miss P. Abraham, Smithfield, Pa",
+            "code": "Pa-Cer-177a"
+        }
+    },
+    {
+        "ID": "19B4",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Lion and ball figurine",
+            "maker": "United States Pottery 1853 Bennington, Vermont Rockingham flint; enamelled",
+            "materials": [],
+            "renderer": "Ella Josephine Sterling",
+            "owner": "(1936) Major Gist Blair, Washington, DC",
+            "code": "DC-Cer-7"
+        }
+    },
+    {
+        "ID": "19B5",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Ceramic dog",
+            "maker": "United States Pottery 1849-58 Bennington, Vermont",
+            "materials": [],
+            "renderer": "Marian Curtiss",
+            "owner": "(1936) Metropolitan Museum of Art, New York City, NY",
+            "code": "NYC-Cer-19"
+        }
+    },
+    {
+        "ID": "19B6",
+        "type": "ceramicfigures",
+        "metadata": {
+            "Soft paste pottery": "flint enamel glaze",
+            "name": "Ceramic stag",
+            "maker": "United States Pottery c. 1850 Bennington, Vermont",
+            "materials": [],
+            "renderer": "Charles Caseau",
+            "owner": "(1937) Alfred B. Maclay, New York City, NY",
+            "code": "NYC-Cer-96"
+        }
+    },
+    {
+        "ID": "19B11",
+        "type": "ceramicfigures",
+        "metadata": {
+            "name": "Statuette M: c. 1830-40",
+            "maker": null,
+            "materials": [],
+            "renderer": "Yolande Delasser",
+            "owner": "(1939) George S. McKearin, Hoosick Falls, NY",
+            "code": "NYC-Cer-St-261b"
+        }
+    },
+    {
+        "ID": "19C10",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Dove: plaster-of-Paris bank",
+            "maker": "c. 1860 New Jersey Plaster-of-Paris cast in the round; painted",
+            "materials": [],
+            "renderer": "Elisabeth Fulda",
+            "owner": "(1937) Bruce Buttfield, New York City, NY",
+            "code": "NYC-Mscl-Vic-1"
+        }
+    },
+    {
+        "ID": "19C12",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Pigeon bank",
+            "maker": "19th c Pennsylvania",
+            "materials": [],
+            "renderer": "Emanuel Jacobson",
+            "owner": "(1938) Mrs B.F. Ramsdell, Geneva, Ill",
+            "code": "Ill-Ca-39"
+        }
+    },
+    {
+        "ID": "19D1",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Deer figurine",
+            "maker": "early 19th c Pennsylvania",
+            "materials": [],
+            "renderer": "Milton Bevier",
+            "owner": "(1939) Mrs James Cady Ewell, Highland Park, Ill",
+            "code": "Ill-Ca-47"
+        }
+    },
+    {
+        "ID": "19D3",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Portrait bust",
+            "maker": "19th c Pennsylvania",
+            "materials": [],
+            "renderer": "Mina Lowry",
+            "owner": "(1936) Mrs J.D. Rockefeller, New York City, NY",
+            "code": "NYC-Mscl-Ch-7"
+        }
+    },
+    {
+        "ID": "19D7",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Figurine: \u2018Queen Victoria, Empress of India\u2019",
+            "maker": "19th c Pennsylvania",
+            "materials": [],
+            "renderer": "Mina Lowry",
+            "owner": "(1936) American Folk Art Gallery, New York City, NY",
+            "code": "NYC-Mscl-Ch-37"
+        }
+    },
+    {
+        "ID": "19D12",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Chalkware rooster",
+            "maker": "c. 1860 probably York County, Pennsylvania",
+            "materials": [],
+            "renderer": "Elmer R. Kottcamp",
+            "owner": "(1940) Mrs W.H. Wierman, York, Pa",
+            "code": "Pa-Mscl-304"
+        }
+    },
+    {
+        "ID": "19E12",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Church",
+            "maker": "19th c",
+            "materials": [],
+            "renderer": "Mina Lowry",
+            "owner": "(1938) American Folk Art Gallery, New York City, NY",
+            "code": "NYC-Mscl-Ch-12"
+        }
+    },
+    {
+        "ID": "20A2",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Prince Charles spaniel figurine",
+            "maker": "mid 19th c",
+            "materials": [],
+            "renderer": "Mina Lowry",
+            "owner": "(1938) Miss Elena Wade Jack, New York City, NY",
+            "code": "NYC-Mscl-Ch-13"
+        }
+    },
+    {
+        "ID": "20A8",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Figure",
+            "maker": "late 19th c",
+            "materials": [],
+            "renderer": "Mina Lowry",
+            "owner": "(1939) Miss Elena Wade Jack, New York City, NY",
+            "code": "NYC-Mscl-Ch-47"
+        }
+    },
+    {
+        "ID": "20A9",
+        "type": "chalkware",
+        "metadata": {
+            "name": "Figurine",
+            "maker": "mid 19th c",
+            "materials": [],
+            "renderer": "Mina Lowry",
+            "owner": "(1940) Miss Elena Wade Jack, New York City, NY",
+            "code": "NYC-Mscl-Ch-49"
+        }
+    }
+]
