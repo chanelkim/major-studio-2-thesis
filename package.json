@@ -7,7 +7,8 @@
     "node-cooperhewitt": "^0.0.2",
     "querystring-browser": "^1.0.4",
     "traverson": "^8.0.3",
-    "traverson-hal": "^8.1.1"
+    "traverson-hal": "^8.1.1",
+    "xml-js": "^1.6.11"
   },
   "name": "bundler",
   "description": "## Initial Form",
