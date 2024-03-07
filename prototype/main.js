@@ -32,13 +32,30 @@ d3.json("/data/combined_data.json")
   });
 
 // ----------- FUNCTIONS -----------
-// Function to find matching items based on specific properties
+// // Function to find matching items based on specific properties (renderer, attribution)
+// function findMatchingItems(json1, json2, prop1, prop2) {
+//   const matches = [];
+//   for (let item1 of json1) {
+//     for (let item2 of json2) {
+//       // Comparing values of specified properties
+//       if (item1.metadata[prop1] === item2[prop2]) {
+//         matches.push({ item1, item2 });
+//       }
+//     }
+//   }
+//   return matches;
+// }
+
+// Function to find matching items based on specific properties (renderer, attribution AND title)
 function findMatchingItems(json1, json2, prop1, prop2) {
   const matches = [];
   for (let item1 of json1) {
     for (let item2 of json2) {
       // Comparing values of specified properties
-      if (item1.metadata[prop1] === item2[prop2]) {
+      if (
+        item1.metadata[prop1] === item2[prop2] &&
+        item1.metadata.name === item2.title
+      ) {
         matches.push({ item1, item2 });
       }
     }
@@ -64,13 +81,21 @@ function displayMatchingImages(matchingItems) {
 
   card
     .append("p")
-    .attr("class", "renderer")
-    .text((d) => d.item1.metadata.renderer);
+    .attr("class", "cat-info")
+    // .text((d) => d.item1.metadata.renderer);
+    .text((d) => {
+      return `title: ${d.item1.metadata.name}; materials: ${d.item1.metadata.materials}; owner: ${d.item1.metadata.owner};  maker: ${d.item1.metadata.maker}; artist: ${d.item1.metadata.renderer})`;
+    });
 
   card
     .append("h3")
-    .attr("class", "attribution")
-    .text((d) => d.item2.attribution);
+    .attr("class", "cat-type")
+    .text((d) => "cat type: " + d.item1.type);
+
+  card
+    .append("p")
+    .attr("class", "nga")
+    .text((d) => "nga info: " + d.item2.attribution + ", " + d.item2.title);
 
   // create a div with a class of "image" and populate it with an <img/> tag that contains our filepath
   card
