@@ -1,0 +1,249 @@
+{
+  "categorySuggestions": [
+    {
+      "category": {
+        "categoryId": "103433",
+        "categoryName": "Butter Dishes"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "36027",
+          "categoryName": "Dinnerware & Serveware",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=36027"
+        },
+        {
+          "categoryId": "20625",
+          "categoryName": "Kitchen, Dining & Bar",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20625"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "21104",
+        "categoryName": "Jam, Jelly & Peanut Butter"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13587",
+          "categoryName": "Food & Beverage",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13587"
+        },
+        {
+          "categoryId": "34",
+          "categoryName": "Advertising",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=34"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "261688",
+        "categoryName": "Canisters & Jars"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "261686",
+          "categoryName": "Kitchen Storage & Organization",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=261686"
+        },
+        {
+          "categoryId": "13905",
+          "categoryName": "Kitchen & Home",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13905"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "165333",
+        "categoryName": "Food, Sauces & Condiments"
+      },
+      "categoryTreeNodeLevel": 5,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13911",
+          "categoryName": "Modern (1900-Now)",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13911"
+        },
+        {
+          "categoryId": "39491",
+          "categoryName": "Bottles",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=39491"
+        },
+        {
+          "categoryId": "29797",
+          "categoryName": "Bottles & Insulators",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=29797"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "262375",
+        "categoryName": "Jars"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "262364",
+          "categoryName": "Decorative Cookware, Dinnerware & Serveware",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=262364"
+        },
+        {
+          "categoryId": "870",
+          "categoryName": "Pottery & Glass",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=870"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "13913",
+        "categoryName": "Jars"
+      },
+      "categoryTreeNodeLevel": 5,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13911",
+          "categoryName": "Modern (1900-Now)",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13911"
+        },
+        {
+          "categoryId": "39491",
+          "categoryName": "Bottles",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=39491"
+        },
+        {
+          "categoryId": "29797",
+          "categoryName": "Bottles & Insulators",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=29797"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "1217",
+        "categoryName": "Primitives"
+      },
+      "categoryTreeNodeLevel": 2,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "20081",
+          "categoryName": "Antiques",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20081"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "892",
+        "categoryName": "Jars"
+      },
+      "categoryTreeNodeLevel": 5,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "889",
+          "categoryName": "Antique (Pre-1900)",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=889"
+        },
+        {
+          "categoryId": "39491",
+          "categoryName": "Bottles",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=39491"
+        },
+        {
+          "categoryId": "29797",
+          "categoryName": "Bottles & Insulators",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=29797"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "113337",
+        "categoryName": "Patches"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "183270",
+          "categoryName": "Embellishments & Finishes",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=183270"
+        },
+        {
+          "categoryId": "160737",
+          "categoryName": "Sewing",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=160737"
+        },
+        {
+          "categoryId": "14339",
+          "categoryName": "Crafts",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=14339"
+        }
+      ]
+    }
+  ],
+  "categoryTreeId": "0",
+  "categoryTreeVersion": "130"
+}

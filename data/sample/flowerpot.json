@@ -1,0 +1,207 @@
+{
+  "categorySuggestions": [
+    {
+      "category": {
+        "categoryId": "20518",
+        "categoryName": "Baskets, Pots, Window Boxes & Saucers"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "179308",
+          "categoryName": "Plant Care, Soil & Accessories",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=179308"
+        },
+        {
+          "categoryId": "159912",
+          "categoryName": "Yard, Garden & Outdoor Living",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=159912"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "260926",
+        "categoryName": "Planters & Vases"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "20498",
+          "categoryName": "Décor",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20498"
+        },
+        {
+          "categoryId": "159912",
+          "categoryName": "Yard, Garden & Outdoor Living",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=159912"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "86916",
+        "categoryName": "Planters"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13777",
+          "categoryName": "Decorative Collectibles",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13777"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "159452",
+        "categoryName": "Seed Starting Pots & Trays"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "179308",
+          "categoryName": "Plant Care, Soil & Accessories",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=179308"
+        },
+        {
+          "categoryId": "159912",
+          "categoryName": "Yard, Garden & Outdoor Living",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=159912"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "4959",
+        "categoryName": "Floral Décor"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "10033",
+          "categoryName": "Home Décor",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=10033"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "37929",
+        "categoryName": "Pots"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "37919",
+          "categoryName": "China",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=37919"
+        },
+        {
+          "categoryId": "20082",
+          "categoryName": "Asian Antiques",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20082"
+        },
+        {
+          "categoryId": "20081",
+          "categoryName": "Antiques",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20081"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "360",
+        "categoryName": "Art Prints"
+      },
+      "categoryTreeNodeLevel": 2,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "550",
+          "categoryName": "Art",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=550"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "10034",
+        "categoryName": "Other Home Décor"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "10033",
+          "categoryName": "Home Décor",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=10033"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "262365",
+        "categoryName": "Other Pottery & Glass"
+      },
+      "categoryTreeNodeLevel": 2,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "870",
+          "categoryName": "Pottery & Glass",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=870"
+        }
+      ]
+    }
+  ],
+  "categoryTreeId": "0",
+  "categoryTreeVersion": "130"
+}

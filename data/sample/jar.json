@@ -1,0 +1,261 @@
+{
+  "categorySuggestions": [
+    {
+      "category": {
+        "categoryId": "13913",
+        "categoryName": "Jars"
+      },
+      "categoryTreeNodeLevel": 5,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13911",
+          "categoryName": "Modern (1900-Now)",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13911"
+        },
+        {
+          "categoryId": "39491",
+          "categoryName": "Bottles",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=39491"
+        },
+        {
+          "categoryId": "29797",
+          "categoryName": "Bottles & Insulators",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=29797"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "20654",
+        "categoryName": "Canisters & Jars"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "20652",
+          "categoryName": "Kitchen Storage & Organization",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20652"
+        },
+        {
+          "categoryId": "20625",
+          "categoryName": "Kitchen, Dining & Bar",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20625"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "892",
+        "categoryName": "Jars"
+      },
+      "categoryTreeNodeLevel": 5,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "889",
+          "categoryName": "Antique (Pre-1900)",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=889"
+        },
+        {
+          "categoryId": "39491",
+          "categoryName": "Bottles",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=39491"
+        },
+        {
+          "categoryId": "29797",
+          "categoryName": "Bottles & Insulators",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=29797"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "261688",
+        "categoryName": "Canisters & Jars"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "261686",
+          "categoryName": "Kitchen Storage & Organization",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=261686"
+        },
+        {
+          "categoryId": "13905",
+          "categoryName": "Kitchen & Home",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13905"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "178052",
+        "categoryName": "Canning Supplies"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "20635",
+          "categoryName": "Kitchen Tools & Gadgets",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20635"
+        },
+        {
+          "categoryId": "20625",
+          "categoryName": "Kitchen, Dining & Bar",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20625"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "29448",
+        "categoryName": "Vases & Jars"
+      },
+      "categoryTreeNodeLevel": 6,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "29443",
+          "categoryName": "Chinese",
+          "categoryTreeNodeLevel": 5,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=29443"
+        },
+        {
+          "categoryId": "13736",
+          "categoryName": "1900-Now",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13736"
+        },
+        {
+          "categoryId": "149362",
+          "categoryName": "Asian",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=149362"
+        },
+        {
+          "categoryId": "3913",
+          "categoryName": "Cultures & Ethnicities",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=3913"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "159807",
+        "categoryName": "Other Makeup Tools & Accs"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "36409",
+          "categoryName": "Makeup Tools & Accessories",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=36409"
+        },
+        {
+          "categoryId": "31786",
+          "categoryName": "Makeup",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=31786"
+        },
+        {
+          "categoryId": "26395",
+          "categoryName": "Health & Beauty",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=26395"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "20696",
+        "categoryName": "Glassware & Drinkware"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "20625",
+          "categoryName": "Kitchen, Dining & Bar",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20625"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "73467",
+        "categoryName": "Other Decorative Collectibles"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13777",
+          "categoryName": "Decorative Collectibles",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13777"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    }
+  ],
+  "categoryTreeId": "0",
+  "categoryTreeVersion": "130"
+}
