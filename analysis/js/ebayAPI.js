@@ -1,7 +1,7 @@
 // // Define your eBay API credentials
-// const DEV_ID = "0c1498a0-5885-4ba1-8ba1-9dccc3453249";
-// const APP_ID = "ChanelKi-Thesis-SBX-6aeae8422-a9c74bfb";
-// const CERT_ID = "SBX-aeae84225e6e-3ac8-4c19-a50a-400f";
+// const DEV_ID = "key";
+// const APP_ID = "key";
+// const CERT_ID = "key";
 
 // // Define the API endpoint for fetching marketplace IDs
 // const endpoint = "https://api.sandbox.ebay.com/ws/api.dll";

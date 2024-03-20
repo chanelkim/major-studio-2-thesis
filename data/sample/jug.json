@@ -1,0 +1,237 @@
+{
+  "categorySuggestions": [
+    {
+      "category": {
+        "categoryId": "261671",
+        "categoryName": "Jugs & Pitchers"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "261667",
+          "categoryName": "Dinnerware & Serveware",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=261667"
+        },
+        {
+          "categoryId": "13905",
+          "categoryName": "Kitchen & Home",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13905"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "262376",
+        "categoryName": "Jugs & Pitchers"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "262364",
+          "categoryName": "Decorative Cookware, Dinnerware & Serveware",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=262364"
+        },
+        {
+          "categoryId": "870",
+          "categoryName": "Pottery & Glass",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=870"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "115729",
+        "categoryName": "Jugs & Pitchers"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "36027",
+          "categoryName": "Dinnerware & Serveware",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=36027"
+        },
+        {
+          "categoryId": "20625",
+          "categoryName": "Kitchen, Dining & Bar",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=20625"
+        },
+        {
+          "categoryId": "11700",
+          "categoryName": "Home & Garden",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=11700"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "35658",
+        "categoryName": "Bottles, Decanters & Jugs"
+      },
+      "categoryTreeNodeLevel": 6,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "35656",
+          "categoryName": "Merchandise & Memorabilia",
+          "categoryTreeNodeLevel": 5,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=35656"
+        },
+        {
+          "categoryId": "820",
+          "categoryName": "Distillery",
+          "categoryTreeNodeLevel": 4,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=820"
+        },
+        {
+          "categoryId": "13587",
+          "categoryName": "Food & Beverage",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13587"
+        },
+        {
+          "categoryId": "34",
+          "categoryName": "Advertising",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=34"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "262408",
+        "categoryName": "Vases"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "262384",
+          "categoryName": "Decorative Pottery & Glassware",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=262384"
+        },
+        {
+          "categoryId": "870",
+          "categoryName": "Pottery & Glass",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=870"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "181408",
+        "categoryName": "Canteens, Bottles & Flasks"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "181405",
+          "categoryName": "Water Bottles & Hydration",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=181405"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=16034"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=888"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "261688",
+        "categoryName": "Canisters & Jars"
+      },
+      "categoryTreeNodeLevel": 4,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "261686",
+          "categoryName": "Kitchen Storage & Organization",
+          "categoryTreeNodeLevel": 3,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=261686"
+        },
+        {
+          "categoryId": "13905",
+          "categoryName": "Kitchen & Home",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13905"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "261628",
+        "categoryName": "Sculptures & Figurines"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "13777",
+          "categoryName": "Decorative Collectibles",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=13777"
+        },
+        {
+          "categoryId": "1",
+          "categoryName": "Collectibles",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "categoryId": "262379",
+        "categoryName": "Plates"
+      },
+      "categoryTreeNodeLevel": 3,
+      "categoryTreeNodeAncestors": [
+        {
+          "categoryId": "262364",
+          "categoryName": "Decorative Cookware, Dinnerware & Serveware",
+          "categoryTreeNodeLevel": 2,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=262364"
+        },
+        {
+          "categoryId": "870",
+          "categoryName": "Pottery & Glass",
+          "categoryTreeNodeLevel": 1,
+          "categorySubtreeNodeHref": "https://api.ebay.com/commerce/taxonomy/v1/category_tree/0/get_category_subtree?category_id=870"
+        }
+      ]
+    }
+  ],
+  "categoryTreeId": "0",
+  "categoryTreeVersion": "130"
+}

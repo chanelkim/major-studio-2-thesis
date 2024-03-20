@@ -2,7 +2,7 @@
 
 async function fetchData() {
   try {
-    const API_KEY = "jaxii9pblf3xrhacm27oi9xx"; // Replace 'YOUR_API_KEY' with your actual Etsy API key
+    const API_KEY = "key"; // Replace 'YOUR_API_KEY' with your actual Etsy API key
 
     const response = await fetch(
       "https://openapi.etsy.com/v2/listings/active",
