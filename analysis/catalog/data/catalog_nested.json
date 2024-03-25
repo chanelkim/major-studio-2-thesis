@@ -1,0 +1,4249 @@
+{
+    "Textiles Costume and Jewelry": {
+        "Textiles": {
+            "Embroidery and Needlework": {
+                "Samplers": {
+                    "Samplers": {
+                        "part": 1,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 1
+                    }
+                },
+                "Embroidered Pictures": {
+                    "Embroidered Pictures": {
+                        "part": 1,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 2
+                    }
+                },
+                "Needlework and Crewel Embroidery": {
+                    "Needlework and Crewel Embroidery": {
+                        "part": 1,
+                        "microfiche-num": [
+                            2,
+                            3,
+                            4
+                        ],
+                        "catalogid": 3
+                    }
+                },
+                "Hooked and Embroidered Rugs": {
+                    "Hooked and Embroidered Rugs": {
+                        "part": 1,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 4
+                    }
+                },
+                "Applique and Pieced Quilts": {
+                    "Applique and Pieced Quilts": {
+                        "part": 1,
+                        "microfiche-num": [
+                            5,
+                            6,
+                            7,
+                            8,
+                            9
+                        ],
+                        "catalogid": 5
+                    }
+                }
+            },
+            "Lace Crocheting Knitting and Knotting": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            9,
+                            10
+                        ],
+                        "catalogid": 6
+                    }
+                }
+            },
+            "Woven Textiles": {
+                "Linen Cotton Wool and Silk": {
+                    "Linen Cotton Wool and Silk": {
+                        "part": 1,
+                        "microfiche-num": [
+                            10,
+                            11
+                        ],
+                        "catalogid": 7
+                    }
+                },
+                "Woven Coverlets - Four Harness": {
+                    "Woven Coverlets - Four Harness": {
+                        "part": 1,
+                        "microfiche-num": [
+                            11,
+                            12
+                        ],
+                        "catalogid": 8
+                    }
+                },
+                "Woven Coverlets - Jacquard": {
+                    "Woven Coverlets - Jacquard": {
+                        "part": 1,
+                        "microfiche-num": [
+                            12,
+                            13,
+                            14
+                        ],
+                        "catalogid": 9
+                    }
+                },
+                "Rugs and Carpets": {
+                    "Rugs and Carpets": {
+                        "part": 1,
+                        "microfiche-num": [
+                            14
+                        ],
+                        "catalogid": 10
+                    }
+                }
+            },
+            "Printed and Dyed Textiles": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            14,
+                            15,
+                            16,
+                            17,
+                            18
+                        ],
+                        "catalogid": 11
+                    }
+                }
+            },
+            "Flags": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            18
+                        ],
+                        "catalogid": 12
+                    }
+                }
+            }
+        },
+        "Costume": {
+            "Headwear": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            19,
+                            20,
+                            21
+                        ],
+                        "catalogid": 13
+                    }
+                }
+            },
+            "Neckwear": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 14
+                    }
+                }
+            },
+            "Undergarments and Nightwear": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            22,
+                            23
+                        ],
+                        "catalogid": 15
+                    }
+                }
+            },
+            "Women's Apparel": {
+                "Above the Waist": {
+                    "Above the Waist": {
+                        "part": 1,
+                        "microfiche-num": [
+                            23,
+                            24
+                        ],
+                        "catalogid": 16
+                    }
+                },
+                "Aprons": {
+                    "Aprons": {
+                        "part": 1,
+                        "microfiche-num": [
+                            24
+                        ],
+                        "catalogid": 17
+                    }
+                },
+                "Dresses and Coats": {
+                    "Dresses and Coats": {
+                        "part": 1,
+                        "microfiche-num": [
+                            24,
+                            25,
+                            26,
+                            27,
+                            28,
+                            29
+                        ],
+                        "catalogid": 18
+                    }
+                }
+            },
+            "Men's Apparel": {
+                "Above the Waist": {
+                    "Above the Waist": {
+                        "part": 1,
+                        "microfiche-num": [
+                            29
+                        ],
+                        "catalogid": 19
+                    }
+                },
+                "Trousers": {
+                    "Trousers": {
+                        "part": 1,
+                        "microfiche-num": [
+                            30
+                        ],
+                        "catalogid": 20
+                    }
+                },
+                "Suits and Coats": {
+                    "Suits and Coats": {
+                        "part": 1,
+                        "microfiche-num": [
+                            31,
+                            32
+                        ],
+                        "catalogid": 21
+                    }
+                },
+                "Uniforms": {
+                    "Uniforms": {
+                        "part": 1,
+                        "microfiche-num": [
+                            32
+                        ],
+                        "catalogid": 22
+                    }
+                }
+            },
+            "Infants' and Children's Apparel": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            32,
+                            33,
+                            34
+                        ],
+                        "catalogid": 23
+                    }
+                }
+            },
+            "Footwear": {
+                "Stockings": {
+                    "Stockings": {
+                        "part": 1,
+                        "microfiche-num": [
+                            34
+                        ],
+                        "catalogid": 24
+                    }
+                },
+                "Skates Clogs and Spurs": {
+                    "Skates Clogs and Spurs": {
+                        "part": 1,
+                        "microfiche-num": [
+                            34
+                        ],
+                        "catalogid": 25
+                    }
+                },
+                "Women's Shoes": {
+                    "Women's Shoes": {
+                        "part": 1,
+                        "microfiche-num": [
+                            35,
+                            36
+                        ],
+                        "catalogid": 26
+                    }
+                },
+                "Men's Shoes": {
+                    "Men's Shoes": {
+                        "part": 1,
+                        "microfiche-num": [
+                            36
+                        ],
+                        "catalogid": 27
+                    }
+                },
+                "Children's Shoes": {
+                    "Children's Shoes": {
+                        "part": 1,
+                        "microfiche-num": [
+                            36
+                        ],
+                        "catalogid": 28
+                    }
+                }
+            }
+        },
+        "Costume Accessories": {
+            "Costume Accessories (A-Z)": {
+                "Belts": {
+                    "Belts": {
+                        "part": 1,
+                        "microfiche-num": [
+                            37
+                        ],
+                        "catalogid": 29
+                    }
+                },
+                "Bootjacks and Shoe Forms": {
+                    "Bootjacks and Shoe Forms": {
+                        "part": 1,
+                        "microfiche-num": [
+                            37
+                        ],
+                        "catalogid": 30
+                    }
+                },
+                "Buttons": {
+                    "Buttons": {
+                        "part": 1,
+                        "microfiche-num": [
+                            37,
+                            38
+                        ],
+                        "catalogid": 31
+                    }
+                },
+                "Canes and Walking Sticks": {
+                    "Canes and Walking Sticks": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38
+                        ],
+                        "catalogid": 32
+                    }
+                },
+                "Card Cases and Trays": {
+                    "Card Cases and Trays": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38
+                        ],
+                        "catalogid": 33
+                    }
+                },
+                "Collar and Cuff Box": {
+                    "Collar and Cuff Box": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38
+                        ],
+                        "catalogid": 34
+                    }
+                },
+                "Fans": {
+                    "Fans": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38
+                        ],
+                        "catalogid": 35
+                    }
+                },
+                "Garters and Suspenders": {
+                    "Garters and Suspenders": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38
+                        ],
+                        "catalogid": 36
+                    }
+                },
+                "Gloves Mitts and Mittens": {
+                    "Gloves Mitts and Mittens": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38
+                        ],
+                        "catalogid": 37
+                    }
+                },
+                "Handbags Purses Satchels and Wallets": {
+                    "Handbags Purses Satchels and Wallets": {
+                        "part": 1,
+                        "microfiche-num": [
+                            38,
+                            40
+                        ],
+                        "catalogid": 38
+                    }
+                },
+                "Muffs Parasols and Umbrellas": {
+                    "Muffs Parasols and Umbrellas": {
+                        "part": 1,
+                        "microfiche-num": [
+                            40
+                        ],
+                        "catalogid": 39
+                    }
+                },
+                "Pipes": {
+                    "Pipes": {
+                        "part": 1,
+                        "microfiche-num": [
+                            40,
+                            41
+                        ],
+                        "catalogid": 40
+                    }
+                },
+                "Pockets and Sachets": {
+                    "Pockets and Sachets": {
+                        "part": 1,
+                        "microfiche-num": [
+                            41
+                        ],
+                        "catalogid": 41
+                    }
+                },
+                "Spectacles and Eyeglasses": {
+                    "Spectacles and Eyeglasses": {
+                        "part": 1,
+                        "microfiche-num": [
+                            41
+                        ],
+                        "catalogid": 42
+                    }
+                }
+            },
+            "Medical and Personal Hygiene Instruments": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            41
+                        ],
+                        "catalogid": 43
+                    }
+                }
+            },
+            "Restraining Irons and Clothing": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            41
+                        ],
+                        "catalogid": 44
+                    }
+                }
+            }
+        },
+        "Jewelry": {
+            "Sets of Jewelry": {
+                "": {
+                    "": {
+                        "part": 1,
+                        "microfiche-num": [
+                            42,
+                            43,
+                            44,
+                            45
+                        ],
+                        "catalogid": 45
+                    }
+                }
+            },
+            "Jewelry (A-Z)": {
+                "Bouquet Holders": {
+                    "Bouquet Holders": {
+                        "part": 1,
+                        "microfiche-num": [
+                            42
+                        ],
+                        "catalogid": 46
+                    }
+                },
+                "Bracelets": {
+                    "Bracelets": {
+                        "part": 1,
+                        "microfiche-num": [
+                            42
+                        ],
+                        "catalogid": 47
+                    }
+                },
+                "Brooches": {
+                    "Brooches": {
+                        "part": 1,
+                        "microfiche-num": [
+                            42
+                        ],
+                        "catalogid": 48
+                    }
+                },
+                "Buckles": {
+                    "Buckles": {
+                        "part": 1,
+                        "microfiche-num": [
+                            43
+                        ],
+                        "catalogid": 49
+                    }
+                },
+                "Combs and Hair Ornaments": {
+                    "Combs and Hair Ornaments": {
+                        "part": 1,
+                        "microfiche-num": [
+                            43,
+                            44
+                        ],
+                        "catalogid": 50
+                    }
+                },
+                "Cufflinks": {
+                    "Cufflinks": {
+                        "part": 1,
+                        "microfiche-num": [
+                            44
+                        ],
+                        "catalogid": 51
+                    }
+                },
+                "Earrings": {
+                    "Earrings": {
+                        "part": 1,
+                        "microfiche-num": [
+                            44
+                        ],
+                        "catalogid": 52
+                    }
+                },
+                "Necklaces": {
+                    "Necklaces": {
+                        "part": 1,
+                        "microfiche-num": [
+                            44
+                        ],
+                        "catalogid": 53
+                    }
+                },
+                "Pins": {
+                    "Pins": {
+                        "part": 1,
+                        "microfiche-num": [
+                            44,
+                            45
+                        ],
+                        "catalogid": 54
+                    }
+                },
+                "Rings": {
+                    "Rings": {
+                        "part": 1,
+                        "microfiche-num": [
+                            45
+                        ],
+                        "catalogid": 55
+                    }
+                },
+                "Watches and Fobs": {
+                    "Watches and Fobs": {
+                        "part": 1,
+                        "microfiche-num": [
+                            45
+                        ],
+                        "catalogid": 56
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 1,
+                        "microfiche-num": [
+                            46,
+                            47,
+                            48,
+                            49,
+                            50,
+                            51,
+                            52,
+                            53,
+                            54,
+                            55
+                        ],
+                        "catalogid": 57
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 1,
+                        "microfiche-num": [
+                            56,
+                            57
+                        ],
+                        "catalogid": 58
+                    }
+                }
+            }
+        }
+    },
+    "The Art and Design of Utopian and Religious Communities": {
+        "Pennsylvania German": {
+            "Fracturs and Paintings": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 59
+                    }
+                }
+            },
+            "Wood Carvings and Weathervanes": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 60
+                    }
+                }
+            },
+            "Furniture and Decorative Accessories": {
+                "Furniture": {
+                    "Furniture": {
+                        "part": 2,
+                        "microfiche-num": [
+                            2,
+                            3
+                        ],
+                        "catalogid": 61
+                    }
+                },
+                "Boxes and Decorative Accessories": {
+                    "Boxes and Decorative Accessories": {
+                        "part": 2,
+                        "microfiche-num": [
+                            3,
+                            4
+                        ],
+                        "catalogid": 62
+                    }
+                }
+            },
+            "Ceramics and Chalkware": {
+                "Ceramics": {
+                    "Ceramics": {
+                        "part": 2,
+                        "microfiche-num": [
+                            4,
+                            5,
+                            6
+                        ],
+                        "catalogid": 63
+                    }
+                },
+                "Chalkware": {
+                    "Chalkware": {
+                        "part": 2,
+                        "microfiche-num": [
+                            5,
+                            6
+                        ],
+                        "catalogid": 64
+                    }
+                }
+            },
+            "Textiles": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            34
+                        ],
+                        "catalogid": 65
+                    }
+                }
+            },
+            "Domestic Utensils Tools and Hardware": {
+                "Domestic Utensils": {
+                    "Domestic Utensils": {
+                        "part": 2,
+                        "microfiche-num": [
+                            6,
+                            7,
+                            8,
+                            35
+                        ],
+                        "catalogid": 66
+                    }
+                },
+                "Tools": {
+                    "Tools": {
+                        "part": 2,
+                        "microfiche-num": [
+                            8
+                        ],
+                        "catalogid": 67
+                    }
+                },
+                "Hardware": {
+                    "Hardware": {
+                        "part": 2,
+                        "microfiche-num": [
+                            9
+                        ],
+                        "catalogid": 68
+                    }
+                }
+            }
+        },
+        "Zoar": {
+            "Painting": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            9
+                        ],
+                        "catalogid": 69
+                    }
+                }
+            },
+            "Furniture": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            9
+                        ],
+                        "catalogid": 70
+                    }
+                }
+            },
+            "Ceramics": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            9
+                        ],
+                        "catalogid": 71
+                    }
+                }
+            },
+            "Textiles and Costume": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            9,
+                            35
+                        ],
+                        "catalogid": 72
+                    }
+                }
+            },
+            "Domestic Utensils and Tools": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            10,
+                            35
+                        ],
+                        "catalogid": 73
+                    }
+                }
+            }
+        },
+        "Economy": {
+            "": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            10,
+                            35
+                        ],
+                        "catalogid": 74
+                    }
+                }
+            }
+        },
+        "Amana": {
+            "": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            10,
+                            11
+                        ],
+                        "catalogid": 75
+                    }
+                }
+            }
+        },
+        "Bishop Hill": {
+            "Furniture": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            11,
+                            36
+                        ],
+                        "catalogid": 76
+                    }
+                }
+            },
+            "Costume": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            11
+                        ],
+                        "catalogid": 77
+                    }
+                }
+            },
+            "Domestic Utensils and Tools": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            11,
+                            36
+                        ],
+                        "catalogid": 78
+                    }
+                }
+            }
+        },
+        "Shaker": {
+            "Art and Architecture": {
+                "Art": {
+                    "Art": {
+                        "part": 2,
+                        "microfiche-num": [
+                            12
+                        ],
+                        "catalogid": 79
+                    }
+                },
+                "Architectural Details": {
+                    "Architectural Details": {
+                        "part": 2,
+                        "microfiche-num": [
+                            12
+                        ],
+                        "catalogid": 80
+                    }
+                }
+            },
+            "Furniture and Furnishing Accessories": {
+                "Chairs": {
+                    "Chairs": {
+                        "part": 2,
+                        "microfiche-num": [
+                            12
+                        ],
+                        "catalogid": 81
+                    }
+                },
+                "Tables Benches and Stools": {
+                    "Tables Benches and Stools": {
+                        "part": 2,
+                        "microfiche-num": [
+                            12,
+                            13
+                        ],
+                        "catalogid": 82
+                    }
+                },
+                "Chests Cupboards and Cabinets": {
+                    "Chests Cupboards and Cabinets": {
+                        "part": 2,
+                        "microfiche-num": [
+                            13,
+                            14
+                        ],
+                        "catalogid": 83
+                    }
+                },
+                "Beds": {
+                    "Beds": {
+                        "part": 2,
+                        "microfiche-num": [
+                            14
+                        ],
+                        "catalogid": 84
+                    }
+                },
+                "Furnishing Accessories": {
+                    "Furnishing Accessories": {
+                        "part": 2,
+                        "microfiche-num": [
+                            14,
+                            36
+                        ],
+                        "catalogid": 85
+                    }
+                },
+                "Clocks": {
+                    "Clocks": {
+                        "part": 2,
+                        "microfiche-num": [
+                            15
+                        ],
+                        "catalogid": 86
+                    }
+                }
+            },
+            "Textiles and Costume": {
+                "Textiles": {
+                    "Textiles": {
+                        "part": 2,
+                        "microfiche-num": [
+                            15,
+                            36
+                        ],
+                        "catalogid": 87
+                    }
+                },
+                "Costume and Costume Accessories": {
+                    "Costume and Costume Accessories": {
+                        "part": 2,
+                        "microfiche-num": [
+                            16,
+                            36
+                        ],
+                        "catalogid": 88
+                    }
+                }
+            },
+            "Domestic Utensils and Tools (A-Z)": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            17
+                        ],
+                        "catalogid": 89
+                    }
+                }
+            }
+        },
+        "Quaker": {
+            "Costume": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            16,
+                            36
+                        ],
+                        "catalogid": 90
+                    }
+                }
+            }
+        },
+        "Mormon": {
+            "": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            17
+                        ],
+                        "catalogid": 91
+                    }
+                }
+            }
+        },
+        "Spanish Southwest": {
+            "Art and Architecture": {
+                "Paintings and Sculpture": {
+                    "Paintings and Sculpture": {
+                        "part": 2,
+                        "microfiche-num": [
+                            18,
+                            19,
+                            20,
+                            36,
+                            37,
+                            38,
+                            40
+                        ],
+                        "catalogid": 92
+                    }
+                },
+                "Interiors and Architectural Details": {
+                    "Interiors and Architectural Details": {
+                        "part": 2,
+                        "microfiche-num": [
+                            20,
+                            21,
+                            22,
+                            23,
+                            38
+                        ],
+                        "catalogid": 93
+                    }
+                },
+                "Maps": {
+                    "Maps": {
+                        "part": 2,
+                        "microfiche-num": [
+                            23,
+                            24,
+                            40
+                        ],
+                        "catalogid": 94
+                    }
+                }
+            },
+            "Furniture and Mirrors": {
+                "Furniture": {
+                    "Furniture": {
+                        "part": 2,
+                        "microfiche-num": [
+                            24,
+                            25,
+                            38,
+                            40
+                        ],
+                        "catalogid": 95
+                    }
+                },
+                "Mirrors": {
+                    "Mirrors": {
+                        "part": 2,
+                        "microfiche-num": [
+                            25,
+                            40
+                        ],
+                        "catalogid": 96
+                    }
+                }
+            },
+            "Textiles and Costume": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            25,
+                            26,
+                            38,
+                            40
+                        ],
+                        "catalogid": 97
+                    }
+                }
+            },
+            "Domestic Utensils and Tools": {
+                "Lighting Devices": {
+                    "Lighting Devices": {
+                        "part": 2,
+                        "microfiche-num": [
+                            26,
+                            27,
+                            40
+                        ],
+                        "catalogid": 98
+                    }
+                },
+                "Domestic Utensils and Tools": {
+                    "Domestic Utensils and Tools": {
+                        "part": 2,
+                        "microfiche-num": [
+                            27
+                        ],
+                        "catalogid": 99
+                    }
+                }
+            },
+            "Saddlery and Weapons": {
+                "Saddles and Leatherwork": {
+                    "Saddles and Leatherwork": {
+                        "part": 2,
+                        "microfiche-num": [
+                            28,
+                            39
+                        ],
+                        "catalogid": 100
+                    }
+                },
+                "Spurs": {
+                    "Spurs": {
+                        "part": 2,
+                        "microfiche-num": [
+                            29,
+                            30
+                        ],
+                        "catalogid": 101
+                    }
+                },
+                "Bits": {
+                    "Bits": {
+                        "part": 2,
+                        "microfiche-num": [
+                            30
+                        ],
+                        "catalogid": 102
+                    }
+                },
+                "Weapons": {
+                    "Weapons": {
+                        "part": 2,
+                        "microfiche-num": [
+                            31
+                        ],
+                        "catalogid": 103
+                    }
+                }
+            },
+            "Musical Instruments": {
+                "Bells": {
+                    "Bells": {
+                        "part": 2,
+                        "microfiche-num": [
+                            31
+                        ],
+                        "catalogid": 104
+                    }
+                },
+                "Stringed Instruments": {
+                    "Stringed Instruments": {
+                        "part": 2,
+                        "microfiche-num": [
+                            31
+                        ],
+                        "catalogid": 105
+                    }
+                }
+            }
+        },
+        "California Petroglyphs": {
+            "": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            31,
+                            32
+                        ],
+                        "catalogid": 106
+                    }
+                }
+            }
+        },
+        "American Indian": {
+            "": {
+                "": {
+                    "": {
+                        "part": 2,
+                        "microfiche-num": [
+                            32
+                        ],
+                        "catalogid": 107
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 2,
+                        "microfiche-num": [
+                            33,
+                            34,
+                            35,
+                            36,
+                            37,
+                            38,
+                            39
+                        ],
+                        "catalogid": 108
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 2,
+                        "microfiche-num": [
+                            40
+                        ],
+                        "catalogid": 109
+                    }
+                }
+            }
+        }
+    },
+    "Architecture and Naive Art": {
+        "Architecture": {
+            "Interiors": {
+                "Rooms - Domestic Interiors": {
+                    "Rooms - Domestic Interiors": {
+                        "part": 3,
+                        "microfiche-num": [
+                            13,
+                            20
+                        ],
+                        "catalogid": 110
+                    }
+                },
+                "Rooms - Business and Industrial": {
+                    "Rooms - Business and Industrial": {
+                        "part": 3,
+                        "microfiche-num": [
+                            13,
+                            20
+                        ],
+                        "catalogid": 111
+                    }
+                },
+                "Rooms - Public Buildings and Gathering Places": {
+                    "Rooms - Public Buildings and Gathering Places": {
+                        "part": 3,
+                        "microfiche-num": [
+                            13,
+                            20
+                        ],
+                        "catalogid": 112
+                    }
+                },
+                "Stage Sets and Backdrops": {
+                    "Stage Sets and Backdrops": {
+                        "part": 3,
+                        "microfiche-num": [
+                            13,
+                            20,
+                            21
+                        ],
+                        "catalogid": 113
+                    }
+                },
+                "Architectural Details and Paneling": {
+                    "Architectural Details and Paneling": {
+                        "part": 3,
+                        "microfiche-num": [
+                            1,
+                            13,
+                            21
+                        ],
+                        "catalogid": 114
+                    }
+                },
+                "Railway Car Interiors": {
+                    "Railway Car Interiors": {
+                        "part": 3,
+                        "microfiche-num": [
+                            1,
+                            13,
+                            21
+                        ],
+                        "catalogid": 115
+                    }
+                },
+                "Wall Treatments - Decorated Painted and Stenciled": {
+                    "Wall Treatments - Decorated Painted and Stenciled": {
+                        "part": 3,
+                        "microfiche-num": [
+                            2,
+                            13,
+                            21
+                        ],
+                        "catalogid": 116
+                    }
+                },
+                "Wall Treatments - Wallpaper and Bandboxes": {
+                    "Wall Treatments - Wallpaper and Bandboxes": {
+                        "part": 3,
+                        "microfiche-num": [
+                            2,
+                            3,
+                            4,
+                            14,
+                            15,
+                            21
+                        ],
+                        "catalogid": 117
+                    }
+                },
+                "Floor Treatments": {
+                    "Floor Treatments": {
+                        "part": 3,
+                        "microfiche-num": [
+                            4,
+                            21
+                        ],
+                        "catalogid": 118
+                    }
+                }
+            },
+            "Exteriors": {
+                "Architectural Details and Ornament": {
+                    "Architectural Details and Ornament": {
+                        "part": 3,
+                        "microfiche-num": [
+                            4,
+                            5,
+                            15
+                        ],
+                        "catalogid": 119
+                    }
+                },
+                "Firemarks": {
+                    "Firemarks": {
+                        "part": 3,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 120
+                    }
+                },
+                "Hitching Posts": {
+                    "Hitching Posts": {
+                        "part": 3,
+                        "microfiche-num": [
+                            5,
+                            6,
+                            15
+                        ],
+                        "catalogid": 121
+                    }
+                }
+            },
+            "Gardens": {
+                "Gardens": {
+                    "Gardens": {
+                        "part": 3,
+                        "microfiche-num": [
+                            6,
+                            16,
+                            17,
+                            21
+                        ],
+                        "catalogid": 122
+                    }
+                },
+                "Garden Ornaments and Metal Sculpture": {
+                    "Garden Ornaments and Metal Sculpture": {
+                        "part": 3,
+                        "microfiche-num": [
+                            6,
+                            17
+                        ],
+                        "catalogid": 123
+                    }
+                },
+                "Cemetery Art": {
+                    "Cemetery Art": {
+                        "part": 3,
+                        "microfiche-num": [
+                            7,
+                            8,
+                            17
+                        ],
+                        "catalogid": 124
+                    }
+                }
+            },
+            "Waterworks": {
+                "": {
+                    "": {
+                        "part": 3,
+                        "microfiche-num": [
+                            8,
+                            18
+                        ],
+                        "catalogid": 125
+                    }
+                }
+            },
+            "Ornamental Iron": {
+                "": {
+                    "": {
+                        "part": 3,
+                        "microfiche-num": [
+                            8,
+                            9,
+                            10,
+                            11,
+                            18
+                        ],
+                        "catalogid": 126
+                    }
+                }
+            }
+        },
+        "Naive Art": {
+            "Paintings Documents and Prints": {
+                "": {
+                    "": {
+                        "part": 3,
+                        "microfiche-num": [
+                            12,
+                            18,
+                            19,
+                            21
+                        ],
+                        "catalogid": 127
+                    }
+                }
+            },
+            "Valentines and Paper Cuttings": {
+                "": {
+                    "": {
+                        "part": 3,
+                        "microfiche-num": [
+                            12,
+                            19
+                        ],
+                        "catalogid": 128
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 3,
+                        "microfiche-num": [
+                            13,
+                            14,
+                            15,
+                            16,
+                            17,
+                            18,
+                            19
+                        ],
+                        "catalogid": 129
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 3,
+                        "microfiche-num": [
+                            20,
+                            21
+                        ],
+                        "catalogid": 130
+                    }
+                }
+            }
+        }
+    },
+    "Tools Hardware Firearms and Vehicles": {
+        "Tools and Equipment (A-Z)": {
+            "": {
+                "Adzes Axes and Hatchets": {
+                    "Adzes Axes and Hatchets": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 131
+                    }
+                },
+                "Augers": {
+                    "Augers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 132
+                    }
+                },
+                "Bark Peelers": {
+                    "Bark Peelers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 133
+                    }
+                },
+                "Beehives": {
+                    "Beehives": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 134
+                    }
+                },
+                "Blacksmith Tools": {
+                    "Blacksmith Tools": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 135
+                    }
+                },
+                "Braces Bits and Drills": {
+                    "Braces Bits and Drills": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 136
+                    }
+                },
+                "Branding Irons and Markers": {
+                    "Branding Irons and Markers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 137
+                    }
+                },
+                "Bristle Removers": {
+                    "Bristle Removers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            2
+                        ],
+                        "catalogid": 138
+                    }
+                },
+                "Brushes and Brush Cutters": {
+                    "Brushes and Brush Cutters": {
+                        "part": 4,
+                        "microfiche-num": [
+                            2
+                        ],
+                        "catalogid": 139
+                    }
+                },
+                "Carpet Stretchers": {
+                    "Carpet Stretchers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            2
+                        ],
+                        "catalogid": 140
+                    }
+                },
+                "Chisels": {
+                    "Chisels": {
+                        "part": 4,
+                        "microfiche-num": [
+                            2
+                        ],
+                        "catalogid": 141
+                    }
+                },
+                "Clam Rakes": {
+                    "Clam Rakes": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3
+                        ],
+                        "catalogid": 142
+                    }
+                },
+                "Clamps": {
+                    "Clamps": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3
+                        ],
+                        "catalogid": 143
+                    }
+                },
+                "Combs": {
+                    "Combs": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3
+                        ],
+                        "catalogid": 144
+                    }
+                },
+                "Corn Planters": {
+                    "Corn Planters": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3
+                        ],
+                        "catalogid": 145
+                    }
+                },
+                "Cranberry Pickers": {
+                    "Cranberry Pickers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3,
+                            15
+                        ],
+                        "catalogid": 146
+                    }
+                },
+                "Drawknives and Knives": {
+                    "Drawknives and Knives": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3,
+                            15
+                        ],
+                        "catalogid": 147
+                    }
+                },
+                "Firefighting Equipment": {
+                    "Firefighting Equipment": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3,
+                            15
+                        ],
+                        "catalogid": 148
+                    }
+                },
+                "Fish Spears": {
+                    "Fish Spears": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3
+                        ],
+                        "catalogid": 149
+                    }
+                },
+                "Flails": {
+                    "Flails": {
+                        "part": 4,
+                        "microfiche-num": [
+                            3,
+                            4
+                        ],
+                        "catalogid": 150
+                    }
+                },
+                "Frows and Frow Clubs": {
+                    "Frows and Frow Clubs": {
+                        "part": 4,
+                        "microfiche-num": [
+                            15
+                        ],
+                        "catalogid": 151
+                    }
+                },
+                "Gauges": {
+                    "Gauges": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 152
+                    }
+                },
+                "Grain Cradles": {
+                    "Grain Cradles": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 153
+                    }
+                },
+                "Hammers Mallets and Gavels": {
+                    "Hammers Mallets and Gavels": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 154
+                    }
+                },
+                "Hay Forks": {
+                    "Hay Forks": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4,
+                            15
+                        ],
+                        "catalogid": 155
+                    }
+                },
+                "Hide Stretchers": {
+                    "Hide Stretchers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 156
+                    }
+                },
+                "Hoes and Picks": {
+                    "Hoes and Picks": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 157
+                    }
+                },
+                "Hooks": {
+                    "Hooks": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4,
+                            15
+                        ],
+                        "catalogid": 158
+                    }
+                },
+                "Jacks": {
+                    "Jacks": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 159
+                    }
+                },
+                "Millstones": {
+                    "Millstones": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 160
+                    }
+                },
+                "Pinkers": {
+                    "Pinkers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 161
+                    }
+                },
+                "Planes": {
+                    "Planes": {
+                        "part": 4,
+                        "microfiche-num": [
+                            4
+                        ],
+                        "catalogid": 162
+                    }
+                },
+                "Plows": {
+                    "Plows": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5,
+                            15
+                        ],
+                        "catalogid": 163
+                    }
+                },
+                "Potato Planters": {
+                    "Potato Planters": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 164
+                    }
+                },
+                "Printing Equipment and Stamps": {
+                    "Printing Equipment and Stamps": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5,
+                            15
+                        ],
+                        "catalogid": 165
+                    }
+                },
+                "Reamers": {
+                    "Reamers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            15
+                        ],
+                        "catalogid": 166
+                    }
+                },
+                "Saws": {
+                    "Saws": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5,
+                            15
+                        ],
+                        "catalogid": 167
+                    }
+                },
+                "Scrapers": {
+                    "Scrapers": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 168
+                    }
+                },
+                "Screens": {
+                    "Screens": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 169
+                    }
+                },
+                "Shaving Horses": {
+                    "Shaving Horses": {
+                        "part": 4,
+                        "microfiche-num": [
+                            15
+                        ],
+                        "catalogid": 170
+                    }
+                },
+                "Shears": {
+                    "Shears": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 171
+                    }
+                },
+                "Shoemakers and Leather Working Tools": {
+                    "Shoemakers and Leather Working Tools": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 172
+                    }
+                },
+                "Shovels and Scoops": {
+                    "Shovels and Scoops": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 173
+                    }
+                },
+                "Sickels": {
+                    "Sickels": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 174
+                    }
+                },
+                "Snow Guards": {
+                    "Snow Guards": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 175
+                    }
+                },
+                "Splints": {
+                    "Splints": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 176
+                    }
+                },
+                "Spoke Cutters": {
+                    "Spoke Cutters": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 177
+                    }
+                },
+                "Spreader for Rigging": {
+                    "Spreader for Rigging": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5
+                        ],
+                        "catalogid": 178
+                    }
+                },
+                "Sugar Industry Tools": {
+                    "Sugar Industry Tools": {
+                        "part": 4,
+                        "microfiche-num": [
+                            15
+                        ],
+                        "catalogid": 179
+                    }
+                },
+                "Turpentine Industry Tools": {
+                    "Turpentine Industry Tools": {
+                        "part": 4,
+                        "microfiche-num": [
+                            5,
+                            6
+                        ],
+                        "catalogid": 180
+                    }
+                },
+                "Well Beam": {
+                    "Well Beam": {
+                        "part": 4,
+                        "microfiche-num": [
+                            6
+                        ],
+                        "catalogid": 181
+                    }
+                },
+                "Wiremaking Machine": {
+                    "Wiremaking Machine": {
+                        "part": 4,
+                        "microfiche-num": [
+                            6
+                        ],
+                        "catalogid": 182
+                    }
+                },
+                "Wrenches": {
+                    "Wrenches": {
+                        "part": 4,
+                        "microfiche-num": [
+                            6
+                        ],
+                        "catalogid": 183
+                    }
+                },
+                "Yokes": {
+                    "Yokes": {
+                        "part": 4,
+                        "microfiche-num": [
+                            6,
+                            15
+                        ],
+                        "catalogid": 184
+                    }
+                }
+            }
+        },
+        "Hardware": {
+            "Nails and Pins": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            6
+                        ],
+                        "catalogid": 185
+                    }
+                }
+            },
+            "Bolts Locks and Latches": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            6,
+                            15
+                        ],
+                        "catalogid": 186
+                    }
+                }
+            },
+            "Drawer Pulls": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            8
+                        ],
+                        "catalogid": 187
+                    }
+                }
+            },
+            "Hinges": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            8
+                        ],
+                        "catalogid": 188
+                    }
+                }
+            },
+            "Door Knockers": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            9
+                        ],
+                        "catalogid": 189
+                    }
+                }
+            },
+            "Tiebacks": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            9,
+                            15
+                        ],
+                        "catalogid": 190
+                    }
+                }
+            },
+            "Marine Hardware": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            10
+                        ],
+                        "catalogid": 191
+                    }
+                }
+            }
+        },
+        "Armaments and Military Supplies": {
+            "Firearms": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            10,
+                            16
+                        ],
+                        "catalogid": 192
+                    }
+                }
+            },
+            "Powder Horns and Flasks": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            10,
+                            11,
+                            16
+                        ],
+                        "catalogid": 193
+                    }
+                }
+            },
+            "Ammunition Containers and Bullet Molds": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            11
+                        ],
+                        "catalogid": 194
+                    }
+                }
+            },
+            "Cross Bows": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            11
+                        ],
+                        "catalogid": 195
+                    }
+                }
+            },
+            "Swords Sabers and Daggers": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            11,
+                            16
+                        ],
+                        "catalogid": 196
+                    }
+                }
+            },
+            "Knapsacks and Canteens": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            12
+                        ],
+                        "catalogid": 197
+                    }
+                }
+            }
+        },
+        "Harness and Saddlery": {
+            "Collars and Hobbles": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            12,
+                            16
+                        ],
+                        "catalogid": 198
+                    }
+                }
+            },
+            "Saddles Bridles and Stirrups": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            12,
+                            16
+                        ],
+                        "catalogid": 199
+                    }
+                }
+            },
+            "Horse Shoes": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            12
+                        ],
+                        "catalogid": 200
+                    }
+                }
+            },
+            "Whips and Whip Sockets": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            12,
+                            16
+                        ],
+                        "catalogid": 201
+                    }
+                }
+            }
+        },
+        "Vehicles": {
+            "Bicycles": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            12
+                        ],
+                        "catalogid": 202
+                    }
+                }
+            },
+            "Baby Carriages": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13
+                        ],
+                        "catalogid": 203
+                    }
+                }
+            },
+            "Coaches and Wagons": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13,
+                            16
+                        ],
+                        "catalogid": 204
+                    }
+                }
+            },
+            "Sleighs and Sleds": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13,
+                            16
+                        ],
+                        "catalogid": 205
+                    }
+                }
+            },
+            "Carts and Wheelbarrows": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13
+                        ],
+                        "catalogid": 206
+                    }
+                }
+            }
+        },
+        "Calibrated Instruments": {
+            "Barometers Thermometers and Compasses": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13,
+                            16
+                        ],
+                        "catalogid": 207
+                    }
+                }
+            },
+            "Octants": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            16
+                        ],
+                        "catalogid": 208
+                    }
+                }
+            },
+            "Plumblines and Levels": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13
+                        ],
+                        "catalogid": 209
+                    }
+                }
+            },
+            "Scales": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            13
+                        ],
+                        "catalogid": 210
+                    }
+                }
+            }
+        },
+        "Machines": {
+            "": {
+                "": {
+                    "": {
+                        "part": 4,
+                        "microfiche-num": [
+                            14,
+                            16
+                        ],
+                        "catalogid": 211
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 4,
+                        "microfiche-num": [
+                            15,
+                            16
+                        ],
+                        "catalogid": 212
+                    }
+                }
+            }
+        }
+    },
+    "Domestic Utensils": {
+        "Fireplace Equipment and Stoves": {
+            "Fireplace Tools": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            1,
+                            28
+                        ],
+                        "catalogid": 213
+                    }
+                }
+            },
+            "Andirons": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 214
+                    }
+                }
+            },
+            "Firebacks": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            1
+                        ],
+                        "catalogid": 215
+                    }
+                }
+            },
+            "Gridirons Waffle Irons and Toasters": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            2,
+                            28
+                        ],
+                        "catalogid": 216
+                    }
+                }
+            },
+            "Trivets and Flatiron Holders": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            2,
+                            3,
+                            4,
+                            5
+                        ],
+                        "catalogid": 217
+                    }
+                }
+            },
+            "Ovens and Broilers": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            5,
+                            28
+                        ],
+                        "catalogid": 218
+                    }
+                }
+            },
+            "Warmers": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            5,
+                            6
+                        ],
+                        "catalogid": 219
+                    }
+                }
+            },
+            "Stoves and Stove Equipment": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            6,
+                            28
+                        ],
+                        "catalogid": 220
+                    }
+                }
+            },
+            "Match Boxes": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            7
+                        ],
+                        "catalogid": 221
+                    }
+                }
+            }
+        },
+        "Lighting Devices": {
+            "Candlesticks and Holders": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            7,
+                            8,
+                            9,
+                            28,
+                            29
+                        ],
+                        "catalogid": 222
+                    }
+                }
+            },
+            "Chandeliers and Sconces": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            9,
+                            10,
+                            29
+                        ],
+                        "catalogid": 223
+                    }
+                }
+            },
+            "Lamps": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            10,
+                            11,
+                            12,
+                            13,
+                            29
+                        ],
+                        "catalogid": 224
+                    }
+                }
+            },
+            "Lanterns and Torches": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            14,
+                            15,
+                            16,
+                            29
+                        ],
+                        "catalogid": 225
+                    }
+                }
+            },
+            "Lighting Accessories": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            16
+                        ],
+                        "catalogid": 226
+                    }
+                }
+            }
+        },
+        "Textile Implements": {
+            "Spinning and Weaving Implements": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            16
+                        ],
+                        "catalogid": 227
+                    }
+                }
+            },
+            "Sewing Tools": {
+                "": {
+                    "": {
+                        "part": 5,
+                        "microfiche-num": [
+                            17,
+                            18
+                        ],
+                        "catalogid": 228
+                    }
+                }
+            }
+        },
+        "Domestic Utensils (A-Z)": {
+            "": {
+                "Apple Peelers": {
+                    "Apple Peelers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            18
+                        ],
+                        "catalogid": 229
+                    }
+                },
+                "Asparagus Buncher": {
+                    "Asparagus Buncher": {
+                        "part": 5,
+                        "microfiche-num": [
+                            18
+                        ],
+                        "catalogid": 230
+                    }
+                },
+                "Barrels Buckets Kegs Tubs and Piggins": {
+                    "Barrels Buckets Kegs Tubs and Piggins": {
+                        "part": 5,
+                        "microfiche-num": [
+                            18
+                        ],
+                        "catalogid": 231
+                    }
+                },
+                "Baskets": {
+                    "Baskets": {
+                        "part": 5,
+                        "microfiche-num": [
+                            18,
+                            19
+                        ],
+                        "catalogid": 232
+                    }
+                },
+                "Bottles": {
+                    "Bottles": {
+                        "part": 5,
+                        "microfiche-num": [
+                            19
+                        ],
+                        "catalogid": 233
+                    }
+                },
+                "Bowls": {
+                    "Bowls": {
+                        "part": 5,
+                        "microfiche-num": [
+                            19
+                        ],
+                        "catalogid": 234
+                    }
+                },
+                "Boxes": {
+                    "Boxes": {
+                        "part": 5,
+                        "microfiche-num": [
+                            19
+                        ],
+                        "catalogid": 235
+                    }
+                },
+                "Broom": {
+                    "Broom": {
+                        "part": 5,
+                        "microfiche-num": [
+                            19
+                        ],
+                        "catalogid": 236
+                    }
+                },
+                "Buttermolds and Tubs": {
+                    "Buttermolds and Tubs": {
+                        "part": 5,
+                        "microfiche-num": [
+                            19,
+                            20,
+                            29
+                        ],
+                        "catalogid": 237
+                    }
+                },
+                "Cans and lars": {
+                    "Cans and lars": {
+                        "part": 5,
+                        "microfiche-num": [
+                            20
+                        ],
+                        "catalogid": 238
+                    }
+                },
+                "Candlemolds": {
+                    "Candlemolds": {
+                        "part": 5,
+                        "microfiche-num": [
+                            20
+                        ],
+                        "catalogid": 239
+                    }
+                },
+                "Cherry Pitters": {
+                    "Cherry Pitters": {
+                        "part": 5,
+                        "microfiche-num": [
+                            20
+                        ],
+                        "catalogid": 240
+                    }
+                },
+                "Churns": {
+                    "Churns": {
+                        "part": 5,
+                        "microfiche-num": [
+                            20,
+                            21,
+                            29
+                        ],
+                        "catalogid": 241
+                    }
+                },
+                "Clothes Pins": {
+                    "Clothes Pins": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 242
+                    }
+                },
+                "Clothes Washers": {
+                    "Clothes Washers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 243
+                    }
+                },
+                "Coffee and Teapots": {
+                    "Coffee and Teapots": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 244
+                    }
+                },
+                "Coffee Grinders and Mills": {
+                    "Coffee Grinders and Mills": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21,
+                            29
+                        ],
+                        "catalogid": 245
+                    }
+                },
+                "Coffee Roasters": {
+                    "Coffee Roasters": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 246
+                    }
+                },
+                "Compotes": {
+                    "Compotes": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 247
+                    }
+                },
+                "Cookie Cutters": {
+                    "Cookie Cutters": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 248
+                    }
+                },
+                "Cork Compressors": {
+                    "Cork Compressors": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 249
+                    }
+                },
+                "Crimpers": {
+                    "Crimpers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21,
+                            29
+                        ],
+                        "catalogid": 250
+                    }
+                },
+                "Cruets": {
+                    "Cruets": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 251
+                    }
+                },
+                "Cups Goblets Mugs and Tankards": {
+                    "Cups Goblets Mugs and Tankards": {
+                        "part": 5,
+                        "microfiche-num": [
+                            21,
+                            22
+                        ],
+                        "catalogid": 252
+                    }
+                },
+                "Dippers and Ladles": {
+                    "Dippers and Ladles": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 253
+                    }
+                },
+                "Dough Bins and Mixers": {
+                    "Dough Bins and Mixers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 254
+                    }
+                },
+                "Draining Boards": {
+                    "Draining Boards": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 255
+                    }
+                },
+                "Egg Beaters and Cookers": {
+                    "Egg Beaters and Cookers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22,
+                            29
+                        ],
+                        "catalogid": 256
+                    }
+                },
+                "Flour Bins and Sifters": {
+                    "Flour Bins and Sifters": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 257
+                    }
+                },
+                "Fruit Slicer": {
+                    "Fruit Slicer": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 258
+                    }
+                },
+                "Funnels": {
+                    "Funnels": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 259
+                    }
+                },
+                "Gourds": {
+                    "Gourds": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 260
+                    }
+                },
+                "Graters": {
+                    "Graters": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22
+                        ],
+                        "catalogid": 261
+                    }
+                },
+                "Grinders": {
+                    "Grinders": {
+                        "part": 5,
+                        "microfiche-num": [
+                            22,
+                            29
+                        ],
+                        "catalogid": 262
+                    }
+                },
+                "Ice Cream Freezer": {
+                    "Ice Cream Freezer": {
+                        "part": 5,
+                        "microfiche-num": [
+                            23
+                        ],
+                        "catalogid": 263
+                    }
+                },
+                "Irons": {
+                    "Irons": {
+                        "part": 5,
+                        "microfiche-num": [
+                            23
+                        ],
+                        "catalogid": 264
+                    }
+                },
+                "Kettles": {
+                    "Kettles": {
+                        "part": 5,
+                        "microfiche-num": [
+                            23,
+                            24
+                        ],
+                        "catalogid": 265
+                    }
+                },
+                "Knives and Forks Knife Sharpeners and Holders": {
+                    "Knives and Forks Knife Sharpeners and Holders": {
+                        "part": 5,
+                        "microfiche-num": [
+                            24
+                        ],
+                        "catalogid": 266
+                    }
+                },
+                "Mashers": {
+                    "Mashers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            24
+                        ],
+                        "catalogid": 267
+                    }
+                },
+                "Measuring Cups": {
+                    "Measuring Cups": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 268
+                    }
+                },
+                "Molds": {
+                    "Molds": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 269
+                    }
+                },
+                "Mortars and Pestles": {
+                    "Mortars and Pestles": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25,
+                            29
+                        ],
+                        "catalogid": 270
+                    }
+                },
+                "Muffin Pans": {
+                    "Muffin Pans": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 271
+                    }
+                },
+                "Nut Crackers": {
+                    "Nut Crackers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25,
+                            30
+                        ],
+                        "catalogid": 272
+                    }
+                },
+                "Pail": {
+                    "Pail": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 273
+                    }
+                },
+                "Pan Slider": {
+                    "Pan Slider": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 274
+                    }
+                },
+                "Pastry Squeezer": {
+                    "Pastry Squeezer": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 275
+                    }
+                },
+                "Pill Coater": {
+                    "Pill Coater": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 276
+                    }
+                },
+                "Pitcher": {
+                    "Pitcher": {
+                        "part": 5,
+                        "microfiche-num": [
+                            25,
+                            26
+                        ],
+                        "catalogid": 277
+                    }
+                },
+                "Porringers": {
+                    "Porringers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 278
+                    }
+                },
+                "Pots and Pans": {
+                    "Pots and Pans": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 279
+                    }
+                },
+                "Rolling Pins": {
+                    "Rolling Pins": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26,
+                            30
+                        ],
+                        "catalogid": 280
+                    }
+                },
+                "Salt Shakers": {
+                    "Salt Shakers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 281
+                    }
+                },
+                "Sauerkraut Stomper": {
+                    "Sauerkraut Stomper": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 282
+                    }
+                },
+                "Sausage Stuffers": {
+                    "Sausage Stuffers": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 283
+                    }
+                },
+                "Scoops": {
+                    "Scoops": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 284
+                    }
+                },
+                "Skewers and Holders": {
+                    "Skewers and Holders": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 285
+                    }
+                },
+                "Skimmers and Sieves": {
+                    "Skimmers and Sieves": {
+                        "part": 5,
+                        "microfiche-num": [
+                            26,
+                            27,
+                            30
+                        ],
+                        "catalogid": 286
+                    }
+                },
+                "Spatula": {
+                    "Spatula": {
+                        "part": 5,
+                        "microfiche-num": [
+                            27
+                        ],
+                        "catalogid": 287
+                    }
+                },
+                "Spoons": {
+                    "Spoons": {
+                        "part": 5,
+                        "microfiche-num": [
+                            27,
+                            30
+                        ],
+                        "catalogid": 288
+                    }
+                },
+                "Sugar Cutters": {
+                    "Sugar Cutters": {
+                        "part": 5,
+                        "microfiche-num": [
+                            27
+                        ],
+                        "catalogid": 289
+                    }
+                },
+                "Tongs": {
+                    "Tongs": {
+                        "part": 5,
+                        "microfiche-num": [
+                            27
+                        ],
+                        "catalogid": 290
+                    }
+                },
+                "Traps": {
+                    "Traps": {
+                        "part": 5,
+                        "microfiche-num": [
+                            27
+                        ],
+                        "catalogid": 291
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 5,
+                        "microfiche-num": [
+                            28,
+                            29,
+                            30
+                        ],
+                        "catalogid": 292
+                    }
+                }
+            }
+        }
+    },
+    "Furniture and Decorative Accessories": {
+        "Furniture": {
+            "Chairs and Tables": {
+                "Chairs": {
+                    "Chairs": {
+                        "part": 6,
+                        "microfiche-num": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            30,
+                            35
+                        ],
+                        "catalogid": 293
+                    }
+                },
+                "Settles Settees Sofas and Daybeds": {
+                    "Settles Settees Sofas and Daybeds": {
+                        "part": 6,
+                        "microfiche-num": [
+                            8,
+                            9,
+                            30
+                        ],
+                        "catalogid": 294
+                    }
+                },
+                "Benches and Stools": {
+                    "Benches and Stools": {
+                        "part": 6,
+                        "microfiche-num": [
+                            9,
+                            10,
+                            30
+                        ],
+                        "catalogid": 295
+                    }
+                },
+                "Tables": {
+                    "Tables": {
+                        "part": 6,
+                        "microfiche-num": [
+                            10,
+                            11,
+                            12,
+                            13,
+                            30
+                        ],
+                        "catalogid": 296
+                    }
+                }
+            },
+            "Case Furniture": {
+                "Chests and Boxes": {
+                    "Chests and Boxes": {
+                        "part": 6,
+                        "microfiche-num": [
+                            13,
+                            14,
+                            15,
+                            31,
+                            35
+                        ],
+                        "catalogid": 297
+                    }
+                },
+                "Cupboards Cabinets and Shelves": {
+                    "Cupboards Cabinets and Shelves": {
+                        "part": 6,
+                        "microfiche-num": [
+                            16,
+                            17,
+                            31,
+                            35
+                        ],
+                        "catalogid": 298
+                    }
+                },
+                "Highboys": {
+                    "Highboys": {
+                        "part": 6,
+                        "microfiche-num": [
+                            17,
+                            31,
+                            32
+                        ],
+                        "catalogid": 299
+                    }
+                },
+                "Lowboys and Sideboards": {
+                    "Lowboys and Sideboards": {
+                        "part": 6,
+                        "microfiche-num": [
+                            18,
+                            32
+                        ],
+                        "catalogid": 300
+                    }
+                },
+                "Desks and Secretaries": {
+                    "Desks and Secretaries": {
+                        "part": 6,
+                        "microfiche-num": [
+                            18,
+                            19,
+                            32
+                        ],
+                        "catalogid": 301
+                    }
+                }
+            },
+            "Beds and Cradles": {
+                "Beds": {
+                    "Beds": {
+                        "part": 6,
+                        "microfiche-num": [
+                            20,
+                            35
+                        ],
+                        "catalogid": 302
+                    }
+                },
+                "Cradles": {
+                    "Cradles": {
+                        "part": 6,
+                        "microfiche-num": [
+                            20
+                        ],
+                        "catalogid": 303
+                    }
+                }
+            }
+        },
+        "Furnishing Accessories": {
+            "Bathtubs": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            21,
+                            32
+                        ],
+                        "catalogid": 304
+                    }
+                }
+            },
+            "Books and Albums": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            21,
+                            32
+                        ],
+                        "catalogid": 305
+                    }
+                }
+            },
+            "Boxes and Cases": {
+                "Knife Boxes": {
+                    "Knife Boxes": {
+                        "part": 6,
+                        "microfiche-num": [
+                            21,
+                            32
+                        ],
+                        "catalogid": 306
+                    }
+                },
+                "Boxes and Cases": {
+                    "Boxes and Cases": {
+                        "part": 6,
+                        "microfiche-num": [
+                            21,
+                            22
+                        ],
+                        "catalogid": 307
+                    }
+                }
+            },
+            "Cellarets and Wine Coolers": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            22,
+                            33,
+                            35
+                        ],
+                        "catalogid": 308
+                    }
+                }
+            },
+            "Clocks": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            22,
+                            23,
+                            24,
+                            25,
+                            33,
+                            35
+                        ],
+                        "catalogid": 309
+                    }
+                }
+            },
+            "Decorations": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            25,
+                            33,
+                            35
+                        ],
+                        "catalogid": 310
+                    }
+                }
+            },
+            "Desk Accessories": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 311
+                    }
+                }
+            },
+            "Door Stops": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 312
+                    }
+                }
+            },
+            "Fire Screens": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            26,
+                            33
+                        ],
+                        "catalogid": 313
+                    }
+                }
+            },
+            "Globes": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            26
+                        ],
+                        "catalogid": 314
+                    }
+                }
+            },
+            "Mirrors and Frames": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            26,
+                            27,
+                            34,
+                            35
+                        ],
+                        "catalogid": 315
+                    }
+                }
+            },
+            "Racks and Stands": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            27,
+                            34
+                        ],
+                        "catalogid": 316
+                    }
+                }
+            },
+            "Safes and Mail Boxes": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            27
+                        ],
+                        "catalogid": 317
+                    }
+                }
+            },
+            "Tobacco Accessories": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            28
+                        ],
+                        "catalogid": 318
+                    }
+                }
+            },
+            "Trays": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            28
+                        ],
+                        "catalogid": 319
+                    }
+                }
+            },
+            "Trunks and Hat Boxes": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            28,
+                            34
+                        ],
+                        "catalogid": 320
+                    }
+                }
+            },
+            "Vases": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            29
+                        ],
+                        "catalogid": 321
+                    }
+                }
+            },
+            "Wall Pockets": {
+                "": {
+                    "": {
+                        "part": 6,
+                        "microfiche-num": [
+                            29
+                        ],
+                        "catalogid": 322
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 6,
+                        "microfiche-num": [
+                            30,
+                            31,
+                            32,
+                            33,
+                            34
+                        ],
+                        "catalogid": 323
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 6,
+                        "microfiche-num": [
+                            35
+                        ],
+                        "catalogid": 324
+                    }
+                }
+            }
+        }
+    },
+    "Wood Carvings and Weathervanes": {
+        "Wood Carvings": {
+            "Marine Carvings": {
+                "Figureheads and Bowsprits": {
+                    "Figureheads and Bowsprits": {
+                        "part": 7,
+                        "microfiche-num": [
+                            1,
+                            2,
+                            15,
+                            25
+                        ],
+                        "catalogid": 325
+                    }
+                },
+                "Billets and Mast Sheathes": {
+                    "Billets and Mast Sheathes": {
+                        "part": 7,
+                        "microfiche-num": [
+                            2,
+                            16
+                        ],
+                        "catalogid": 326
+                    }
+                },
+                "Stern Pieces and Trailboards": {
+                    "Stern Pieces and Trailboards": {
+                        "part": 7,
+                        "microfiche-num": [
+                            3,
+                            16,
+                            25
+                        ],
+                        "catalogid": 327
+                    }
+                },
+                "Other Ship Carvings": {
+                    "Other Ship Carvings": {
+                        "part": 7,
+                        "microfiche-num": [
+                            3,
+                            16
+                        ],
+                        "catalogid": 328
+                    }
+                }
+            },
+            "Circus Carvings": {
+                "": {
+                    "": {
+                        "part": 7,
+                        "microfiche-num": [
+                            3,
+                            4,
+                            16,
+                            17
+                        ],
+                        "catalogid": 329
+                    }
+                }
+            },
+            "Carousel Carvings": {
+                "": {
+                    "": {
+                        "part": 7,
+                        "microfiche-num": [
+                            4,
+                            17,
+                            25
+                        ],
+                        "catalogid": 330
+                    }
+                }
+            },
+            "Advertising Figures and Signs": {
+                "Figures - Cigar Store Indians": {
+                    "Figures - Cigar Store Indians": {
+                        "part": 7,
+                        "microfiche-num": [
+                            4,
+                            5,
+                            6,
+                            18,
+                            19,
+                            20,
+                            25
+                        ],
+                        "catalogid": 331
+                    }
+                },
+                "Figures - Shop Figures and Other Cigar Store Figures": {
+                    "Figures - Shop Figures and Other Cigar Store Figures": {
+                        "part": 7,
+                        "microfiche-num": [
+                            6,
+                            7,
+                            20,
+                            21,
+                            25
+                        ],
+                        "catalogid": 332
+                    }
+                },
+                "Signs": {
+                    "Signs": {
+                        "part": 7,
+                        "microfiche-num": [
+                            7,
+                            8,
+                            21,
+                            25
+                        ],
+                        "catalogid": 333
+                    }
+                }
+            },
+            "Wooden Sculpture": {
+                "Human and Religious Figures": {
+                    "Human and Religious Figures": {
+                        "part": 7,
+                        "microfiche-num": [
+                            8,
+                            9,
+                            21,
+                            22,
+                            25
+                        ],
+                        "catalogid": 334
+                    }
+                },
+                "Animals and Birds (except Eagles)": {
+                    "Animals and Birds (except Eagles)": {
+                        "part": 7,
+                        "microfiche-num": [
+                            9
+                        ],
+                        "catalogid": 335
+                    }
+                },
+                "Eagles": {
+                    "Eagles": {
+                        "part": 7,
+                        "microfiche-num": [
+                            10,
+                            22,
+                            25
+                        ],
+                        "catalogid": 336
+                    }
+                },
+                "Decoys": {
+                    "Decoys": {
+                        "part": 7,
+                        "microfiche-num": [
+                            10,
+                            11,
+                            22
+                        ],
+                        "catalogid": 337
+                    }
+                }
+            }
+        },
+        "Scrimshaw": {
+            "": {
+                "": {
+                    "": {
+                        "part": 7,
+                        "microfiche-num": [
+                            11,
+                            22
+                        ],
+                        "catalogid": 338
+                    }
+                }
+            }
+        },
+        "Weathervanes and Whirligigs": {
+            "Weathervanes": {
+                "Wood": {
+                    "Wood": {
+                        "part": 7,
+                        "microfiche-num": [
+                            11,
+                            12,
+                            22,
+                            25
+                        ],
+                        "catalogid": 339
+                    }
+                },
+                "Metal": {
+                    "Metal": {
+                        "part": 7,
+                        "microfiche-num": [
+                            12,
+                            13,
+                            14,
+                            23
+                        ],
+                        "catalogid": 340
+                    }
+                }
+            },
+            "Whirligigs": {
+                "": {
+                    "": {
+                        "part": 7,
+                        "microfiche-num": [
+                            14,
+                            24,
+                            25
+                        ],
+                        "catalogid": 341
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 7,
+                        "microfiche-num": [
+                            15,
+                            16,
+                            17,
+                            18,
+                            19,
+                            20,
+                            21,
+                            22,
+                            23,
+                            24
+                        ],
+                        "catalogid": 342
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 7,
+                        "microfiche-num": [
+                            25
+                        ],
+                        "catalogid": 343
+                    }
+                }
+            }
+        }
+    },
+    "Ceramics and Glass": {
+        "Ceramics": {
+            "Earthenware": {
+                "Earthenware": {
+                    "Earthenware": {
+                        "part": 8,
+                        "microfiche-num": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            32,
+                            35
+                        ],
+                        "catalogid": 344
+                    }
+                },
+                "Majolica": {
+                    "Majolica": {
+                        "part": 8,
+                        "microfiche-num": [
+                            6
+                        ],
+                        "catalogid": 345
+                    }
+                },
+                "Lusterware": {
+                    "Lusterware": {
+                        "part": 8,
+                        "microfiche-num": [
+                            6
+                        ],
+                        "catalogid": 346
+                    }
+                }
+            },
+            "Stoneware": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            14,
+                            15,
+                            16,
+                            32,
+                            33
+                        ],
+                        "catalogid": 347
+                    }
+                }
+            },
+            "Ironstone": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            16
+                        ],
+                        "catalogid": 348
+                    }
+                }
+            },
+            "Porcelain": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            16,
+                            17,
+                            18,
+                            33
+                        ],
+                        "catalogid": 349
+                    }
+                }
+            },
+            "Tiles and Plaques": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            18,
+                            33
+                        ],
+                        "catalogid": 350
+                    }
+                }
+            },
+            "Ceramic Figures": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            19,
+                            34
+                        ],
+                        "catalogid": 351
+                    }
+                }
+            }
+        },
+        "Chalkware": {
+            "": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            19,
+                            20,
+                            35
+                        ],
+                        "catalogid": 352
+                    }
+                }
+            }
+        },
+        "Glass": {
+            "Free Blown": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            20,
+                            21,
+                            22,
+                            23,
+                            24
+                        ],
+                        "catalogid": 353
+                    }
+                }
+            },
+            "Mold Blown": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            24,
+                            25,
+                            26,
+                            27,
+                            28,
+                            34,
+                            35
+                        ],
+                        "catalogid": 354
+                    }
+                }
+            },
+            "Pressed Glass": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            28,
+                            29,
+                            30,
+                            34,
+                            35
+                        ],
+                        "catalogid": 355
+                    }
+                }
+            },
+            "Painted Glass and Decorated Glass": {
+                "": {
+                    "": {
+                        "part": 8,
+                        "microfiche-num": [
+                            31
+                        ],
+                        "catalogid": 356
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 8,
+                        "microfiche-num": [
+                            32,
+                            33,
+                            34
+                        ],
+                        "catalogid": 357
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 8,
+                        "microfiche-num": [
+                            35
+                        ],
+                        "catalogid": 358
+                    }
+                }
+            }
+        }
+    },
+    "Silver Copper Pewter and Toleware": {
+        "Silver": {
+            "": {
+                "": {
+                    "": {
+                        "part": 9,
+                        "microfiche-num": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6
+                        ],
+                        "catalogid": 359
+                    }
+                }
+            }
+        },
+        "Pewter": {
+            "": {
+                "": {
+                    "": {
+                        "part": 9,
+                        "microfiche-num": [
+                            6,
+                            7,
+                            8,
+                            9
+                        ],
+                        "catalogid": 360
+                    }
+                }
+            }
+        },
+        "Toleware": {
+            "": {
+                "": {
+                    "": {
+                        "part": 9,
+                        "microfiche-num": [
+                            9,
+                            10,
+                            11
+                        ],
+                        "catalogid": 361
+                    }
+                }
+            }
+        }
+    },
+    "Toys and Musical Instruments": {
+        "Toys": {
+            "Dolls": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            12,
+                            13,
+                            14,
+                            15,
+                            21
+                        ],
+                        "catalogid": 362
+                    }
+                }
+            },
+            "Dolls Accessories": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            4,
+                            15
+                        ],
+                        "catalogid": 363
+                    }
+                }
+            },
+            "Marionettes and Puppets": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            5,
+                            16,
+                            17,
+                            21
+                        ],
+                        "catalogid": 364
+                    }
+                }
+            },
+            "Animals": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            6,
+                            17,
+                            18,
+                            21
+                        ],
+                        "catalogid": 365
+                    }
+                }
+            },
+            "Vehicles": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            6,
+                            18,
+                            21
+                        ],
+                        "catalogid": 366
+                    }
+                }
+            },
+            "Banks and Mechanical Toys": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            7,
+                            8,
+                            9,
+                            18,
+                            19
+                        ],
+                        "catalogid": 367
+                    }
+                }
+            },
+            "Toys": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            9,
+                            19,
+                            20
+                        ],
+                        "catalogid": 368
+                    }
+                }
+            }
+        },
+        "Games": {
+            "": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            10
+                        ],
+                        "catalogid": 369
+                    }
+                }
+            }
+        },
+        "Musical Instruments": {
+            "Percussion Instruments": {
+                "Bells": {
+                    "Bells": {
+                        "part": 10,
+                        "microfiche-num": [
+                            10
+                        ],
+                        "catalogid": 370
+                    }
+                },
+                "Drums": {
+                    "Drums": {
+                        "part": 10,
+                        "microfiche-num": [
+                            10,
+                            20
+                        ],
+                        "catalogid": 371
+                    }
+                },
+                "Piano": {
+                    "Piano": {
+                        "part": 10,
+                        "microfiche-num": [
+                            10,
+                            20
+                        ],
+                        "catalogid": 372
+                    }
+                },
+                "Rattles and Alarms": {
+                    "Rattles and Alarms": {
+                        "part": 10,
+                        "microfiche-num": [
+                            10
+                        ],
+                        "catalogid": 373
+                    }
+                }
+            },
+            "String Instruments": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            11,
+                            20
+                        ],
+                        "catalogid": 374
+                    }
+                }
+            },
+            "Wind Instruments including Fifes Trumpets and Organs": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            11,
+                            20
+                        ],
+                        "catalogid": 375
+                    }
+                }
+            },
+            "Firemen's Speaking Trumpets": {
+                "": {
+                    "": {
+                        "part": 10,
+                        "microfiche-num": [
+                            11,
+                            20
+                        ],
+                        "catalogid": 376
+                    }
+                }
+            }
+        },
+        "": {
+            "": {
+                "Oversize Renderings": {
+                    "Oversize Renderings": {
+                        "part": 10,
+                        "microfiche-num": [
+                            12,
+                            13,
+                            14,
+                            15,
+                            16,
+                            17,
+                            18,
+                            19,
+                            20
+                        ],
+                        "catalogid": 377
+                    }
+                },
+                "Giant Renderings": {
+                    "Giant Renderings": {
+                        "part": 10,
+                        "microfiche-num": [
+                            21
+                        ],
+                        "catalogid": 378
+                    }
+                }
+            }
+        }
+    }
+}
