@@ -1,6 +1,6 @@
 //---------------LOAD DATA---------------
 // Load the first JSON dataset
-d3.json("../data/combined_data-1.json")
+d3.json("../data/combined_data.json")
   .then(function (json1) {
     // Load the second JSON dataset
     d3.json("../data/IoAD_merged_geo_data.json")
