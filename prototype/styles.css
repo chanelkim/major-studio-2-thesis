@@ -6,7 +6,22 @@ body {
   color: #222;
   letter-spacing: -0.5pt;
 }
+
 #app {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 2rem;
+}
+
+#container {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 2rem;
+}
+
+.group-container {
   margin-top: 2rem;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -16,10 +31,10 @@ body {
 div.card {
   max-width: 400px;
   display: inline-block;
-
   vertical-align: top;
   white-space: normal;
 }
+
 div.card h2 {
   font-size: 1.2rem;
   line-height: 1.1;
@@ -30,6 +45,14 @@ div.card h3 {
   line-height: 1.1;
   padding-bottom: 0.5em;
 }
+p.meta-data {
+  font-size: 1rem;
+  line-height: 1.1;
+  padding-bottom: 0.5em;
+  display: flex;
+  align-items: flex-end;
+}
+
 div.card div.image {
   margin-bottom: 1rem;
   width: 200px;
