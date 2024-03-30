@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Counts</title>
+    <!-- load the css files -->
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+
+  <body>
+    <h1>counts.js</h1>
+    <p>
+      <b>Tracking the Counts of Object Ids</b><br />
+      Based on the hierarchically nested objects that reflect the Catalog<br />
+      <i>
+        updated_categories.json (Catalog linked to objectids,<br />
+        if the key matches a "Word" - aka stem - from
+        data/textLinks-results-v2-with-objectids.json)
+      </i>
+    </p>
+    <div id="top-level-totals"></div>
+    <div id="chart"></div>
+
+    <!-- load the d3.js library -->
+    <script src="//unpkg.com/d3"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-textwrap@1.2.0/dist/d3-textwrap.min.js"></script>
+    <script src="counts.js"></script>
+  </body>
+</html>
