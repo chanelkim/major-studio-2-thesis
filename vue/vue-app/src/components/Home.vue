@@ -1,5 +1,11 @@
 <template>
   <div>
+    <h1>
+      <b
+        >changes coming from major-studio-2-thesis repo to publish on
+        chanelkim/thesis</b
+      >
+    </h1>
     <h1>Making decisions based on the weather forecast</h1>
     <h3>Next daytime temperature: {{ firstDaytimePeriod.temperature }}</h3>
 
@@ -110,7 +116,7 @@ export default {
 
 <style>
 body {
-  margin: 0px
+  margin: 0px;
 }
 
 #app {
