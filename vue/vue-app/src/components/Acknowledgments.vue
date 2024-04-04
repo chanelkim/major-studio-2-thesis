@@ -1,14 +1,14 @@
 <template>
   <div>
     <h1>Page X</h1>
-    <h3>Methodology</h3>
-    <p>How I got there</p>
+    <h3>Acknowledgments</h3>
+    <p>Thank you</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "Methodology",
+  name: "Acknowledgments",
 };
 </script>
 

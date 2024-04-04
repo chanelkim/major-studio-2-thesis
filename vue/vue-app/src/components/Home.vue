@@ -1,12 +1,8 @@
 <template>
   <div>
-    <h1>
-      <b
-        >changes coming from major-studio-2-thesis repo to publish on
-        chanelkim/thesis</b
-      >
-    </h1>
-    <h1>Making decisions based on the weather forecast</h1>
+    <h1>Index of American Design</h1>
+
+    <h2>Daniel's Lab Code Below [to edit]</h2>
     <h3>Next daytime temperature: {{ firstDaytimePeriod.temperature }}</h3>
 
     <div class="recommendation-group">
