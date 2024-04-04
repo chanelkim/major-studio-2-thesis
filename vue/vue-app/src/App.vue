@@ -1,3 +1,4 @@
+<!-- MENU ITEMS -->
 <template>
   <div>
     <el-menu

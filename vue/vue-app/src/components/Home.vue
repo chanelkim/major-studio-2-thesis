@@ -1,7 +1,19 @@
 <template>
   <div>
-    <h1>Index of American Design</h1>
+    <h1>{{ title }}</h1>
+    <h2>{{ subtitle }}</h2>
+    <SearchBar />
+    <div v-if="showModal">
+      <Modal
+        :header="header"
+        :text="text"
+        theme="success"
+        @close="toggleModal"
+      />
+    </div>
+    <button @click="toggleModal">open modal</button>
 
+    <h2>*********************************</h2>
     <h2>Daniel's Lab Code Below [to edit]</h2>
     <h3>Next daytime temperature: {{ firstDaytimePeriod.temperature }}</h3>
 
@@ -31,6 +43,11 @@
 </template>
 
 <script>
+import SearchBar from "./SearchBar.vue";
+import Modal from "./Modal.vue";
+
+// *********************************
+// Daniel's Lab Code Below [to edit]
 import BikeRecommender from "./BikeRecommender.vue";
 import UmbrellaRecommender from "./UmbrellaRecommender.vue";
 import BarChart from "./BarChart.vue";
@@ -41,12 +58,21 @@ const MAX_SVG_WIDTH = 600;
 export default {
   name: "Home",
   components: {
+    SearchBar,
+    Modal,
+    // *********************************
     BikeRecommender,
     UmbrellaRecommender,
     BarChart,
   },
   data() {
     return {
+      title: "Index of American Design",
+      subtitle: "Making an Obscure Collection Discoverable",
+      header: "Testing Modal Header",
+      text: "Testing Modal Text",
+      showModal: false,
+      // *********************************
       forecast: null,
       umbrellaOptions: ["Rain", "Showers", "Thunderstorms"],
       selectedUmbrellaOption: "Rain",
@@ -91,6 +117,15 @@ export default {
     },
   },
   methods: {
+    handleClick() {
+      console.log(this.$refs.name);
+      this.$refs.name.classList.add("active");
+      this.$refs.name.focus();
+    },
+    toggleModal() {
+      this.showModal = !this.showModal;
+    },
+    // *********************************
     onResize() {
       this.width = Math.min(MAX_SVG_WIDTH, window.innerWidth);
     },
@@ -108,6 +143,7 @@ export default {
     window.removeEventListener("resize", this.onResize);
   },
 };
+// *********************************
 </script>
 
 <style>
