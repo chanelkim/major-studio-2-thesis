@@ -1,6 +1,6 @@
 <template>
   <!-- click event for closing modal, after clicking backdrop-->
-  <div class="backdrop" @click="closeModal">
+  <div class="backdrop" @click.self="closeModal">
     <div class="modal" :class="{ success: theme === 'success' }">
       <h1>{{ header }}</h1>
       <p>{{ text }}</p>
