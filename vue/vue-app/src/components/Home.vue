@@ -3,15 +3,26 @@
     <h1>{{ title }}</h1>
     <h2>{{ subtitle }}</h2>
     <SearchBar />
-    <div v-if="showModal">
-      <Modal
-        :header="header"
-        :text="text"
-        theme="success"
-        @close="toggleModal"
-      />
-    </div>
-    <button @click="toggleModal">open modal</button>
+    <teleport to="#modals" v-if="showModal">
+      <Modal theme="success" @close="toggleModal">
+        <template v-slot:links>
+          <a href="#">sign up now</a>
+          <a href="#">more info</a>
+        </template>
+        <h1>Slot Example</h1>
+        <p>lorem ipsum</p>
+      </Modal>
+    </teleport>
+
+    <teleport to="#modals" v-if="showModalTwo">
+      <Modal @close="toggleModalTwo">
+        <h1>Sign up for the newsletter</h1>
+        <p>For updates and promo codes</p>
+      </Modal>
+    </teleport>
+
+    <button @click="toggleModal">open modal success</button>
+    <button @click="toggleModalTwo">open modal two</button>
 
     <h2>*********************************</h2>
     <h2>Daniel's Lab Code Below [to edit]</h2>
@@ -72,6 +83,7 @@ export default {
       header: "Testing Modal Header",
       text: "Testing Modal Text",
       showModal: false,
+      showModalTwo: false,
       // *********************************
       forecast: null,
       umbrellaOptions: ["Rain", "Showers", "Thunderstorms"],
@@ -125,6 +137,9 @@ export default {
     toggleModal() {
       this.showModal = !this.showModal;
     },
+    toggleModalTwo() {
+      this.showModalTwo = !this.showModalTwo;
+    },
     // *********************************
     onResize() {
       this.width = Math.min(MAX_SVG_WIDTH, window.innerWidth);
@@ -151,7 +166,8 @@ body {
   margin: 0px;
 }
 
-#app {
+#app,
+#modals {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
