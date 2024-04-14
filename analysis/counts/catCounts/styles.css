@@ -1,0 +1,82 @@
+body {
+  overflow: auto;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #e0e0e0;
+  padding: 2rem;
+  color: #222;
+  letter-spacing: -0.5pt;
+}
+
+/* CHART STYLING */
+#chart .key-label {
+  text-wrap: wrap;
+  word-break: break-all; /* Allow breaking words */
+}
+
+/* INHERITED SYTLING (for other visualizations, displaying objects) */
+
+#app {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 2rem;
+}
+
+#container {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 2rem;
+}
+
+.group-container {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 2rem;
+}
+
+div.card {
+  max-width: 400px;
+  display: inline-block;
+  vertical-align: top;
+  white-space: normal;
+}
+
+div.card h2 {
+  font-size: 1.2rem;
+  line-height: 1.1;
+  padding-bottom: 0.5em;
+}
+div.card h3 {
+  font-size: 1rem;
+  line-height: 1.1;
+  padding-bottom: 0.5em;
+}
+p.meta-data {
+  font-size: 1rem;
+  line-height: 1.1;
+  padding-bottom: 0.5em;
+  display: flex;
+  align-items: flex-end;
+}
+
+div.card div.image {
+  margin-bottom: 1rem;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: flex-end;
+}
+div.card div.image img {
+  max-width: 100%;
+  height: auto;
+  max-height: 200px;
+}
+
+div.card .object-id {
+  color: #999;
+}
+div.card .title {
+  color: #333;
+}

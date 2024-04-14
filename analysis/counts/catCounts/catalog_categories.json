@@ -1,0 +1,186 @@
+{
+   "Textiles Costume and Jewelry": [
+      {
+         "category": "Textiles",
+         "count": 960
+      },
+      {
+         "category": "Costume",
+         "count": 936
+      },
+      {
+         "category": "Costume Accessories",
+         "count": 144
+      },
+      {
+         "category": "Jewelry",
+         "count": 216
+      }
+   ],
+   "The Art and Design of Utopian and Religious Communities": [
+      {
+         "category": "Pennsylvania German",
+         "count": 432
+      },
+      {
+         "category": "Zoar",
+         "count": 48
+      },
+      {
+         "category": "Economy",
+         "count": 24
+      },
+      {
+         "category": "Amana",
+         "count": 24
+      },
+      {
+         "category": "Shaker",
+         "count": 264
+      },
+      {
+         "category": "Bishop Hill",
+         "count": 48
+      },
+      {
+         "category": "Quaker",
+         "count": 24
+      },
+      {
+         "category": "Mormon",
+         "count": 4
+      },
+      {
+         "category": "Spanish Southwest",
+         "count": 720
+      },
+      {
+         "category": "California Petroglyphs",
+         "count": 30
+      },
+      {
+         "category": "American Indian",
+         "count": 8
+      }
+   ],
+   "Architecture and Naive Art": [
+      {
+         "category": "Architecture",
+         "count": 576
+      },
+      {
+         "category": "Naive Art",
+         "count": 24
+      }
+   ],
+   "Tools Hardware Firearms and Vehicles": [
+      {
+         "category": "Tools and Equipment (A-Z)",
+         "count": 288
+      },
+      {
+         "category": "Hardware",
+         "count": 192
+      },
+      {
+         "category": "Amraments and Military Supplies",
+         "count": 96
+      },
+      {
+         "category": "Harness and Saddlery",
+         "count": 24
+      },
+      {
+         "category": "Vehicles",
+         "count": 24
+      },
+      {
+         "category": "Calibrated Instruments",
+         "count": 24
+      }
+   ],
+   "Domestic Utensils": [
+      {
+         "category": "Fireplace Equipment and Stoves",
+         "count": 336
+      },
+      {
+         "category": "LIghting Devices",
+         "count": 480
+      },
+      {
+         "category": "Textile Implements",
+         "count": 96
+      },
+      {
+         "category": "Domestic Utensils (A-Z)",
+         "count": 504
+      }
+   ],
+   "Furniture and Decorative Accessories": [
+      {
+         "category": "Furniture",
+         "count": 1056
+      },
+      {
+         "category": "Furnishing Accessories",
+         "count": 432
+      }
+   ],
+   "Wood Carvings and Weathervanes": [
+      {
+         "category": "Wood Carvings",
+         "count": 264
+      },
+      {
+         "category": "Scrimshaw",
+         "count": 10
+      },
+      {
+         "category": "Weathervanes and Whirligigs",
+         "count": 168
+      }
+   ],
+   "Ceramics and Glass": [
+      {
+         "category": "Ceramics",
+         "count": 1128
+      },
+      {
+         "category": "Chalkware",
+         "count": 48
+      },
+      {
+         "category": "Glass",
+         "count": 648
+      }
+   ],
+   "Silver Copper Pewter and Toleware": [
+      {
+         "category": "Silver",
+         "count": 336
+      },
+      {
+         "category": "Pewter",
+         "count": 144
+      },
+      {
+         "category": "Toleware",
+         "count": 96
+      }
+   ],
+   "Toys and Musical Instruments": [
+      {
+         "category": "Toys",
+         "count": 480
+      },
+      {
+         "category": "Games",
+         "count": 3
+      },
+      {
+         "category": "Musical Instruments",
+         "count": 72
+      }
+   ]
+}
