@@ -1,8 +1,9 @@
 <template>
   <div>
-    <h1>{{ title }}</h1>
-    <h2>{{ subtitle }}</h2>
-    <SearchBar />
+    <!-- <h1>{{ title }}</h1> -->
+    <!-- <h2>{{ subtitle }}</h2> -->
+    <!-- <SearchBar /> -->
+    <Media />
     <teleport to="#modals" v-if="showModal">
       <Modal theme="success" @close="toggleModal">
         <template v-slot:links>
@@ -54,8 +55,10 @@
 </template>
 
 <script>
-import SearchBar from "./SearchBar.vue";
+// import SearchBar from "./SearchBar.vue";
 import Modal from "./Modal.vue";
+// *********************************
+import Media from "./Media.vue";
 
 // *********************************
 // Daniel's Lab Code Below [to edit]
@@ -69,8 +72,10 @@ const MAX_SVG_WIDTH = 600;
 export default {
   name: "Home",
   components: {
-    SearchBar,
+    // SearchBar,
     Modal,
+    // *********************************
+    Media,
     // *********************************
     BikeRecommender,
     UmbrellaRecommender,

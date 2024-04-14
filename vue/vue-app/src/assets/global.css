@@ -1,6 +1,17 @@
 body {
   margin: 0;
+  font-family: "NeueMontreal-Regular";
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  font-family: "NeueMachina-Regular";
 }
 p {
+  font-family: "NeueMontreal-Regular";
   font-style: normal;
+}
+.el-menu a:link {
+  text-decoration: none;
 }
