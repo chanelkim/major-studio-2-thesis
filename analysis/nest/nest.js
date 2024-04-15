@@ -78,7 +78,20 @@ async function displayImages() {
   document.body.appendChild(sectionContainer);
 
   // Start processing, specify the section to load
-  let sectionToLoad = "Textiles Costume and Jewelry";
+  const sectionsArray = [
+    "Textiles Costume and Jewelry", // 0
+    "Architecture and Naive Art", // 1
+    "Tools Hardware Firearms and Vehicles", // 2
+    "Domestic Utensils", // 3
+    "Furniture and Decorative Accessories", // 4
+    "Wood Carvings and Weathervanes", // 5
+    "Ceramics and Glass", // 6
+    "Silver Copper Pewter and Toleware", // 7
+    "Toys and Musical Instruments", // 8
+  ];
+  //   let sectionToLoad = "Textiles Costume and Jewelry";
+  let sectionToLoad = sectionsArray[1];
+  console.log(sectionToLoad);
   processHierarchyLevel(hierarchy[sectionToLoad], sectionContainer); // Pass the container
 }
 
