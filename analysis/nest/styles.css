@@ -1,0 +1,21 @@
+.collapsible {
+  cursor: pointer; /* Indicate it's clickable */
+}
+
+.collapsible-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out; /* Add a smooth transition */
+}
+
+.collapsible-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.collapsible-content.show {
+  max-height: 500px; /* Adjust as needed - height when expanded  */
+}
+.collapsible-content.show img {
+  max-height: 100%; /* Allow images to take full height when expanded */
+}
