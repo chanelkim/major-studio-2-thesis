@@ -10,14 +10,14 @@
 </template>
 
 <script>
-import hero from "../assets/media/hero.png";
-import logo from "../assets/media/IoAD_stack.svg";
-// import IndexOf from "../assets/media/IoAD_American.svg";
-// import American from "../assets/media/IoAD_American.svg";
-// import Design from "../assets/media/IoAD_Design.svg";
+import hero from "../assets/webp/hero.png";
+import logo from "../assets/svg/IoAD_stack.svg";
+// import IndexOf from "../assets/svg/IoAD_American.svg";
+// import American from "../assets/svg/IoAD_American.svg";
+// import Design from "../assets/svg/IoAD_Design.svg";
 
 export default {
-  name: "Media",
+  name: "Hero",
   data() {
     return {
       hero,

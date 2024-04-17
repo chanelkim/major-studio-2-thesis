@@ -4,27 +4,40 @@
     <h3>The Catalog</h3>
     <p>Metadata for objects pictured in the IoAD</p>
   </div>
-  <svg :height="height" :width="width">
+  <div>
+    {{ catalogData }}
+    <p>Data Length: {{ Object.keys(catalogData).length }}</p>
+
+    <ul v-for="(items, category) in catalogData" :key="category">
+      <li v-for="item in items" :key="item.category">
+        {{ item.category }} - {{ item.count }}
+      </li>
+    </ul>
+  </div>
+  <!-- <svg :height="height" :width="width">
     <g class="bars" />
-  </svg>
+  </svg> -->
 </template>
 
 <script>
-import * as d3 from "d3";
+// import * as d3 from "d3";
 
 export default {
   name: "Catalog",
-  data() {},
   props: {
-    data: Object,
-    height: Number,
-    width: Number,
+    catalogData: Object,
   },
-  computed: {},
-  async updated() {
-    const data = await d3.json("@/data/catalog_categories.json");
+  mounted() {
+    console.log("catalogData received:", this.catalogData);
   },
 };
 </script>
 
-<style></style>
+<style>
+ul {
+  color: black;
+}
+body {
+  background-color: lightyellow;
+}
+</style>

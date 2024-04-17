@@ -8,13 +8,17 @@ import Acknowledgments from "./components/Acknowledgments.vue";
 import References from "./components/References.vue";
 
 const routes = [
-  { path: "/", component: Home },
-  { path: "/collection", component: Collection },
-  { path: "/methodology", component: Methodology },
-  { path: "/catalog", component: Catalog },
-  { path: "/history", component: History },
-  { path: "/acknowledgments", component: Acknowledgments },
-  { path: "/references", component: References },
+  { path: "/", name: "Home", component: Home },
+  { path: "/collection", name: "Collection", component: Collection },
+  { path: "/methodology", name: "Methodology", component: Methodology },
+  { path: "/catalog", name: "Catalog", component: Catalog },
+  { path: "/history", name: "History", component: History },
+  {
+    path: "/acknowledgments",
+    name: "Acknowledgments",
+    component: Acknowledgments,
+  },
+  { path: "/references", name: "References", component: References },
 ];
 export const router = VueRouter.createRouter({
   history: VueRouter.createWebHashHistory(),

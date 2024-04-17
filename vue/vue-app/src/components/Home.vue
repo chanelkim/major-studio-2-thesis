@@ -3,7 +3,7 @@
     <!-- <h1>{{ title }}</h1> -->
     <!-- <h2>{{ subtitle }}</h2> -->
     <!-- <SearchBar /> -->
-    <Media />
+    <Hero />
     <teleport to="#modals" v-if="showModal">
       <Modal theme="success" @close="toggleModal">
         <template v-slot:links>
@@ -58,7 +58,7 @@
 // import SearchBar from "./SearchBar.vue";
 import Modal from "./Modal.vue";
 // *********************************
-import Media from "./Media.vue";
+import Hero from "./Hero.vue";
 
 // *********************************
 // Daniel's Lab Code Below [to edit]
@@ -75,7 +75,7 @@ export default {
     // SearchBar,
     Modal,
     // *********************************
-    Media,
+    Hero,
     // *********************************
     BikeRecommender,
     UmbrellaRecommender,
