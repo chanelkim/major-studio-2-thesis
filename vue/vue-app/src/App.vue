@@ -34,7 +34,10 @@
       </el-menu-item>
     </el-menu>
     <!-- <router-view></router-view> -->
-    <router-view :catalogData="catalogData"></router-view>
+    <router-view
+      :catalogData="catalogData"
+      :sectionData="sectionData"
+    ></router-view>
   </div>
 </template>
 
@@ -47,19 +50,41 @@ export default {
   data() {
     return {
       catalogData: {},
+      sectionData: [],
     };
   },
   computed: {},
   mounted() {
-    // Load JSON data using D3
-    d3.json("./data/catalog_categories.json")
-      .then((data) => {
-        this.catalogData = data;
+    const jsonPaths = [
+      "./data/catalog_categories.json",
+      "./data/sections/textile_section_0.json",
+      "./data/sections/utopian_section_1.json",
+      "./data/sections/architecture_section_2.json",
+      "./data/sections/tool_section_3.json",
+      "./data/sections/domestic_section_4.json",
+      "./data/sections/furniture_section_5.json",
+      "./data/sections/wood_section_6.json",
+      "./data/sections/ceramic_section_7.json",
+      "./data/sections/silver_section_8.json",
+      "./data/sections/toy_section_9.json",
+    ];
+
+    // Use Promise.all() to load multiple JSON files concurrently
+    Promise.all(
+      jsonPaths.map((path) =>
+        // Fetch each JSON file
+        d3.json(path)
+      )
+    )
+      .then((dataArray) => {
+        // Extract catalogData from dataArray
+        this.catalogData = dataArray[0];
+        // Concatenate the rest of the arrays into a single array
+        this.sectionData = dataArray.slice(1).flat();
       })
       .catch((error) => {
         console.error("Error loading JSON data:", error);
       });
-    console.log("catalogData received:", this.catalogData);
   },
 };
 </script>
