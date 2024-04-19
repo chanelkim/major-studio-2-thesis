@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import hero from "../assets/webp/hero.png";
+import hero from "../assets/png/hero.png";
 import logo from "../assets/svg/IoAD_stack.svg";
 // import IndexOf from "../assets/svg/IoAD_American.svg";
 // import American from "../assets/svg/IoAD_American.svg";

@@ -53,7 +53,6 @@ export default {
       sectionData: [],
     };
   },
-  computed: {},
   mounted() {
     const jsonPaths = [
       "./data/catalog_categories.json",
