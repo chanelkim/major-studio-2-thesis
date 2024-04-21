@@ -19,7 +19,7 @@
         >
       </el-menu-item>
       <el-menu-item index="4">
-        <router-link class="margin-x" to="/catalog">Discover</router-link>
+        <router-link class="margin-x" to="/discover">Discover</router-link>
       </el-menu-item>
       <el-menu-item index="5">
         <router-link class="margin-x" to="/history">History</router-link>
@@ -33,9 +33,9 @@
         <router-link class="margin-x" to="/references">References</router-link>
       </el-menu-item>
     </el-menu>
-    <!-- <router-view></router-view> -->
     <router-view
       :catalogData="catalogData"
+      :ngaData="ngaData"
       :sectionData="sectionData"
     ></router-view>
   </div>
@@ -50,12 +50,14 @@ export default {
   data() {
     return {
       catalogData: {},
+      ngaData: [],
       sectionData: [],
     };
   },
   mounted() {
     const jsonPaths = [
       "./data/catalog_categories.json",
+      "./data/IoAD_merged_geo_data.json",
       "./data/sections/textile_section_0.json",
       "./data/sections/utopian_section_1.json",
       "./data/sections/architecture_section_2.json",
@@ -76,10 +78,10 @@ export default {
       )
     )
       .then((dataArray) => {
-        // Extract catalogData from dataArray
         this.catalogData = dataArray[0];
+        this.ngaData = dataArray[1];
         // Concatenate the rest of the arrays into a single array
-        this.sectionData = dataArray.slice(1).flat();
+        this.sectionData = dataArray.slice(2).flat();
       })
       .catch((error) => {
         console.error("Error loading JSON data:", error);
