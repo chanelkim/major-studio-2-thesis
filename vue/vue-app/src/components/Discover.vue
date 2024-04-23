@@ -3,19 +3,50 @@
     <h1>Page X</h1>
     <h3>Discovery Page (Interaction)</h3>
     <p>Metadata for objects pictured in the IoAD</p>
-    <!-- Render buttons based on array of objects -->
-    <div v-for="(section, index) in sections" :key="index">
-      <button @click="toggleImages(section)">
-        {{ Object.keys(section)[0] }}
-        <!-- Get the key of the object as the title -->
-      </button>
-      <!-- Conditionally render images -->
-      <div class="display" v-if="section.showImages">
-        <ImageDisplay
-          v-for="(image, index) in images"
-          :key="'image-' + index"
-          :image-url="image"
-        />
+
+    <!-- Render buttons for each array of sections -->
+    <div v-for="(sectionsArray, arrayIndex) in sectionData" :key="arrayIndex">
+      <div v-for="(section, sectionTitle) in sectionsArray" :key="sectionTitle">
+        <!-- Render button for the section if it's not the showImages property -->
+        <template v-if="sectionTitle !== 'showImages'">
+          <button
+            v-if="isValidButton(section) && sectionTitle !== 'ObjectIDs'"
+            @click="toggleImages(section)"
+          >
+            {{ sectionTitle }}
+          </button>
+        </template>
+        <!-- Recursively render subsections -->
+        <div v-if="section.showImages">
+          <template
+            v-if="typeof section === 'object' && !Array.isArray(section)"
+          >
+            <button
+              v-for="(subSection, subSectionTitle) in section"
+              :key="subSectionTitle"
+              @click="toggleImages(subSection)"
+            >
+              <!-- Exclude showImages and ObjectIDs from rendering -->
+              <template
+                v-if="
+                  isValidButton(subSection) &&
+                  subSectionTitle !== 'showImages' &&
+                  subSectionTitle !== 'ObjectIDs'
+                "
+              >
+                {{ subSectionTitle }}
+              </template>
+            </button>
+          </template>
+        </div>
+        <!-- Conditionally render images -->
+        <div v-if="section.showImages">
+          <ImageDisplay
+            v-for="(image, index) in images"
+            :key="'image-' + index"
+            :image-url="image"
+          />
+        </div>
       </div>
     </div>
   </div>
@@ -47,17 +78,36 @@ export default {
     loadData() {
       this.sections = this.sectionData.map((section) => ({
         ...section,
-        showImages: false, // Add showImages property to each section
+        showImages: false,
       }));
       console.log(this.sections);
     },
     toggleImages(section) {
-      // Toggle the value of showImages
+      // Close all sections
+      this.sections.forEach((s) => {
+        if (s !== section && s.showImages) {
+          s.showImages = false;
+        }
+      });
+
+      // Toggle the value of showImages for the clicked section
       section.showImages = !section.showImages;
 
       // Load images if showImages is true
       if (section.showImages) {
-        this.loadImages(section);
+        // If the section is an array (i.e., ObjectIDs), load the images directly
+        if (Array.isArray(section)) {
+          this.loadImages(section);
+        } else {
+          // Load the ObjectIDs array for the subsection
+          const objectIDs = section.ObjectIDs;
+          this.images = objectIDs.map((id) => {
+            const matchingItem = this.ngaData.find(
+              (item) => item.objectid === id
+            );
+            return matchingItem ? matchingItem.imagematch : null;
+          });
+        }
       }
     },
     loadImages(section) {
@@ -87,6 +137,14 @@ export default {
         console.log(matchingItem);
         return matchingItem ? matchingItem.imagematch : null;
       });
+    },
+    isValidButton(subSection) {
+      return (
+        typeof subSection === "object" &&
+        !Array.isArray(subSection) &&
+        subSection !== null &&
+        Object.keys(subSection).length > 0
+      );
     },
   },
 };
