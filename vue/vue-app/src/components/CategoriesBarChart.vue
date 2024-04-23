@@ -29,13 +29,13 @@ const marginLeft = 40;
 export default {
   name: "CategoriesBarChart",
   props: {
-    transformedData: Array,
+    transformedCatData: Array,
     height: Number,
     width: Number,
   },
   computed: {
     bars() {
-      return this.transformedData.map((item) => {
+      return this.transformedCatData.map((item) => {
         const x = marginLeft;
         const y = this.yScale(item.name);
         const width = this.xScale(item.value) - marginLeft;
@@ -46,7 +46,7 @@ export default {
     xScale() {
       const scale = d3
         .scaleLinear()
-        .domain([0, d3.max(this.transformedData, (d) => d.value)])
+        .domain([0, d3.max(this.transformedCatData, (d) => d.value)])
         .range([marginLeft, this.width - marginRight]);
 
       return scale;
@@ -54,7 +54,7 @@ export default {
     yScale() {
       const scale = d3
         .scaleBand()
-        .domain(this.transformedData.map((d) => d.name))
+        .domain(this.transformedCatData.map((d) => d.name))
         .range([marginTop, this.height - marginBottom])
         .padding(0.1);
 
