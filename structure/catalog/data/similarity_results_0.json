@@ -1,0 +1,4376 @@
+[
+    {
+        "title_token": "lars",
+        "section_token": "lars",
+        "similarity": 1,
+        "object_id": 21624,
+        "title_text": "Lars Soderquist",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "ornaments",
+        "section_token": "except",
+        "similarity": 0.35204941034317017,
+        "object_id": 28419,
+        "title_text": "Hair Ornaments",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "baskets",
+        "section_token": "lars",
+        "similarity": 0.32341477274894714,
+        "object_id": 16125,
+        "title_text": "Shaker Baskets",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "squeezer",
+        "section_token": "except",
+        "similarity": 0.3109913766384125,
+        "object_id": 25032,
+        "title_text": "Star Pastry Squeezer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "quaker",
+        "section_token": "except",
+        "similarity": 0.28753456473350525,
+        "object_id": 15229,
+        "title_text": "Quaker Dress",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "flour",
+        "section_token": "except",
+        "similarity": 0.2848619520664215,
+        "object_id": 29961,
+        "title_text": "Flour Barrel",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "ship",
+        "section_token": "lars",
+        "similarity": 0.2481447458267212,
+        "object_id": 20902,
+        "title_text": "Ship's Billethead",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "table",
+        "section_token": "lars",
+        "similarity": 0.24630464613437653,
+        "object_id": 29479,
+        "title_text": "Tailor's Table",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "earrings",
+        "section_token": "lars",
+        "similarity": 0.23744139075279236,
+        "object_id": 15442,
+        "title_text": "Hair Brooch and Earrings",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "posts",
+        "section_token": "lars",
+        "similarity": 0.2333942949771881,
+        "object_id": 16172,
+        "title_text": "Bed Posts",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "carvings",
+        "section_token": "except",
+        "similarity": 0.23320841789245605,
+        "object_id": 17730,
+        "title_text": "Carvings of a Sofa",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "indians",
+        "section_token": "lars",
+        "similarity": 0.22688542306423187,
+        "object_id": 28945,
+        "title_text": "Indians",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pieced",
+        "section_token": "except",
+        "similarity": 0.22265984117984772,
+        "object_id": 12483,
+        "title_text": "Pieced Quilt (1 Square)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "mast",
+        "section_token": "except",
+        "similarity": 0.22074945271015167,
+        "object_id": 24703,
+        "title_text": "Mast Sheath",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cream",
+        "section_token": "except",
+        "similarity": 0.2191525548696518,
+        "object_id": 23714,
+        "title_text": "Ice Cream Freezer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cover",
+        "section_token": "lars",
+        "similarity": 0.21745851635932922,
+        "object_id": 18545,
+        "title_text": "Crock with Cover",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "uniforms",
+        "section_token": "except",
+        "similarity": 0.2141726166009903,
+        "object_id": 13940,
+        "title_text": "Man's Uniforms",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "california",
+        "section_token": "except",
+        "similarity": 0.21341057121753693,
+        "object_id": 20338,
+        "title_text": "\"California Mission Style\" Interior",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "toleware",
+        "section_token": "lars",
+        "similarity": 0.20884837210178375,
+        "object_id": 27395,
+        "title_text": "Toleware Coffee Pot",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "majolica",
+        "section_token": "lars",
+        "similarity": 0.20867149531841278,
+        "object_id": 19383,
+        "title_text": "Majolica Pitcher",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "metal",
+        "section_token": "except",
+        "similarity": 0.20373524725437164,
+        "object_id": 21904,
+        "title_text": "Metal Eagle",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "irons",
+        "section_token": "lars",
+        "similarity": 0.20185638964176178,
+        "object_id": 14476,
+        "title_text": "Shackles or Leg Irons",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stenciled",
+        "section_token": "except",
+        "similarity": 0.19230355322360992,
+        "object_id": 12743,
+        "title_text": "Stenciled Table Cover",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "jewelry",
+        "section_token": "lars",
+        "similarity": 0.1911637783050537,
+        "object_id": 14488,
+        "title_text": "Horsehair Jewelry",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "coater",
+        "section_token": "except",
+        "similarity": 0.18973387777805328,
+        "object_id": 25328,
+        "title_text": "Apothecary's Pill Coater",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "embroidered",
+        "section_token": "lars",
+        "similarity": 0.18569064140319824,
+        "object_id": 14701,
+        "title_text": "Embroidered Sampler",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "shakers",
+        "section_token": "lars",
+        "similarity": 0.18517477810382843,
+        "object_id": 25318,
+        "title_text": "Pewter Salt and Pepper Shakers",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "egg",
+        "section_token": "lars",
+        "similarity": 0.1846841275691986,
+        "object_id": 19482,
+        "title_text": "Egg Cup",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "frow",
+        "section_token": "except",
+        "similarity": 0.18283803761005402,
+        "object_id": 22430,
+        "title_text": "Frow and Frow Club",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cups",
+        "section_token": "lars",
+        "similarity": 0.17436788976192474,
+        "object_id": 23432,
+        "title_text": "Tulip Cups",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pastry",
+        "section_token": "except",
+        "similarity": 0.1731945425271988,
+        "object_id": 25032,
+        "title_text": "Star Pastry Squeezer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "tripod",
+        "section_token": "lars",
+        "similarity": 0.16814763844013214,
+        "object_id": 17979,
+        "title_text": "Table (Tripod)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "scrimshaw",
+        "section_token": "lars",
+        "similarity": 0.1618369221687317,
+        "object_id": 25569,
+        "title_text": "Scrimshaw",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "industry",
+        "section_token": "lars",
+        "similarity": 0.15973471105098724,
+        "object_id": 20783,
+        "title_text": "Bank of Industry",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bracelets",
+        "section_token": "lars",
+        "similarity": 0.1569567322731018,
+        "object_id": 14507,
+        "title_text": "Bracelets",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cranberry",
+        "section_token": "except",
+        "similarity": 0.15415486693382263,
+        "object_id": 21701,
+        "title_text": "Cranberry Harvesting Scoop",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "draining",
+        "section_token": "except",
+        "similarity": 0.15137305855751038,
+        "object_id": 21808,
+        "title_text": "Cheese Draining Board",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stomper",
+        "section_token": "except",
+        "similarity": 0.14988973736763,
+        "object_id": 25489,
+        "title_text": "Sauerkraut Stomper",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "lamp",
+        "section_token": "lars",
+        "similarity": 0.14681150019168854,
+        "object_id": 24550,
+        "title_text": "Grease Lamp",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "petroglyphs",
+        "section_token": "lars",
+        "similarity": 0.1448264867067337,
+        "object_id": 19802,
+        "title_text": "Petroglyphs - Human Figures",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hooked",
+        "section_token": "lars",
+        "similarity": 0.14218899607658386,
+        "object_id": 12449,
+        "title_text": "Hooked Rug",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "accessories",
+        "section_token": "except",
+        "similarity": 0.14115171134471893,
+        "object_id": 14207,
+        "title_text": "Costume Accessories: Worn by T. Jefferson",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shaving",
+        "section_token": "except",
+        "similarity": 0.140808567404747,
+        "object_id": 18373,
+        "title_text": "Shaving Mug",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "doors",
+        "section_token": "except",
+        "similarity": 0.14020881056785583,
+        "object_id": 18773,
+        "title_text": "Chapel Doors",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "textile",
+        "section_token": "except",
+        "similarity": 0.13977834582328796,
+        "object_id": 13126,
+        "title_text": "Printed Textile",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spatula",
+        "section_token": "lars",
+        "similarity": 0.1388382464647293,
+        "object_id": 26923,
+        "title_text": "Wooden Spatula",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "buttons",
+        "section_token": "lars",
+        "similarity": 0.13639935851097107,
+        "object_id": 14260,
+        "title_text": "Buttons",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "linen",
+        "section_token": "lars",
+        "similarity": 0.13557730615139008,
+        "object_id": 13386,
+        "title_text": "Man's Linen Collar",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "restoration",
+        "section_token": "except",
+        "similarity": 0.1327063888311386,
+        "object_id": 18715,
+        "title_text": "Restoration Drawing: Wall Painting",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "silver",
+        "section_token": "except",
+        "similarity": 0.13176196813583374,
+        "object_id": 26552,
+        "title_text": "Silver Spoon",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "gloves",
+        "section_token": "except",
+        "similarity": 0.13059653341770172,
+        "object_id": 25615,
+        "title_text": "Shaker Gloves",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cigar",
+        "section_token": "except",
+        "similarity": 0.13037165999412537,
+        "object_id": 22130,
+        "title_text": "Cigar Store Indian",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "utensils",
+        "section_token": "lars",
+        "similarity": 0.1270969808101654,
+        "object_id": 26301,
+        "title_text": "Kitchen Utensils",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "utensils",
+        "section_token": "except",
+        "similarity": 0.12618900835514069,
+        "object_id": 26301,
+        "title_text": "Kitchen Utensils",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hair",
+        "section_token": "lars",
+        "similarity": 0.12606778740882874,
+        "object_id": 15442,
+        "title_text": "Hair Brooch and Earrings",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "skewers",
+        "section_token": "except",
+        "similarity": 0.12585660815238953,
+        "object_id": 26312,
+        "title_text": "Skewers and Holder",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "lighting",
+        "section_token": "lars",
+        "similarity": 0.12550854682922363,
+        "object_id": 23907,
+        "title_text": "Cast Iron Lighting Brackets",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cemetery",
+        "section_token": "lars",
+        "similarity": 0.1239660307765007,
+        "object_id": 18727,
+        "title_text": "Lintel, over Cemetery Gateway",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "ladle",
+        "section_token": "lars",
+        "similarity": 0.12359824776649475,
+        "object_id": 21769,
+        "title_text": "Ladle",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bells",
+        "section_token": "except",
+        "similarity": 0.12275835126638412,
+        "object_id": 20867,
+        "title_text": "Conestoga Wagon Bells",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "snow",
+        "section_token": "except",
+        "similarity": 0.12175869196653366,
+        "object_id": 14077,
+        "title_text": "Snow Skates",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "grain",
+        "section_token": "except",
+        "similarity": 0.1211763545870781,
+        "object_id": 21626,
+        "title_text": "Harvesting with Grain Cradles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "garden",
+        "section_token": "lars",
+        "similarity": 0.11978943645954132,
+        "object_id": 29024,
+        "title_text": "Garden Figure - George Washington",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "brush",
+        "section_token": "except",
+        "similarity": 0.11928090453147888,
+        "object_id": 28656,
+        "title_text": "Long Handled Bristle Brush",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sculpture",
+        "section_token": "except",
+        "similarity": 0.11786921322345734,
+        "object_id": 30083,
+        "title_text": "Sculpture",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "design",
+        "section_token": "lars",
+        "similarity": 0.11679268628358841,
+        "object_id": 19094,
+        "title_text": "Keystone Design",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "benches",
+        "section_token": "except",
+        "similarity": 0.11659807711839676,
+        "object_id": 25735,
+        "title_text": "Shaker Refectory Table with Benches",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "printing",
+        "section_token": "except",
+        "similarity": 0.11558010429143906,
+        "object_id": 25434,
+        "title_text": "Printing Blocks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "paneling",
+        "section_token": "lars",
+        "similarity": 0.11475933343172073,
+        "object_id": 24669,
+        "title_text": "Details of Paneling",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "wood",
+        "section_token": "lars",
+        "similarity": 0.11406338959932327,
+        "object_id": 22268,
+        "title_text": "Wood Carving - \"Hexafoos\"",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "buckles",
+        "section_token": "except",
+        "similarity": 0.11206714808940887,
+        "object_id": 14565,
+        "title_text": "Slides and Buckles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "design",
+        "section_token": "except",
+        "similarity": 0.1112566739320755,
+        "object_id": 19094,
+        "title_text": "Keystone Design",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "store",
+        "section_token": "except",
+        "similarity": 0.10988973826169968,
+        "object_id": 22130,
+        "title_text": "Cigar Store Indian",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cradles",
+        "section_token": "except",
+        "similarity": 0.10803157091140747,
+        "object_id": 21626,
+        "title_text": "Harvesting with Grain Cradles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shop",
+        "section_token": "except",
+        "similarity": 0.10755530744791031,
+        "object_id": 27058,
+        "title_text": "Wine Shop Emblem",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "suspenders",
+        "section_token": "except",
+        "similarity": 0.10749814659357071,
+        "object_id": 14303,
+        "title_text": "Boy's Suspenders",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "economy",
+        "section_token": "except",
+        "similarity": 0.10731401294469833,
+        "object_id": 21955,
+        "title_text": "Economy Sample of Silk",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "scrapers",
+        "section_token": "lars",
+        "similarity": 0.10729125142097473,
+        "object_id": 16100,
+        "title_text": "Amana Dough Trough Scrapers",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cups",
+        "section_token": "except",
+        "similarity": 0.10718812048435211,
+        "object_id": 23432,
+        "title_text": "Tulip Cups",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pastry",
+        "section_token": "lars",
+        "similarity": 0.10687032341957092,
+        "object_id": 25032,
+        "title_text": "Star Pastry Squeezer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "floor",
+        "section_token": "lars",
+        "similarity": 0.10590334981679916,
+        "object_id": 27230,
+        "title_text": "Floor Tile",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "glass",
+        "section_token": "lars",
+        "similarity": 0.10549997538328171,
+        "object_id": 23137,
+        "title_text": "Glass Hat",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spoke",
+        "section_token": "lars",
+        "similarity": 0.10452163219451904,
+        "object_id": 26930,
+        "title_text": "Spoke Cutter",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hooks",
+        "section_token": "lars",
+        "similarity": 0.103836789727211,
+        "object_id": 23610,
+        "title_text": "Bucket Hooks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "boxes",
+        "section_token": "except",
+        "similarity": 0.10301583260297775,
+        "object_id": 21115,
+        "title_text": "Branding Iron Used for Boxes and Bags",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "ice",
+        "section_token": "lars",
+        "similarity": 0.1025160551071167,
+        "object_id": 23714,
+        "title_text": "Ice Cream Freezer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "beam",
+        "section_token": "lars",
+        "similarity": 0.10084305703639984,
+        "object_id": 28396,
+        "title_text": "Well with Movable Beam",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "belts",
+        "section_token": "lars",
+        "similarity": 0.10076962411403656,
+        "object_id": 15156,
+        "title_text": "Belts",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "american",
+        "section_token": "lars",
+        "similarity": 0.10000026226043701,
+        "object_id": 28606,
+        "title_text": "American Glass Flask",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pail",
+        "section_token": "except",
+        "similarity": 0.09986741095781326,
+        "object_id": 16072,
+        "title_text": "Zoar Tin Coffee Pot and Pail",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "silk",
+        "section_token": "except",
+        "similarity": 0.098936527967453,
+        "object_id": 15011,
+        "title_text": "Silk Gown",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spoke",
+        "section_token": "except",
+        "similarity": 0.09846709668636322,
+        "object_id": 26930,
+        "title_text": "Spoke Cutter",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cupboards",
+        "section_token": "except",
+        "similarity": 0.09618464857339859,
+        "object_id": 29033,
+        "title_text": "Built-in Drawers and Cupboards",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "candle",
+        "section_token": "except",
+        "similarity": 0.09502556920051575,
+        "object_id": 24767,
+        "title_text": "Candle Mold",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "clam",
+        "section_token": "lars",
+        "similarity": 0.09492702782154083,
+        "object_id": 21517,
+        "title_text": "Clam Rake",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hide",
+        "section_token": "lars",
+        "similarity": 0.09462445229291916,
+        "object_id": 27992,
+        "title_text": "Hide Covered Trunk",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "doorway",
+        "section_token": "except",
+        "similarity": 0.09405588358640671,
+        "object_id": 18147,
+        "title_text": "Restoration Drawing: Main Doorway & Arch to Mission House",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spanish",
+        "section_token": "except",
+        "similarity": 0.0935705155134201,
+        "object_id": 22366,
+        "title_text": "Spanish Southwest: Hat",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "chamber",
+        "section_token": "except",
+        "similarity": 0.09258724004030228,
+        "object_id": 19878,
+        "title_text": "Exterior Sand Blasting Chamber, 1935",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cuff",
+        "section_token": "except",
+        "similarity": 0.09240759164094925,
+        "object_id": 12366,
+        "title_text": "Embroidered Cuff",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "religious",
+        "section_token": "except",
+        "similarity": 0.0904473066329956,
+        "object_id": 12254,
+        "title_text": "Religious Embroidery",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "architectural",
+        "section_token": "except",
+        "similarity": 0.08875074982643127,
+        "object_id": 18777,
+        "title_text": "Architectural Detail (Wall Brackets)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "needlework",
+        "section_token": "except",
+        "similarity": 0.08664801716804504,
+        "object_id": 26906,
+        "title_text": "Needlework on Altar Cloth",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pan",
+        "section_token": "lars",
+        "similarity": 0.08600406348705292,
+        "object_id": 28329,
+        "title_text": "Bed Warming Pan",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spectacles",
+        "section_token": "lars",
+        "similarity": 0.08587438613176346,
+        "object_id": 14459,
+        "title_text": "Spectacles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "dirk",
+        "section_token": "lars",
+        "similarity": 0.08565573394298553,
+        "object_id": 29414,
+        "title_text": "Dirk",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "grandfather",
+        "section_token": "except",
+        "similarity": 0.08477051556110382,
+        "object_id": 20052,
+        "title_text": "Grandfather Clock",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stamps",
+        "section_token": "lars",
+        "similarity": 0.08438123762607574,
+        "object_id": 25431,
+        "title_text": "Stamps for Embroidery",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "sauerkraut",
+        "section_token": "except",
+        "similarity": 0.083696149289608,
+        "object_id": 25489,
+        "title_text": "Sauerkraut Stomper",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "chairs",
+        "section_token": "except",
+        "similarity": 0.0832972452044487,
+        "object_id": 29289,
+        "title_text": "Shaker Table and Chairs",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pieces",
+        "section_token": "except",
+        "similarity": 0.08306565135717392,
+        "object_id": 24162,
+        "title_text": "Head Pieces",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "lighting",
+        "section_token": "except",
+        "similarity": 0.08267316222190857,
+        "object_id": 23907,
+        "title_text": "Cast Iron Lighting Brackets",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "military",
+        "section_token": "except",
+        "similarity": 0.08259589225053787,
+        "object_id": 15366,
+        "title_text": "Military Headdress",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "economy",
+        "section_token": "lars",
+        "similarity": 0.08195749670267105,
+        "object_id": 21955,
+        "title_text": "Economy Sample of Silk",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "asparagus",
+        "section_token": "except",
+        "similarity": 0.0815313532948494,
+        "object_id": 20546,
+        "title_text": "Asparagus Buncher",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "dough",
+        "section_token": "lars",
+        "similarity": 0.0811532512307167,
+        "object_id": 21814,
+        "title_text": "Dough Bin",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "ring",
+        "section_token": "except",
+        "similarity": 0.08080697059631348,
+        "object_id": 17391,
+        "title_text": "Ring Bottle",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "floor",
+        "section_token": "except",
+        "similarity": 0.08056449890136719,
+        "object_id": 27230,
+        "title_text": "Floor Tile",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "figures",
+        "section_token": "lars",
+        "similarity": 0.08047023415565491,
+        "object_id": 22241,
+        "title_text": "Decorative Figures \"Peace and Plenty\"",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "carpet",
+        "section_token": "lars",
+        "similarity": 0.07982277870178223,
+        "object_id": 12976,
+        "title_text": "Woven Wool Carpet",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "embroidery",
+        "section_token": "except",
+        "similarity": 0.07979556173086166,
+        "object_id": 14749,
+        "title_text": "Mourning Embroidery",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "men",
+        "section_token": "except",
+        "similarity": 0.07898309081792831,
+        "object_id": 19870,
+        "title_text": "Foyer's Men's Club, 1880-1910",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "rigging",
+        "section_token": "lars",
+        "similarity": 0.0776292160153389,
+        "object_id": 26962,
+        "title_text": "Spreader for Schooner Rigging",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "printing",
+        "section_token": "lars",
+        "similarity": 0.07737762480974197,
+        "object_id": 25434,
+        "title_text": "Printing Blocks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pockets",
+        "section_token": "lars",
+        "similarity": 0.07557737827301025,
+        "object_id": 14921,
+        "title_text": "Pannier Pockets",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cork",
+        "section_token": "lars",
+        "similarity": 0.07540149986743927,
+        "object_id": 21707,
+        "title_text": "Cork Compressor",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "holder",
+        "section_token": "lars",
+        "similarity": 0.07496090233325958,
+        "object_id": 24135,
+        "title_text": "Candle Holder",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bracelets",
+        "section_token": "except",
+        "similarity": 0.0741770938038826,
+        "object_id": 14507,
+        "title_text": "Bracelets",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pieces",
+        "section_token": "lars",
+        "similarity": 0.07357026636600494,
+        "object_id": 24162,
+        "title_text": "Head Pieces",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "mittens",
+        "section_token": "lars",
+        "similarity": 0.0734855979681015,
+        "object_id": 14304,
+        "title_text": "Mittens",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stern",
+        "section_token": "except",
+        "similarity": 0.07271749526262283,
+        "object_id": 28430,
+        "title_text": "Stern Board Carving",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shoe",
+        "section_token": "lars",
+        "similarity": 0.06967223435640335,
+        "object_id": 14204,
+        "title_text": "Baby's Shoe",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "applique",
+        "section_token": "except",
+        "similarity": 0.06947128474712372,
+        "object_id": 12481,
+        "title_text": "Applique Quilt (Friendship Quilt)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pewter",
+        "section_token": "except",
+        "similarity": 0.06927028298377991,
+        "object_id": 25148,
+        "title_text": "Pewter Drinking Cup",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "trousers",
+        "section_token": "lars",
+        "similarity": 0.06890034675598145,
+        "object_id": 13870,
+        "title_text": "Trousers",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stage",
+        "section_token": "lars",
+        "similarity": 0.06802403181791306,
+        "object_id": 26960,
+        "title_text": "Stage-coach",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "broom",
+        "section_token": "lars",
+        "similarity": 0.06794621050357819,
+        "object_id": 25797,
+        "title_text": "Shaker Broom",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "knife",
+        "section_token": "except",
+        "similarity": 0.06753656268119812,
+        "object_id": 24539,
+        "title_text": "Trench Knife and Sheath",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "tools",
+        "section_token": "except",
+        "similarity": 0.06733312457799911,
+        "object_id": 25898,
+        "title_text": "Tools",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "woven",
+        "section_token": "except",
+        "similarity": 0.06639332324266434,
+        "object_id": 12617,
+        "title_text": "Woven Wool Coverlet",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cupboards",
+        "section_token": "lars",
+        "similarity": 0.06612629443407059,
+        "object_id": 29033,
+        "title_text": "Built-in Drawers and Cupboards",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "mitts",
+        "section_token": "except",
+        "similarity": 0.06607336550951004,
+        "object_id": 14306,
+        "title_text": "Mitts",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "interiors",
+        "section_token": "except",
+        "similarity": 0.06532347947359085,
+        "object_id": 24938,
+        "title_text": "Panels from Rail Car Interiors",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spreader",
+        "section_token": "except",
+        "similarity": 0.06479309499263763,
+        "object_id": 26962,
+        "title_text": "Spreader for Schooner Rigging",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "copper",
+        "section_token": "lars",
+        "similarity": 0.06306251138448715,
+        "object_id": 24040,
+        "title_text": "Copper Candy Vessel",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hair",
+        "section_token": "except",
+        "similarity": 0.0629711002111435,
+        "object_id": 15442,
+        "title_text": "Hair Brooch and Earrings",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "jacks",
+        "section_token": "except",
+        "similarity": 0.0627945140004158,
+        "object_id": 28800,
+        "title_text": "Conestoga Wagon Jacks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "jacks",
+        "section_token": "lars",
+        "similarity": 0.06118214502930641,
+        "object_id": 28800,
+        "title_text": "Conestoga Wagon Jacks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "textiles",
+        "section_token": "lars",
+        "similarity": 0.06109538674354553,
+        "object_id": 13117,
+        "title_text": "Printed Textiles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "car",
+        "section_token": "lars",
+        "similarity": 0.06070118397474289,
+        "object_id": 20872,
+        "title_text": "Mule Car Bell",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "gardens",
+        "section_token": "except",
+        "similarity": 0.06068452447652817,
+        "object_id": 22642,
+        "title_text": "Elgin Botanical Gardens",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "decorative",
+        "section_token": "lars",
+        "similarity": 0.060241881757974625,
+        "object_id": 24945,
+        "title_text": "Decorative Panel from Rail Car Interior",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "four",
+        "section_token": "except",
+        "similarity": 0.05923895165324211,
+        "object_id": 28591,
+        "title_text": "Four Poster Bed",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "animals",
+        "section_token": "except",
+        "similarity": 0.05759526789188385,
+        "object_id": 27780,
+        "title_text": "Noah's Ark with Animals",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spanish",
+        "section_token": "lars",
+        "similarity": 0.05733570083975792,
+        "object_id": 22366,
+        "title_text": "Spanish Southwest: Hat",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "furniture",
+        "section_token": "lars",
+        "similarity": 0.05635286495089531,
+        "object_id": 29478,
+        "title_text": "Built-In Furniture",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "southwest",
+        "section_token": "except",
+        "similarity": 0.055320799350738525,
+        "object_id": 22366,
+        "title_text": "Spanish Southwest: Hat",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "renderings",
+        "section_token": "except",
+        "similarity": 0.054977353662252426,
+        "object_id": 29059,
+        "title_text": "Renderings of Stone (Demo.)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "amana",
+        "section_token": "except",
+        "similarity": 0.05279573053121567,
+        "object_id": 16101,
+        "title_text": "Amana Stove",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "painted",
+        "section_token": "lars",
+        "similarity": 0.05250205844640732,
+        "object_id": 28577,
+        "title_text": "Painted Panel from Pullman Car Interior",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "sausage",
+        "section_token": "lars",
+        "similarity": 0.05198772996664047,
+        "object_id": 25546,
+        "title_text": "Sausage Stuffer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "ring",
+        "section_token": "lars",
+        "similarity": 0.05155527964234352,
+        "object_id": 17391,
+        "title_text": "Ring Bottle",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hitching",
+        "section_token": "lars",
+        "similarity": 0.049957118928432465,
+        "object_id": 23633,
+        "title_text": "Hitching Post",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "snow",
+        "section_token": "lars",
+        "similarity": 0.04957936331629753,
+        "object_id": 14077,
+        "title_text": "Snow Skates",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "eagles",
+        "section_token": "lars",
+        "similarity": 0.04949049651622772,
+        "object_id": 15932,
+        "title_text": "Pa. German Wooden Eagles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bouquet",
+        "section_token": "except",
+        "similarity": 0.04921145364642143,
+        "object_id": 14496,
+        "title_text": "Bouquet Holder",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "indian",
+        "section_token": "except",
+        "similarity": 0.04799559339880943,
+        "object_id": 22130,
+        "title_text": "Cigar Store Indian",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pieced",
+        "section_token": "lars",
+        "similarity": 0.0472598597407341,
+        "object_id": 12483,
+        "title_text": "Pieced Quilt (1 Square)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cookie",
+        "section_token": "lars",
+        "similarity": 0.046741191297769547,
+        "object_id": 20212,
+        "title_text": "Cookie Jar with Cover",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "muffin",
+        "section_token": "except",
+        "similarity": 0.04622194170951843,
+        "object_id": 24799,
+        "title_text": "Muffin Pan",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "needlework",
+        "section_token": "lars",
+        "similarity": 0.04586886614561081,
+        "object_id": 26906,
+        "title_text": "Needlework on Altar Cloth",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stools",
+        "section_token": "lars",
+        "similarity": 0.045499127358198166,
+        "object_id": 25621,
+        "title_text": "Shaker Stools",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "machine",
+        "section_token": "lars",
+        "similarity": 0.04548395052552223,
+        "object_id": 21247,
+        "title_text": "Cancelling Machine",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "boxes",
+        "section_token": "lars",
+        "similarity": 0.04470601677894592,
+        "object_id": 21115,
+        "title_text": "Branding Iron Used for Boxes and Bags",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bowl",
+        "section_token": "lars",
+        "similarity": 0.044632457196712494,
+        "object_id": 18317,
+        "title_text": "Sugar Bowl",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "indian",
+        "section_token": "lars",
+        "similarity": 0.044000424444675446,
+        "object_id": 22130,
+        "title_text": "Cigar Store Indian",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "costume",
+        "section_token": "except",
+        "similarity": 0.04383785277605057,
+        "object_id": 16138,
+        "title_text": "Shaker Costume",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spoons",
+        "section_token": "lars",
+        "similarity": 0.04344296082854271,
+        "object_id": 26519,
+        "title_text": "Two Silver Soup Spoons",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "slicer",
+        "section_token": "lars",
+        "similarity": 0.04316684231162071,
+        "object_id": 22423,
+        "title_text": "Fruit Slicer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "firemarks",
+        "section_token": "except",
+        "similarity": 0.04276132956147194,
+        "object_id": 22329,
+        "title_text": "Firemarks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pennsylvania",
+        "section_token": "except",
+        "similarity": 0.04272286221385002,
+        "object_id": 19698,
+        "title_text": "Pennsylvania German Puzzle Jug",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "drawing",
+        "section_token": "lars",
+        "similarity": 0.04222894087433815,
+        "object_id": 18715,
+        "title_text": "Restoration Drawing: Wall Painting",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "drawing",
+        "section_token": "except",
+        "similarity": 0.04114491865038872,
+        "object_id": 18715,
+        "title_text": "Restoration Drawing: Wall Painting",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "scrimshaw",
+        "section_token": "except",
+        "similarity": 0.04069260507822037,
+        "object_id": 25569,
+        "title_text": "Scrimshaw",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "scrapers",
+        "section_token": "except",
+        "similarity": 0.04055948927998543,
+        "object_id": 16100,
+        "title_text": "Amana Dough Trough Scrapers",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "quilts",
+        "section_token": "except",
+        "similarity": 0.038825009018182755,
+        "object_id": 12482,
+        "title_text": "Quilts, Pieced",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "human",
+        "section_token": "lars",
+        "similarity": 0.03868547081947327,
+        "object_id": 19811,
+        "title_text": "Petroglyph - Human Figures",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "turpentine",
+        "section_token": "lars",
+        "similarity": 0.038534462451934814,
+        "object_id": 27976,
+        "title_text": "Turpentine Hack",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "ladle",
+        "section_token": "except",
+        "similarity": 0.03777537867426872,
+        "object_id": 21769,
+        "title_text": "Ladle",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "religious",
+        "section_token": "lars",
+        "similarity": 0.036075983196496964,
+        "object_id": 12254,
+        "title_text": "Religious Embroidery",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "draining",
+        "section_token": "lars",
+        "similarity": 0.035784248262643814,
+        "object_id": 21808,
+        "title_text": "Cheese Draining Board",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "rolling",
+        "section_token": "except",
+        "similarity": 0.03497588634490967,
+        "object_id": 25515,
+        "title_text": "Dough Rolling Pin",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "fruit",
+        "section_token": "except",
+        "similarity": 0.03488805145025253,
+        "object_id": 19256,
+        "title_text": "Fruit Jar",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "wool",
+        "section_token": "except",
+        "similarity": 0.03477684035897255,
+        "object_id": 12617,
+        "title_text": "Woven Wool Coverlet",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "nut",
+        "section_token": "except",
+        "similarity": 0.03403250128030777,
+        "object_id": 27640,
+        "title_text": "Nut Head Doll #2",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "chamber",
+        "section_token": "lars",
+        "similarity": 0.03386719897389412,
+        "object_id": 19878,
+        "title_text": "Exterior Sand Blasting Chamber, 1935",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "southwest",
+        "section_token": "lars",
+        "similarity": 0.033650029450654984,
+        "object_id": 22366,
+        "title_text": "Spanish Southwest: Hat",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "earthenware",
+        "section_token": "lars",
+        "similarity": 0.0335153266787529,
+        "object_id": 19586,
+        "title_text": "Earthenware Butter Churn",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "fireplace",
+        "section_token": "except",
+        "similarity": 0.033418700098991394,
+        "object_id": 21569,
+        "title_text": "Fireplace",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "women",
+        "section_token": "lars",
+        "similarity": 0.033023539930582047,
+        "object_id": 29527,
+        "title_text": "Velvet Bolero for Women",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "slicer",
+        "section_token": "except",
+        "similarity": 0.03297305107116699,
+        "object_id": 22423,
+        "title_text": "Fruit Slicer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "gloves",
+        "section_token": "lars",
+        "similarity": 0.0328507162630558,
+        "object_id": 25615,
+        "title_text": "Shaker Gloves",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "box",
+        "section_token": "except",
+        "similarity": 0.03276172652840614,
+        "object_id": 20364,
+        "title_text": "Butter Box",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "german",
+        "section_token": "except",
+        "similarity": 0.03268825635313988,
+        "object_id": 19698,
+        "title_text": "Pennsylvania German Puzzle Jug",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "equipment",
+        "section_token": "except",
+        "similarity": 0.03110204078257084,
+        "object_id": 20176,
+        "title_text": "Fireplace Equipment",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "piano",
+        "section_token": "lars",
+        "similarity": 0.03068413957953453,
+        "object_id": 24838,
+        "title_text": "Piano",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "suspenders",
+        "section_token": "lars",
+        "similarity": 0.029232501983642578,
+        "object_id": 14303,
+        "title_text": "Boy's Suspenders",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hay",
+        "section_token": "except",
+        "similarity": 0.02857282944023609,
+        "object_id": 24062,
+        "title_text": "Hay Knife",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hooks",
+        "section_token": "except",
+        "similarity": 0.026980003342032433,
+        "object_id": 23610,
+        "title_text": "Bucket Hooks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "toys",
+        "section_token": "except",
+        "similarity": 0.026196233928203583,
+        "object_id": 27802,
+        "title_text": "Wooden Toys",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "american",
+        "section_token": "except",
+        "similarity": 0.02614099346101284,
+        "object_id": 28606,
+        "title_text": "American Glass Flask",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "gardens",
+        "section_token": "lars",
+        "similarity": 0.02604045905172825,
+        "object_id": 22642,
+        "title_text": "Elgin Botanical Gardens",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "store",
+        "section_token": "lars",
+        "similarity": 0.025392908602952957,
+        "object_id": 22130,
+        "title_text": "Cigar Store Indian",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "clogs",
+        "section_token": "except",
+        "similarity": 0.025161100551486015,
+        "object_id": 14105,
+        "title_text": "Woman's Clogs",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "bottle",
+        "section_token": "lars",
+        "similarity": 0.023559188470244408,
+        "object_id": 18461,
+        "title_text": "Book Bottle",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pennsylvania",
+        "section_token": "lars",
+        "similarity": 0.022904952988028526,
+        "object_id": 19698,
+        "title_text": "Pennsylvania German Puzzle Jug",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "clock",
+        "section_token": "lars",
+        "similarity": 0.021890437230467796,
+        "object_id": 25678,
+        "title_text": "Shaker Tall Clock",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "ornament",
+        "section_token": "lars",
+        "similarity": 0.021182546392083168,
+        "object_id": 20483,
+        "title_text": "Dog (Mantel Ornament)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "walking",
+        "section_token": "except",
+        "similarity": 0.020804867148399353,
+        "object_id": 14268,
+        "title_text": "Walking Stick",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pill",
+        "section_token": "lars",
+        "similarity": 0.020447611808776855,
+        "object_id": 25328,
+        "title_text": "Apothecary's Pill Coater",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "chests",
+        "section_token": "lars",
+        "similarity": 0.020324183627963066,
+        "object_id": 76577,
+        "title_text": "Study for Proposed Portfolio \"Decorated Chests of Rural Pennsylvania\"",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "horses",
+        "section_token": "lars",
+        "similarity": 0.020318252965807915,
+        "object_id": 27843,
+        "title_text": "Toy Coach and Two Horses",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "embroidery",
+        "section_token": "lars",
+        "similarity": 0.019714470952749252,
+        "object_id": 14749,
+        "title_text": "Mourning Embroidery",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "chalkware",
+        "section_token": "lars",
+        "similarity": 0.019496925175189972,
+        "object_id": 20519,
+        "title_text": "Chalkware Dog",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "wallpaper",
+        "section_token": "except",
+        "similarity": 0.019155198708176613,
+        "object_id": 29632,
+        "title_text": "Wallpaper",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "silver",
+        "section_token": "lars",
+        "similarity": 0.018792539834976196,
+        "object_id": 26552,
+        "title_text": "Silver Spoon",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "barrels",
+        "section_token": "lars",
+        "similarity": 0.017784548923373222,
+        "object_id": 23464,
+        "title_text": "Marking Gauge for Barrels",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "doorway",
+        "section_token": "lars",
+        "similarity": 0.015977853909134865,
+        "object_id": 18147,
+        "title_text": "Restoration Drawing: Main Doorway & Arch to Mission House",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "buckles",
+        "section_token": "lars",
+        "similarity": 0.015113389119505882,
+        "object_id": 14565,
+        "title_text": "Slides and Buckles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "molds",
+        "section_token": "lars",
+        "similarity": 0.01492591854184866,
+        "object_id": 21231,
+        "title_text": "Butter Molds",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bristle",
+        "section_token": "lars",
+        "similarity": 0.014859211631119251,
+        "object_id": 28656,
+        "title_text": "Long Handled Bristle Brush",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cotton",
+        "section_token": "except",
+        "similarity": 0.014779975637793541,
+        "object_id": 12709,
+        "title_text": "Cotton Thread Scarf",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "crewel",
+        "section_token": "lars",
+        "similarity": 0.01459894236177206,
+        "object_id": 14748,
+        "title_text": "Crewel Embroidered Bedspread",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pins",
+        "section_token": "except",
+        "similarity": 0.014237314462661743,
+        "object_id": 24836,
+        "title_text": "Box for Nails and Pins",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "ornaments",
+        "section_token": "lars",
+        "similarity": 0.013697097077965736,
+        "object_id": 28419,
+        "title_text": "Hair Ornaments",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "skates",
+        "section_token": "except",
+        "similarity": 0.013345565646886826,
+        "object_id": 14078,
+        "title_text": "File Skates",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pestles",
+        "section_token": "lars",
+        "similarity": 0.012908334843814373,
+        "object_id": 28803,
+        "title_text": "Mortar and Pestles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "interiors",
+        "section_token": "lars",
+        "similarity": 0.012741556391119957,
+        "object_id": 24938,
+        "title_text": "Panels from Rail Car Interiors",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "animals",
+        "section_token": "lars",
+        "similarity": 0.012471719644963741,
+        "object_id": 27780,
+        "title_text": "Noah's Ark with Animals",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bark",
+        "section_token": "lars",
+        "similarity": 0.011192452162504196,
+        "object_id": 21986,
+        "title_text": "Figurehead from Bark \"George\"",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "coffee",
+        "section_token": "except",
+        "similarity": 0.010901432484388351,
+        "object_id": 27395,
+        "title_text": "Toleware Coffee Pot",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "details",
+        "section_token": "except",
+        "similarity": 0.009647292084991932,
+        "object_id": 18724,
+        "title_text": "Window Shutters and Details",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "tongs",
+        "section_token": "lars",
+        "similarity": 0.009297382086515427,
+        "object_id": 26134,
+        "title_text": "Silver Sugar Tongs",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bottles",
+        "section_token": "except",
+        "similarity": 0.008809428662061691,
+        "object_id": 22751,
+        "title_text": "Flint Glass Bottles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "freezer",
+        "section_token": "lars",
+        "similarity": 0.0077328309416770935,
+        "object_id": 23714,
+        "title_text": "Ice Cream Freezer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "art",
+        "section_token": "except",
+        "similarity": 0.006001594010740519,
+        "object_id": 76770,
+        "title_text": "Plate 14: From Portfolio \"Folk Art of Rural Pennsylvania\"",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stamps",
+        "section_token": "except",
+        "similarity": 0.005916694179177284,
+        "object_id": 25431,
+        "title_text": "Stamps for Embroidery",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shoes",
+        "section_token": "lars",
+        "similarity": 0.005634315777570009,
+        "object_id": 23604,
+        "title_text": "Ox Shoes",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "garden",
+        "section_token": "except",
+        "similarity": 0.0055977278389036655,
+        "object_id": 29024,
+        "title_text": "Garden Figure - George Washington",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "crewel",
+        "section_token": "except",
+        "similarity": 0.005372196435928345,
+        "object_id": 14748,
+        "title_text": "Crewel Embroidered Bedspread",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "ornament",
+        "section_token": "except",
+        "similarity": 0.005118115805089474,
+        "object_id": 20483,
+        "title_text": "Dog (Mantel Ornament)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "bark",
+        "section_token": "except",
+        "similarity": 0.005096267443150282,
+        "object_id": 21986,
+        "title_text": "Figurehead from Bark \"George\"",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shaker",
+        "section_token": "except",
+        "similarity": 0.004681117832660675,
+        "object_id": 29475,
+        "title_text": "Shaker Chest of Drawers",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "apple",
+        "section_token": "except",
+        "similarity": 0.004641692619770765,
+        "object_id": 20549,
+        "title_text": "Apple Peeler",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stringed",
+        "section_token": "except",
+        "similarity": 0.003249944420531392,
+        "object_id": 24810,
+        "title_text": "Stringed Harp",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sugar",
+        "section_token": "except",
+        "similarity": 0.0023962457198649645,
+        "object_id": 18317,
+        "title_text": "Sugar Bowl",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hardware",
+        "section_token": "except",
+        "similarity": 0.0018995908321812749,
+        "object_id": 23561,
+        "title_text": "Hardware (Hinge)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "textile",
+        "section_token": "lars",
+        "similarity": 0.0015560841420665383,
+        "object_id": 13126,
+        "title_text": "Printed Textile",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "leather",
+        "section_token": "lars",
+        "similarity": 0.00013133934407960624,
+        "object_id": 26657,
+        "title_text": "Leather Saddle",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bishop",
+        "section_token": "lars",
+        "similarity": -0.00028710070182569325,
+        "object_id": 20928,
+        "title_text": "Bishop Hill: Building Bricks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "uniforms",
+        "section_token": "lars",
+        "similarity": -0.0004233313666190952,
+        "object_id": 13940,
+        "title_text": "Man's Uniforms",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stomper",
+        "section_token": "lars",
+        "similarity": -0.0007038511685095727,
+        "object_id": 25489,
+        "title_text": "Sauerkraut Stomper",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "branding",
+        "section_token": "except",
+        "similarity": -0.0014571715146303177,
+        "object_id": 26745,
+        "title_text": "Branding Iron",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "zoar",
+        "section_token": "lars",
+        "similarity": -0.0020164037123322487,
+        "object_id": 16044,
+        "title_text": "Zoar Flower Pot",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bishop",
+        "section_token": "except",
+        "similarity": -0.002214046660810709,
+        "object_id": 20928,
+        "title_text": "Bishop Hill: Building Bricks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "figures",
+        "section_token": "except",
+        "similarity": -0.002661246806383133,
+        "object_id": 22241,
+        "title_text": "Decorative Figures \"Peace and Plenty\"",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stockings",
+        "section_token": "lars",
+        "similarity": -0.0038151568733155727,
+        "object_id": 14060,
+        "title_text": "Stockings",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stenciled",
+        "section_token": "lars",
+        "similarity": -0.005088929086923599,
+        "object_id": 12743,
+        "title_text": "Stenciled Table Cover",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "car",
+        "section_token": "except",
+        "similarity": -0.00529874162748456,
+        "object_id": 20872,
+        "title_text": "Mule Car Bell",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shears",
+        "section_token": "lars",
+        "similarity": -0.005400300957262516,
+        "object_id": 29000,
+        "title_text": "Tailor's Shears and Iron",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bells",
+        "section_token": "lars",
+        "similarity": -0.005691981874406338,
+        "object_id": 20867,
+        "title_text": "Conestoga Wagon Bells",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "leather",
+        "section_token": "except",
+        "similarity": -0.006458995398133993,
+        "object_id": 26657,
+        "title_text": "Leather Saddle",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "costume",
+        "section_token": "lars",
+        "similarity": -0.006939176470041275,
+        "object_id": 16138,
+        "title_text": "Shaker Costume",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spark",
+        "section_token": "lars",
+        "similarity": -0.008313143625855446,
+        "object_id": 28838,
+        "title_text": "Dancing Girl from Spark's Carousel Wagon",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hitching",
+        "section_token": "except",
+        "similarity": -0.008600655943155289,
+        "object_id": 23633,
+        "title_text": "Hitching Post",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "rigging",
+        "section_token": "except",
+        "similarity": -0.009103789925575256,
+        "object_id": 26962,
+        "title_text": "Spreader for Schooner Rigging",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "implements",
+        "section_token": "except",
+        "similarity": -0.009108838625252247,
+        "object_id": 27019,
+        "title_text": "Sugar Industry Implements",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "ice",
+        "section_token": "except",
+        "similarity": -0.009297446347773075,
+        "object_id": 23714,
+        "title_text": "Ice Cream Freezer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pins",
+        "section_token": "lars",
+        "similarity": -0.00990231055766344,
+        "object_id": 24836,
+        "title_text": "Box for Nails and Pins",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stern",
+        "section_token": "lars",
+        "similarity": -0.009966808371245861,
+        "object_id": 28430,
+        "title_text": "Stern Board Carving",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "birds",
+        "section_token": "lars",
+        "similarity": -0.010305548086762428,
+        "object_id": 15928,
+        "title_text": "Pa. German Three Carved and Painted Birds",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "stockings",
+        "section_token": "except",
+        "similarity": -0.01057561207562685,
+        "object_id": 14060,
+        "title_text": "Stockings",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "collar",
+        "section_token": "lars",
+        "similarity": -0.01155885774642229,
+        "object_id": 23970,
+        "title_text": "Horse Collar and Hame",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "military",
+        "section_token": "lars",
+        "similarity": -0.011805337853729725,
+        "object_id": 15366,
+        "title_text": "Military Headdress",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "chests",
+        "section_token": "except",
+        "similarity": -0.013917279429733753,
+        "object_id": 76577,
+        "title_text": "Study for Proposed Portfolio \"Decorated Chests of Rural Pennsylvania\"",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "jacquard",
+        "section_token": "lars",
+        "similarity": -0.014561093412339687,
+        "object_id": 15455,
+        "title_text": "Technique Demo (Jacquard Coverlet)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hill",
+        "section_token": "except",
+        "similarity": -0.015446407720446587,
+        "object_id": 20928,
+        "title_text": "Bishop Hill: Building Bricks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "wallpaper",
+        "section_token": "lars",
+        "similarity": -0.016419291496276855,
+        "object_id": 29632,
+        "title_text": "Wallpaper",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "four",
+        "section_token": "lars",
+        "similarity": -0.01753878779709339,
+        "object_id": 28591,
+        "title_text": "Four Poster Bed",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spurs",
+        "section_token": "lars",
+        "similarity": -0.017827870324254036,
+        "object_id": 14083,
+        "title_text": "Spurs",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "restoration",
+        "section_token": "lars",
+        "similarity": -0.01878710649907589,
+        "object_id": 18715,
+        "title_text": "Restoration Drawing: Wall Painting",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "buttons",
+        "section_token": "except",
+        "similarity": -0.018922284245491028,
+        "object_id": 14260,
+        "title_text": "Buttons",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shaving",
+        "section_token": "lars",
+        "similarity": -0.020149029791355133,
+        "object_id": 18373,
+        "title_text": "Shaving Mug",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "shears",
+        "section_token": "except",
+        "similarity": -0.021039467304944992,
+        "object_id": 29000,
+        "title_text": "Tailor's Shears and Iron",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sauerkraut",
+        "section_token": "lars",
+        "similarity": -0.0214665699750185,
+        "object_id": 25489,
+        "title_text": "Sauerkraut Stomper",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "posts",
+        "section_token": "except",
+        "similarity": -0.02170419506728649,
+        "object_id": 16172,
+        "title_text": "Bed Posts",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "dirk",
+        "section_token": "except",
+        "similarity": -0.021730024367570877,
+        "object_id": 29414,
+        "title_text": "Dirk",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shop",
+        "section_token": "lars",
+        "similarity": -0.02275058813393116,
+        "object_id": 27058,
+        "title_text": "Wine Shop Emblem",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "jacquard",
+        "section_token": "except",
+        "similarity": -0.02365078218281269,
+        "object_id": 15455,
+        "title_text": "Technique Demo (Jacquard Coverlet)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "quilts",
+        "section_token": "lars",
+        "similarity": -0.024403540417551994,
+        "object_id": 12482,
+        "title_text": "Quilts, Pieced",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "grain",
+        "section_token": "lars",
+        "similarity": -0.02526356466114521,
+        "object_id": 21626,
+        "title_text": "Harvesting with Grain Cradles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "women",
+        "section_token": "except",
+        "similarity": -0.025367211550474167,
+        "object_id": 29527,
+        "title_text": "Velvet Bolero for Women",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "irons",
+        "section_token": "except",
+        "similarity": -0.026205869391560555,
+        "object_id": 14476,
+        "title_text": "Shackles or Leg Irons",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sticks",
+        "section_token": "lars",
+        "similarity": -0.026751529425382614,
+        "object_id": 14270,
+        "title_text": "Walking Sticks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "corn",
+        "section_token": "except",
+        "similarity": -0.026981325820088387,
+        "object_id": 29608,
+        "title_text": "Corn Husk Doll on Horse",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sausage",
+        "section_token": "except",
+        "similarity": -0.02733713574707508,
+        "object_id": 25546,
+        "title_text": "Sausage Stuffer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "table",
+        "section_token": "except",
+        "similarity": -0.027381764724850655,
+        "object_id": 29479,
+        "title_text": "Tailor's Table",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "buncher",
+        "section_token": "except",
+        "similarity": -0.027807390317320824,
+        "object_id": 20546,
+        "title_text": "Asparagus Buncher",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "birds",
+        "section_token": "except",
+        "similarity": -0.027811402454972267,
+        "object_id": 15928,
+        "title_text": "Pa. German Three Carved and Painted Birds",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "embroidered",
+        "section_token": "except",
+        "similarity": -0.02882017195224762,
+        "object_id": 14701,
+        "title_text": "Embroidered Sampler",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "linen",
+        "section_token": "except",
+        "similarity": -0.02897472120821476,
+        "object_id": 13386,
+        "title_text": "Man's Linen Collar",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "decorated",
+        "section_token": "lars",
+        "similarity": -0.03010016307234764,
+        "object_id": 28073,
+        "title_text": "Free Hand Decorated Wall",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "zoar",
+        "section_token": "except",
+        "similarity": -0.031017310917377472,
+        "object_id": 16044,
+        "title_text": "Zoar Flower Pot",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "eagles",
+        "section_token": "except",
+        "similarity": -0.031696852296590805,
+        "object_id": 15932,
+        "title_text": "Pa. German Wooden Eagles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "benches",
+        "section_token": "lars",
+        "similarity": -0.03174988552927971,
+        "object_id": 25735,
+        "title_text": "Shaker Refectory Table with Benches",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "petroglyphs",
+        "section_token": "except",
+        "similarity": -0.03197966143488884,
+        "object_id": 19802,
+        "title_text": "Petroglyphs - Human Figures",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "piano",
+        "section_token": "except",
+        "similarity": -0.03212185576558113,
+        "object_id": 24838,
+        "title_text": "Piano",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "salt",
+        "section_token": "except",
+        "similarity": -0.03236214444041252,
+        "object_id": 23077,
+        "title_text": "Salt Shaker",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "decorative",
+        "section_token": "except",
+        "similarity": -0.032682593911886215,
+        "object_id": 24945,
+        "title_text": "Decorative Panel from Rail Car Interior",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "well",
+        "section_token": "except",
+        "similarity": -0.03292990103363991,
+        "object_id": 23369,
+        "title_text": "Ink Well",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "details",
+        "section_token": "lars",
+        "similarity": -0.03319193422794342,
+        "object_id": 18724,
+        "title_text": "Window Shutters and Details",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "glass",
+        "section_token": "except",
+        "similarity": -0.033215563744306564,
+        "object_id": 23137,
+        "title_text": "Glass Hat",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shakers",
+        "section_token": "except",
+        "similarity": -0.03376122936606407,
+        "object_id": 25318,
+        "title_text": "Pewter Salt and Pepper Shakers",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sculpture",
+        "section_token": "lars",
+        "similarity": -0.03413907438516617,
+        "object_id": 30083,
+        "title_text": "Sculpture",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "applique",
+        "section_token": "lars",
+        "similarity": -0.03422516584396362,
+        "object_id": 12481,
+        "title_text": "Applique Quilt (Friendship Quilt)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "grandfather",
+        "section_token": "lars",
+        "similarity": -0.0344332717359066,
+        "object_id": 20052,
+        "title_text": "Grandfather Clock",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "clothes",
+        "section_token": "except",
+        "similarity": -0.03503018245100975,
+        "object_id": 21512,
+        "title_text": "Clothes Pins",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "implements",
+        "section_token": "lars",
+        "similarity": -0.03517257049679756,
+        "object_id": 27019,
+        "title_text": "Sugar Industry Implements",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "collar",
+        "section_token": "except",
+        "similarity": -0.03525799140334129,
+        "object_id": 23970,
+        "title_text": "Horse Collar and Hame",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "firemarks",
+        "section_token": "lars",
+        "similarity": -0.0354115329682827,
+        "object_id": 22329,
+        "title_text": "Firemarks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "skewers",
+        "section_token": "lars",
+        "similarity": -0.03567032516002655,
+        "object_id": 26312,
+        "title_text": "Skewers and Holder",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "rattles",
+        "section_token": "lars",
+        "similarity": -0.03584456816315651,
+        "object_id": 27803,
+        "title_text": "Two Tin Rattles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "signs",
+        "section_token": "except",
+        "similarity": -0.03613639995455742,
+        "object_id": 19815,
+        "title_text": "Petroglyph - Signs",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "potato",
+        "section_token": "lars",
+        "similarity": -0.03624219819903374,
+        "object_id": 25430,
+        "title_text": "Model Potato Planter",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pewter",
+        "section_token": "lars",
+        "similarity": -0.036685943603515625,
+        "object_id": 25148,
+        "title_text": "Pewter Drinking Cup",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bit",
+        "section_token": "except",
+        "similarity": -0.039100147783756256,
+        "object_id": 29487,
+        "title_text": "Bit",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "silk",
+        "section_token": "lars",
+        "similarity": -0.039176806807518005,
+        "object_id": 15011,
+        "title_text": "Silk Gown",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "skates",
+        "section_token": "lars",
+        "similarity": -0.03957633674144745,
+        "object_id": 14078,
+        "title_text": "File Skates",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cherry",
+        "section_token": "lars",
+        "similarity": -0.0403866246342659,
+        "object_id": 22561,
+        "title_text": "Shaker Cherry Cabinet with Drawers",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "coffee",
+        "section_token": "lars",
+        "similarity": -0.04048342630267143,
+        "object_id": 27395,
+        "title_text": "Toleware Coffee Pot",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "human",
+        "section_token": "except",
+        "similarity": -0.04124386981129646,
+        "object_id": 19811,
+        "title_text": "Petroglyph - Human Figures",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pail",
+        "section_token": "lars",
+        "similarity": -0.04157576709985733,
+        "object_id": 16072,
+        "title_text": "Zoar Tin Coffee Pot and Pail",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "men",
+        "section_token": "lars",
+        "similarity": -0.04157804325222969,
+        "object_id": 19870,
+        "title_text": "Foyer's Men's Club, 1880-1910",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "hide",
+        "section_token": "except",
+        "similarity": -0.041871245950460434,
+        "object_id": 27992,
+        "title_text": "Hide Covered Trunk",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sticks",
+        "section_token": "except",
+        "similarity": -0.04196898639202118,
+        "object_id": 14270,
+        "title_text": "Walking Sticks",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "accessories",
+        "section_token": "lars",
+        "similarity": -0.04224345460534096,
+        "object_id": 14207,
+        "title_text": "Costume Accessories: Worn by T. Jefferson",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "corn",
+        "section_token": "lars",
+        "similarity": -0.04287111386656761,
+        "object_id": 29608,
+        "title_text": "Corn Husk Doll on Horse",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cream",
+        "section_token": "lars",
+        "similarity": -0.04319179058074951,
+        "object_id": 23714,
+        "title_text": "Ice Cream Freezer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cotton",
+        "section_token": "lars",
+        "similarity": -0.043677426874637604,
+        "object_id": 12709,
+        "title_text": "Cotton Thread Scarf",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "shoe",
+        "section_token": "except",
+        "similarity": -0.04412978142499924,
+        "object_id": 14204,
+        "title_text": "Baby's Shoe",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "sugar",
+        "section_token": "lars",
+        "similarity": -0.046092189848423004,
+        "object_id": 18317,
+        "title_text": "Sugar Bowl",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "box",
+        "section_token": "lars",
+        "similarity": -0.046393126249313354,
+        "object_id": 20364,
+        "title_text": "Butter Box",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "clock",
+        "section_token": "except",
+        "similarity": -0.04657628387212753,
+        "object_id": 25678,
+        "title_text": "Shaker Tall Clock",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "waist",
+        "section_token": "except",
+        "similarity": -0.04882987216114998,
+        "object_id": 13506,
+        "title_text": "Waist",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hay",
+        "section_token": "lars",
+        "similarity": -0.04890953004360199,
+        "object_id": 24062,
+        "title_text": "Hay Knife",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "well",
+        "section_token": "lars",
+        "similarity": -0.04924073442816734,
+        "object_id": 23369,
+        "title_text": "Ink Well",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "wall",
+        "section_token": "except",
+        "similarity": -0.04990295320749283,
+        "object_id": 20719,
+        "title_text": "Wall's Excelsior Bank (mechanical)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pestles",
+        "section_token": "except",
+        "similarity": -0.04997606575489044,
+        "object_id": 28803,
+        "title_text": "Mortar and Pestles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "shoes",
+        "section_token": "except",
+        "similarity": -0.05067204311490059,
+        "object_id": 23604,
+        "title_text": "Ox Shoes",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "paneling",
+        "section_token": "except",
+        "similarity": -0.05134730041027069,
+        "object_id": 24669,
+        "title_text": "Details of Paneling",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "waist",
+        "section_token": "lars",
+        "similarity": -0.052514608949422836,
+        "object_id": 13506,
+        "title_text": "Waist",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "textiles",
+        "section_token": "except",
+        "similarity": -0.05394984036684036,
+        "object_id": 13117,
+        "title_text": "Printed Textiles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "decorated",
+        "section_token": "except",
+        "similarity": -0.054294321686029434,
+        "object_id": 28073,
+        "title_text": "Free Hand Decorated Wall",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cherry",
+        "section_token": "except",
+        "similarity": -0.05438974127173424,
+        "object_id": 22561,
+        "title_text": "Shaker Cherry Cabinet with Drawers",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "measuring",
+        "section_token": "lars",
+        "similarity": -0.05590682104229927,
+        "object_id": 28677,
+        "title_text": "Copper Measuring Cup",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "tongs",
+        "section_token": "except",
+        "similarity": -0.05664180591702461,
+        "object_id": 26134,
+        "title_text": "Silver Sugar Tongs",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "art",
+        "section_token": "lars",
+        "similarity": -0.057430434972047806,
+        "object_id": 76770,
+        "title_text": "Plate 14: From Portfolio \"Folk Art of Rural Pennsylvania\"",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "garters",
+        "section_token": "except",
+        "similarity": -0.05755303427577019,
+        "object_id": 26341,
+        "title_text": "Ankle Band or Garters",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "railway",
+        "section_token": "except",
+        "similarity": -0.0576583556830883,
+        "object_id": 24417,
+        "title_text": "Railway Lantern",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "mitts",
+        "section_token": "lars",
+        "similarity": -0.05827834829688072,
+        "object_id": 14306,
+        "title_text": "Mitts",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spark",
+        "section_token": "except",
+        "similarity": -0.05832194536924362,
+        "object_id": 28838,
+        "title_text": "Dancing Girl from Spark's Carousel Wagon",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hill",
+        "section_token": "lars",
+        "similarity": -0.06030881404876709,
+        "object_id": 20928,
+        "title_text": "Bishop Hill: Building Bricks",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "paintings",
+        "section_token": "lars",
+        "similarity": -0.061238739639520645,
+        "object_id": 18708,
+        "title_text": "Reredos and Wall Paintings",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spoons",
+        "section_token": "except",
+        "similarity": -0.06221874803304672,
+        "object_id": 26519,
+        "title_text": "Two Silver Soup Spoons",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "walking",
+        "section_token": "lars",
+        "similarity": -0.06272583454847336,
+        "object_id": 14268,
+        "title_text": "Walking Stick",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cover",
+        "section_token": "except",
+        "similarity": -0.0645042359828949,
+        "object_id": 18545,
+        "title_text": "Crock with Cover",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "barrels",
+        "section_token": "except",
+        "similarity": -0.0665978342294693,
+        "object_id": 23464,
+        "title_text": "Marking Gauge for Barrels",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "clam",
+        "section_token": "except",
+        "similarity": -0.06695728749036789,
+        "object_id": 21517,
+        "title_text": "Clam Rake",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "copper",
+        "section_token": "except",
+        "similarity": -0.07039457559585571,
+        "object_id": 24040,
+        "title_text": "Copper Candy Vessel",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "bottles",
+        "section_token": "lars",
+        "similarity": -0.07046645879745483,
+        "object_id": 22751,
+        "title_text": "Flint Glass Bottles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "shaker",
+        "section_token": "lars",
+        "similarity": -0.07090653479099274,
+        "object_id": 29475,
+        "title_text": "Shaker Chest of Drawers",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pitcher",
+        "section_token": "except",
+        "similarity": -0.07094629108905792,
+        "object_id": 29350,
+        "title_text": "Pitcher",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hooked",
+        "section_token": "except",
+        "similarity": -0.07134146243333817,
+        "object_id": 12449,
+        "title_text": "Hooked Rug",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "molds",
+        "section_token": "except",
+        "similarity": -0.07194937020540237,
+        "object_id": 21231,
+        "title_text": "Butter Molds",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "railway",
+        "section_token": "lars",
+        "similarity": -0.07195770740509033,
+        "object_id": 24417,
+        "title_text": "Railway Lantern",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "spurs",
+        "section_token": "except",
+        "similarity": -0.07232537865638733,
+        "object_id": 14083,
+        "title_text": "Spurs",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "signs",
+        "section_token": "lars",
+        "similarity": -0.07318828999996185,
+        "object_id": 19815,
+        "title_text": "Petroglyph - Signs",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cigar",
+        "section_token": "lars",
+        "similarity": -0.07343398034572601,
+        "object_id": 22130,
+        "title_text": "Cigar Store Indian",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pockets",
+        "section_token": "except",
+        "similarity": -0.07417941093444824,
+        "object_id": 14921,
+        "title_text": "Pannier Pockets",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "bowl",
+        "section_token": "except",
+        "similarity": -0.074592724442482,
+        "object_id": 18317,
+        "title_text": "Sugar Bowl",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "earthenware",
+        "section_token": "except",
+        "similarity": -0.07469628751277924,
+        "object_id": 19586,
+        "title_text": "Earthenware Butter Churn",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "wall",
+        "section_token": "lars",
+        "similarity": -0.07507944852113724,
+        "object_id": 20719,
+        "title_text": "Wall's Excelsior Bank (mechanical)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "clogs",
+        "section_token": "lars",
+        "similarity": -0.07669689506292343,
+        "object_id": 14105,
+        "title_text": "Woman's Clogs",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "tripod",
+        "section_token": "except",
+        "similarity": -0.0775376483798027,
+        "object_id": 17979,
+        "title_text": "Table (Tripod)",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cork",
+        "section_token": "except",
+        "similarity": -0.07969797402620316,
+        "object_id": 21707,
+        "title_text": "Cork Compressor",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "renderings",
+        "section_token": "lars",
+        "similarity": -0.08062911033630371,
+        "object_id": 29059,
+        "title_text": "Renderings of Stone (Demo.)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "broom",
+        "section_token": "except",
+        "similarity": -0.08353324234485626,
+        "object_id": 25797,
+        "title_text": "Shaker Broom",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "asparagus",
+        "section_token": "lars",
+        "similarity": -0.08576425909996033,
+        "object_id": 20546,
+        "title_text": "Asparagus Buncher",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "rattles",
+        "section_token": "except",
+        "similarity": -0.0858457162976265,
+        "object_id": 27803,
+        "title_text": "Two Tin Rattles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stools",
+        "section_token": "except",
+        "similarity": -0.08600278198719025,
+        "object_id": 25621,
+        "title_text": "Shaker Stools",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "toys",
+        "section_token": "lars",
+        "similarity": -0.08695434778928757,
+        "object_id": 27802,
+        "title_text": "Wooden Toys",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "chalkware",
+        "section_token": "except",
+        "similarity": -0.08727602660655975,
+        "object_id": 20519,
+        "title_text": "Chalkware Dog",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "amana",
+        "section_token": "lars",
+        "similarity": -0.08757749199867249,
+        "object_id": 16101,
+        "title_text": "Amana Stove",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cemetery",
+        "section_token": "except",
+        "similarity": -0.09082302451133728,
+        "object_id": 18727,
+        "title_text": "Lintel, over Cemetery Gateway",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cranberry",
+        "section_token": "lars",
+        "similarity": -0.09376022219657898,
+        "object_id": 21701,
+        "title_text": "Cranberry Harvesting Scoop",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "mittens",
+        "section_token": "except",
+        "similarity": -0.09647025913000107,
+        "object_id": 14304,
+        "title_text": "Mittens",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "metal",
+        "section_token": "lars",
+        "similarity": -0.09711580723524094,
+        "object_id": 21904,
+        "title_text": "Metal Eagle",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "fireplace",
+        "section_token": "lars",
+        "similarity": -0.09796188026666641,
+        "object_id": 21569,
+        "title_text": "Fireplace",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bouquet",
+        "section_token": "lars",
+        "similarity": -0.09940101206302643,
+        "object_id": 14496,
+        "title_text": "Bouquet Holder",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "california",
+        "section_token": "lars",
+        "similarity": -0.09973440319299698,
+        "object_id": 20338,
+        "title_text": "\"California Mission Style\" Interior",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "fruit",
+        "section_token": "lars",
+        "similarity": -0.10011712461709976,
+        "object_id": 19256,
+        "title_text": "Fruit Jar",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "blacksmith",
+        "section_token": "except",
+        "similarity": -0.10070618987083435,
+        "object_id": 25827,
+        "title_text": "Blacksmith's Sign",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stage",
+        "section_token": "except",
+        "similarity": -0.10309955477714539,
+        "object_id": 26960,
+        "title_text": "Stage-coach",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "pitcher",
+        "section_token": "lars",
+        "similarity": -0.10323698073625565,
+        "object_id": 29350,
+        "title_text": "Pitcher",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bottle",
+        "section_token": "except",
+        "similarity": -0.10591351240873337,
+        "object_id": 18461,
+        "title_text": "Book Bottle",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cuff",
+        "section_token": "lars",
+        "similarity": -0.10637228190898895,
+        "object_id": 12366,
+        "title_text": "Embroidered Cuff",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "brush",
+        "section_token": "lars",
+        "similarity": -0.10650957375764847,
+        "object_id": 28656,
+        "title_text": "Long Handled Bristle Brush",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "chairs",
+        "section_token": "lars",
+        "similarity": -0.10738839954137802,
+        "object_id": 29289,
+        "title_text": "Shaker Table and Chairs",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "muffin",
+        "section_token": "lars",
+        "similarity": -0.1085922047495842,
+        "object_id": 24799,
+        "title_text": "Muffin Pan",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "beam",
+        "section_token": "except",
+        "similarity": -0.10860186815261841,
+        "object_id": 28396,
+        "title_text": "Well with Movable Beam",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "baskets",
+        "section_token": "except",
+        "similarity": -0.11102773994207382,
+        "object_id": 16125,
+        "title_text": "Shaker Baskets",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "frow",
+        "section_token": "lars",
+        "similarity": -0.11128689348697662,
+        "object_id": 22430,
+        "title_text": "Frow and Frow Club",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "tools",
+        "section_token": "lars",
+        "similarity": -0.1113855391740799,
+        "object_id": 25898,
+        "title_text": "Tools",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "furniture",
+        "section_token": "except",
+        "similarity": -0.1137164756655693,
+        "object_id": 29478,
+        "title_text": "Built-In Furniture",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "german",
+        "section_token": "lars",
+        "similarity": -0.11425507813692093,
+        "object_id": 19698,
+        "title_text": "Pennsylvania German Puzzle Jug",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "belts",
+        "section_token": "except",
+        "similarity": -0.11425956338644028,
+        "object_id": 15156,
+        "title_text": "Belts",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "lamp",
+        "section_token": "except",
+        "similarity": -0.1155145913362503,
+        "object_id": 24550,
+        "title_text": "Grease Lamp",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "paintings",
+        "section_token": "except",
+        "similarity": -0.11689426004886627,
+        "object_id": 18708,
+        "title_text": "Reredos and Wall Paintings",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "blacksmith",
+        "section_token": "lars",
+        "similarity": -0.11857184767723083,
+        "object_id": 25827,
+        "title_text": "Blacksmith's Sign",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "holder",
+        "section_token": "except",
+        "similarity": -0.11931043863296509,
+        "object_id": 24135,
+        "title_text": "Candle Holder",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "toleware",
+        "section_token": "except",
+        "similarity": -0.11999532580375671,
+        "object_id": 27395,
+        "title_text": "Toleware Coffee Pot",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "horses",
+        "section_token": "except",
+        "similarity": -0.12107032537460327,
+        "object_id": 27843,
+        "title_text": "Toy Coach and Two Horses",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "measuring",
+        "section_token": "except",
+        "similarity": -0.12306606024503708,
+        "object_id": 28677,
+        "title_text": "Copper Measuring Cup",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "mast",
+        "section_token": "lars",
+        "similarity": -0.12419071048498154,
+        "object_id": 24703,
+        "title_text": "Mast Sheath",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "knife",
+        "section_token": "lars",
+        "similarity": -0.12446761876344681,
+        "object_id": 24539,
+        "title_text": "Trench Knife and Sheath",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "card",
+        "section_token": "except",
+        "similarity": -0.12611201405525208,
+        "object_id": 17830,
+        "title_text": "Card Table",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "fish",
+        "section_token": "lars",
+        "similarity": -0.1284393072128296,
+        "object_id": 28285,
+        "title_text": "Fish Weather Vane",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "wool",
+        "section_token": "lars",
+        "similarity": -0.13194024562835693,
+        "object_id": 12617,
+        "title_text": "Woven Wool Coverlet",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "buncher",
+        "section_token": "lars",
+        "similarity": -0.13253718614578247,
+        "object_id": 20546,
+        "title_text": "Asparagus Buncher",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "egg",
+        "section_token": "except",
+        "similarity": -0.1350182294845581,
+        "object_id": 19482,
+        "title_text": "Egg Cup",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spreader",
+        "section_token": "lars",
+        "similarity": -0.1363527476787567,
+        "object_id": 26962,
+        "title_text": "Spreader for Schooner Rigging",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "doors",
+        "section_token": "lars",
+        "similarity": -0.1396426260471344,
+        "object_id": 18773,
+        "title_text": "Chapel Doors",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "coater",
+        "section_token": "lars",
+        "similarity": -0.14367930591106415,
+        "object_id": 25328,
+        "title_text": "Apothecary's Pill Coater",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "potato",
+        "section_token": "except",
+        "similarity": -0.1454010307788849,
+        "object_id": 25430,
+        "title_text": "Model Potato Planter",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "industry",
+        "section_token": "except",
+        "similarity": -0.14703017473220825,
+        "object_id": 20783,
+        "title_text": "Bank of Industry",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "fish",
+        "section_token": "except",
+        "similarity": -0.14938220381736755,
+        "object_id": 28285,
+        "title_text": "Fish Weather Vane",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "garters",
+        "section_token": "lars",
+        "similarity": -0.15040113031864166,
+        "object_id": 26341,
+        "title_text": "Ankle Band or Garters",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "apple",
+        "section_token": "lars",
+        "similarity": -0.1512003242969513,
+        "object_id": 20549,
+        "title_text": "Apple Peeler",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "painted",
+        "section_token": "except",
+        "similarity": -0.151976078748703,
+        "object_id": 28577,
+        "title_text": "Painted Panel from Pullman Car Interior",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "earrings",
+        "section_token": "except",
+        "similarity": -0.1524893045425415,
+        "object_id": 15442,
+        "title_text": "Hair Brooch and Earrings",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spatula",
+        "section_token": "except",
+        "similarity": -0.15331321954727173,
+        "object_id": 26923,
+        "title_text": "Wooden Spatula",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "spectacles",
+        "section_token": "except",
+        "similarity": -0.1549951136112213,
+        "object_id": 14459,
+        "title_text": "Spectacles",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "dough",
+        "section_token": "except",
+        "similarity": -0.15687349438667297,
+        "object_id": 21814,
+        "title_text": "Dough Bin",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "hardware",
+        "section_token": "lars",
+        "similarity": -0.15741978585720062,
+        "object_id": 23561,
+        "title_text": "Hardware (Hinge)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "branding",
+        "section_token": "lars",
+        "similarity": -0.16283337771892548,
+        "object_id": 26745,
+        "title_text": "Branding Iron",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "nut",
+        "section_token": "lars",
+        "similarity": -0.16622358560562134,
+        "object_id": 27640,
+        "title_text": "Nut Head Doll #2",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "indians",
+        "section_token": "except",
+        "similarity": -0.16669218242168427,
+        "object_id": 28945,
+        "title_text": "Indians",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "turpentine",
+        "section_token": "except",
+        "similarity": -0.17334014177322388,
+        "object_id": 27976,
+        "title_text": "Turpentine Hack",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "clothes",
+        "section_token": "lars",
+        "similarity": -0.1745765507221222,
+        "object_id": 21512,
+        "title_text": "Clothes Pins",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "candle",
+        "section_token": "lars",
+        "similarity": -0.17460834980010986,
+        "object_id": 24767,
+        "title_text": "Candle Mold",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "rolling",
+        "section_token": "lars",
+        "similarity": -0.175059974193573,
+        "object_id": 25515,
+        "title_text": "Dough Rolling Pin",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "equipment",
+        "section_token": "lars",
+        "similarity": -0.17534708976745605,
+        "object_id": 20176,
+        "title_text": "Fireplace Equipment",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "flour",
+        "section_token": "lars",
+        "similarity": -0.17807918787002563,
+        "object_id": 29961,
+        "title_text": "Flour Barrel",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "carpet",
+        "section_token": "except",
+        "similarity": -0.17850343883037567,
+        "object_id": 12976,
+        "title_text": "Woven Wool Carpet",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "woven",
+        "section_token": "lars",
+        "similarity": -0.17922860383987427,
+        "object_id": 12617,
+        "title_text": "Woven Wool Coverlet",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "bit",
+        "section_token": "lars",
+        "similarity": -0.17988069355487823,
+        "object_id": 29487,
+        "title_text": "Bit",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "freezer",
+        "section_token": "except",
+        "similarity": -0.1844990849494934,
+        "object_id": 23714,
+        "title_text": "Ice Cream Freezer",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "card",
+        "section_token": "lars",
+        "similarity": -0.1869674175977707,
+        "object_id": 17830,
+        "title_text": "Card Table",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "wood",
+        "section_token": "except",
+        "similarity": -0.18727229535579681,
+        "object_id": 22268,
+        "title_text": "Wood Carving - \"Hexafoos\"",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "squeezer",
+        "section_token": "lars",
+        "similarity": -0.1882900446653366,
+        "object_id": 25032,
+        "title_text": "Star Pastry Squeezer",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "cookie",
+        "section_token": "except",
+        "similarity": -0.18878498673439026,
+        "object_id": 20212,
+        "title_text": "Cookie Jar with Cover",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "ship",
+        "section_token": "except",
+        "similarity": -0.1932094693183899,
+        "object_id": 20902,
+        "title_text": "Ship's Billethead",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "salt",
+        "section_token": "lars",
+        "similarity": -0.19607767462730408,
+        "object_id": 23077,
+        "title_text": "Salt Shaker",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "architectural",
+        "section_token": "lars",
+        "similarity": -0.19815289974212646,
+        "object_id": 18777,
+        "title_text": "Architectural Detail (Wall Brackets)",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "majolica",
+        "section_token": "except",
+        "similarity": -0.19817711412906647,
+        "object_id": 19383,
+        "title_text": "Majolica Pitcher",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "carvings",
+        "section_token": "lars",
+        "similarity": -0.20918026566505432,
+        "object_id": 17730,
+        "title_text": "Carvings of a Sofa",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pill",
+        "section_token": "except",
+        "similarity": -0.21084804832935333,
+        "object_id": 25328,
+        "title_text": "Apothecary's Pill Coater",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "trousers",
+        "section_token": "except",
+        "similarity": -0.21302276849746704,
+        "object_id": 13870,
+        "title_text": "Trousers",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "bristle",
+        "section_token": "except",
+        "similarity": -0.22068190574645996,
+        "object_id": 28656,
+        "title_text": "Long Handled Bristle Brush",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "quaker",
+        "section_token": "lars",
+        "similarity": -0.22483067214488983,
+        "object_id": 15229,
+        "title_text": "Quaker Dress",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "jewelry",
+        "section_token": "except",
+        "similarity": -0.23060733079910278,
+        "object_id": 14488,
+        "title_text": "Horsehair Jewelry",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "machine",
+        "section_token": "except",
+        "similarity": -0.23268133401870728,
+        "object_id": 21247,
+        "title_text": "Cancelling Machine",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "cradles",
+        "section_token": "lars",
+        "similarity": -0.23427517712116241,
+        "object_id": 21626,
+        "title_text": "Harvesting with Grain Cradles",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    },
+    {
+        "title_token": "pan",
+        "section_token": "except",
+        "similarity": -0.24158361554145813,
+        "object_id": 28329,
+        "title_text": "Bed Warming Pan",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "lars",
+        "section_token": "except",
+        "similarity": -0.26370882987976074,
+        "object_id": 21624,
+        "title_text": "Lars Soderquist",
+        "section_id": 6,
+        "section_name": "Wood Carvings and Weathervanes"
+    },
+    {
+        "title_token": "stringed",
+        "section_token": "lars",
+        "similarity": -0.2826223075389862,
+        "object_id": 24810,
+        "title_text": "Stringed Harp",
+        "section_id": 4,
+        "section_name": "Domestic Utensils"
+    }
+]
