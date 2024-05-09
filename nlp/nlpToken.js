@@ -18,7 +18,7 @@ function processTokens(data) {
 
   data.forEach((item) => {
     if (!item.tokens) {
-      console.error("Tokens are undefined for object_id:", item.object_id);
+      // console.error("Tokens are undefined for object_id:", item.object_id);
       return; // Skip this iteration
     }
 
@@ -38,9 +38,9 @@ function processTokens(data) {
           });
         }
       } else {
-        console.log(
-          `No similarity results found for token: '${token}' in object_id ${item.object_id}`
-        );
+        // console.log(
+        //   `No similarity results found for token: '${token}' in object_id ${item.object_id}`
+        // );
         // Optionally, you can handle this situation, e.g., set a default message or indicator
         sectionsMap["default"] = {
           entries: [{ message: "(Catalog match not found)" }],
@@ -55,7 +55,7 @@ function processTokens(data) {
       });
     });
   });
-  console.log("Processed localTokenMap:", localTokenMap);
+  // console.log("Processed localTokenMap:", localTokenMap);
   return localTokenMap;
 }
 
@@ -79,9 +79,15 @@ function createButtons(tokenMap, objectInfoMap) {
 
   for (let letter in groupedTokens) {
     const section = document.createElement("div");
-    const header = document.createElement("h3");
+    section.classList.add("section");
+
+    const header = document.createElement("button");
     header.textContent = letter;
+    header.classList.add("header-button");
     section.appendChild(header);
+
+    const tokensContainer = document.createElement("div");
+    tokensContainer.classList.add("tokens-container", "hidden"); // Start hidden
 
     for (let token in groupedTokens[letter]) {
       const tokenContainer = document.createElement("div");
@@ -89,29 +95,27 @@ function createButtons(tokenMap, objectInfoMap) {
       const button = document.createElement("button");
       button.textContent = token;
       button.classList.add("token-button");
-
-      const detailsDiv = document.createElement("div");
-      detailsDiv.id = `details-${token}`;
-      detailsDiv.classList.add("details-container");
-      detailsDiv.style.display = "none";
-
       button.onclick = () => {
         const isVisible = detailsDiv.style.display === "block";
-        detailsDiv.style.display = isVisible ? "none" : "block";
-        if (!isVisible) {
-          displayObjects(
-            token,
-            groupedTokens[letter][token],
-            detailsDiv,
-            objectInfoMap
-          );
-        }
+        //         detailsDiv.style.display = isVisible ? "none" : "block";
+        //         if (!isVisible) {
+        displayObjects(
+          token,
+          groupedTokens[letter][token],
+          detailsDiv,
+          objectInfoMap
+        );
       };
 
       tokenContainer.appendChild(button);
-      tokenContainer.appendChild(detailsDiv);
-      section.appendChild(tokenContainer);
+      tokensContainer.appendChild(tokenContainer);
     }
+
+    header.onclick = () => {
+      tokensContainer.classList.toggle("hidden");
+    };
+
+    section.appendChild(tokensContainer);
     container.appendChild(section);
   }
 }
@@ -120,6 +124,44 @@ function createButtons(tokenMap, objectInfoMap) {
 // DISPLAY OBJECTS
 // --------------------------------------------------------
 
+function normalizeText(text) {
+  if (typeof text !== "string") {
+    console.error("Expected a string but received:", text);
+    return ""; // Return empty string or handle as needed
+  }
+  return text.toLowerCase().replace(/[^a-z0-9]/gi, "");
+}
+
+function highlightTokens(title, tokens) {
+  if (!tokens || tokens.length === 0) {
+    console.log("No tokens available for highlighting.");
+    return title; // Return the title unmodified
+  }
+
+  const titleWords = title.split(/\s+/);
+  return titleWords
+    .map((word) => {
+      const normalizedWord = normalizeText(word);
+      const matchedToken = tokens.find((token) =>
+        normalizedWord.includes(normalizeText(token))
+      );
+      return matchedToken
+        ? `<span class="token-highlight">${word}</span>`
+        : word;
+    })
+    .join(" ");
+}
+
+function handleButtonClick(token) {
+  if (!token) {
+    console.error("Token is undefined when button clicked");
+    return;
+  }
+  const processedText = normalizeText(token);
+  console.log(processedText);
+}
+
+// Adjust the main displayObjects function
 function displayObjects(token, objects, detailsDiv, objectInfoMap) {
   detailsDiv.innerHTML = "";
   detailsDiv.classList.add("details-container");
@@ -133,6 +175,10 @@ function displayObjects(token, objects, detailsDiv, objectInfoMap) {
   detailsDiv.appendChild(cardsContainer);
 
   objects.forEach((obj) => {
+    if (!obj || !obj.title) {
+      console.error("Object or title missing:", obj);
+      return; // Skip this iteration
+    }
     const objElement = document.createElement("div");
     objElement.id = `object-${obj.object_id}`;
     objElement.classList.add("object-container", "card");
@@ -163,33 +209,28 @@ function displayObjects(token, objects, detailsDiv, objectInfoMap) {
       Object.keys(obj.sections).forEach((sectionName) => {
         const section = obj.sections[sectionName];
         section.entries.forEach((entry) => {
-          allTokens.push(entry.matched_token); // Collect all tokens from entries
+          if (!allTokens.includes(entry.matched_token)) {
+            allTokens.push(entry.matched_token); // Ensure unique tokens
+          }
         });
       });
+    } else {
+      console.log(`No sections or tokens found for object: ${obj.object_id}`);
+      // Optionally handle this case
     }
 
-    // Highlight tokens in the title that contain any token in the sections
-    const titleWords = obj.title.split(" ");
-    titleDiv.innerHTML = titleWords
-      .map((word) => {
-        let wordLower = word.toLowerCase();
-        const matchedToken = allTokens.find((token) =>
-          wordLower.includes(token)
-        );
-        if (matchedToken) {
-          return `<span class="token-highlight">${word}</span>`;
-        }
-        return word;
-      })
-      .join(" ");
+    // Apply token highlighting in the title
+    titleDiv.innerHTML = highlightTokens(obj.title, allTokens);
 
     if (obj.sections && Object.keys(obj.sections).length > 0) {
       Object.keys(obj.sections).forEach((sectionName) => {
         const section = obj.sections[sectionName];
         const sectionDetails = document.createElement("div");
-        sectionDetails.classList.add("section-details");
-        sectionDetails.classList.add(getSectionClass(sectionName)); // Apply class for background color
-        sectionDetails.innerHTML = `${sectionName}`;
+        sectionDetails.classList.add(
+          "section-details",
+          getSectionClass(sectionName)
+        ); // Apply class for background color
+        sectionDetails.innerHTML = sectionName;
         objElement.appendChild(sectionDetails);
       });
     } else {
@@ -197,9 +238,22 @@ function displayObjects(token, objects, detailsDiv, objectInfoMap) {
       noResultsDiv.textContent = "No similarity results available.";
       objElement.appendChild(noResultsDiv);
     }
+    console.log("Processing title:", obj.title);
 
     cardsContainer.appendChild(objElement);
   });
+}
+
+function extractUniqueTokens(data) {
+  let uniqueTokens = new Set(); // Use a Set to automatically handle uniqueness
+
+  data.forEach((item) => {
+    item.tokens.forEach((token) => {
+      uniqueTokens.add(token); // Add each token to the Set
+    });
+  });
+
+  return Array.from(uniqueTokens); // Convert Set back to Array for easier processing later
 }
 
 function getSectionClass(sectionName) {
@@ -228,8 +282,8 @@ function initializeApp() {
   Promise.all([fetchTokenMap(), fetchObjectInfo()])
     .then((results) => {
       const [tokenMap, objectInfoMap] = results;
-      console.log("Final Token Map after fetch:", tokenMap); // Additional log for final check
-      console.log("Final Object Info Map:", objectInfoMap); // Confirm object info map
+      // console.log("Final Token Map after fetch:", tokenMap); // Additional log for final check
+      // console.log("Final Object Info Map:", objectInfoMap); // Confirm object info map
       if (tokenMap && objectInfoMap) {
         createButtons(tokenMap, objectInfoMap);
       } else {
@@ -257,11 +311,11 @@ function fetchTokenMap() {
       return response.json();
     })
     .then((data) => {
-      console.log("Fetched TOKEN data:", data); // Log raw data
+      // console.log("Fetched TOKEN data:", data); // Log raw data
       return processTokens(data); // Process and return tokenMap
     })
     .then((processedTokenMap) => {
-      console.log("Processed Token Map after processing:", processedTokenMap); // Log processed data
+      // console.log("Processed Token Map after processing:", processedTokenMap); // Log processed data
       return processedTokenMap; // Pass processed data to the next promise chain
     })
     .catch((error) => {
@@ -282,15 +336,17 @@ function fetchObjectInfo() {
       return response.json();
     })
     .then((data) => {
-      console.log("Fetched NGA OBJECT data:", data); // Log the raw data received
+      // console.log("Fetched NGA OBJECT data:", data); // Log the raw data received
       data.forEach((item) => {
+        const modifiedImageUrl = item.imagematch.replace("200,200", "500,500");
         objectInfoMap[item.objectid] = {
           // Update the global objectInfoMap directly
           attribution: item.attribution,
           imagematch: item.imagematch,
+          imagematch: modifiedImageUrl,
         };
       });
-      console.log("Processed objectInfoMap:", objectInfoMap); // Log the processed map
+      // console.log("Processed objectInfoMap:", objectInfoMap); // Log the processed map
       return objectInfoMap; // Return the updated map
     })
     .catch((error) => {
