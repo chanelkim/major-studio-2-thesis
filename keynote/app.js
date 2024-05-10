@@ -12,7 +12,9 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch("IoAD_merged_geo_data.json")
     .then((response) => response.json())
     .then((data) => {
-      const startIndex = data.findIndex((item) => item.objectid === 76584); // Ensure this is done inside the then()
+      const startIndex = data.findIndex((item) => item.objectid === 18587);
+      // 18287 // plate
+      // 76584 // symbol
       data.forEach((item, index) => {
         carouselContainer.appendChild(
           createCarouselItem(item.imagematch, index === startIndex)

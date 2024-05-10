@@ -171,9 +171,9 @@ p {
 
 /* CAROUSEL */
 #flip {
-  position: absolute;
+  /* position: absolute; */
   /* absoulte for full screen and transition */
-  /* position: fixed; */
+  position: fixed;
   /* Fixed positioning relative to the viewport */
   bottom: 0; /* Anchors the div to the bottom of the viewport */
   left: 0; /* Aligns the div to the left side of the viewport */
@@ -240,6 +240,7 @@ p {
 }
 .carousel-control {
   display: none;
+  /* position: fixed; */
   position: absolute;
   top: 50%; /* Align vertically */
   transform: translateY(-50%); /* Center vertically */
@@ -272,3 +273,15 @@ p {
   letter-spacing: 0.2rem;
   font-size: 0.6rem;
 }
+
+/* "primary-bg": #f5f0e6,
+"cc-red": #e63c28,
+"cc-yellow": #f0d23c,
+"cc-gold": #f0b43c,
+"cc-blue": #3282dc,
+"cc-brown": #64281e,
+"cc-pink": #e6b4be,
+"cc-metal": #3c5064,
+"cc-grey": #c8d2dc,
+"cc-green": #505a32,
+"cc-violet": #5a50b4, */
