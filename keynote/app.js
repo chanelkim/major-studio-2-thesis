@@ -68,18 +68,94 @@ document.addEventListener("DOMContentLoaded", function () {
       showItem(prevItem);
     }
 
+    // --------------------------------------------------------
+    // ANIMATING IMAGE FLIP
+    // --------------------------------------------------------
+    let flipSpeed = 200;
+    let speedIncrement = 50;
+    let minSpeed = 10;
+    let maxSpeed = 200;
+    // let flipSpeed = 1000; // Start with a slower flip speed
+    // let speedIncrement = 100; // Amount to increase or decrease the speed
+    // let minSpeed = 50; // Minimum speed for rapid flipping
+    // let maxSpeed = 1000; // Maximum speed when easing out
+
     function startRapidFlipping() {
       nextButton.style.display = "none";
       prevButton.style.display = "none";
-      autoPlayInterval = setInterval(moveToNextItem, 50); // Short interval for rapid flipping
+      flipSpeed = maxSpeed; // Reset to starting speed
+      autoPlayInterval = setInterval(() => {
+        moveToNextItem();
+        if (flipSpeed > minSpeed) {
+          flipSpeed -= speedIncrement; // Decrease speed to increase flipping rate
+          updateInterval();
+        }
+      }, flipSpeed);
     }
 
-    function stopRapidFlipping() {
-      clearInterval(autoPlayInterval);
-      nextButton.style.display = "block"; // Show next and prev buttons after stopping
-      prevButton.style.display = "block";
-      console.log("Rapid flipping stopped.");
+    // // Functionality for start/stop (no mouse-over)
+    // function updateInterval() {
+    //   clearInterval(autoPlayInterval);
+    //   autoPlayInterval = setInterval(moveToNextItem, flipSpeed);
+    // }
+
+    // Added functionality to allow mouse-over for "stop" button to slow down flip
+    function updateInterval() {
+      clearInterval(autoPlayInterval); // Clear the existing interval
+      autoPlayInterval = setInterval(moveToNextItem, flipSpeed); // Set new interval with updated speed
     }
+
+    document
+      .getElementById("stopFlip")
+      .addEventListener("mouseenter", function () {
+        clearInterval(autoPlayInterval); // Clear existing interval
+        flipSpeed = maxSpeed; // Set to slower speed when hovering
+        updateInterval();
+      });
+
+    // document
+    //   .getElementById("stopFlip")
+    //   .addEventListener("mouseleave", function () {
+    //     if (autoPlayInterval) {
+    //       // Check if flipping is still active
+    //       clearInterval(autoPlayInterval); // Clear the interval
+    //       flipSpeed = minSpeed; // Restore to rapid flip speed
+    //       updateInterval();
+    //     }
+    //   });
+
+    function stopRapidFlipping() {
+      const slowDownInterval = setInterval(() => {
+        if (flipSpeed < maxSpeed) {
+          flipSpeed += speedIncrement; // Increase speed to decrease flipping rate
+          updateInterval();
+        } else {
+          clearInterval(slowDownInterval);
+          clearInterval(autoPlayInterval);
+          nextButton.style.display = "block";
+          prevButton.style.display = "block";
+          console.log("Rapid flipping stopped.");
+        }
+      }, 250);
+    }
+
+    // // FLIPPING FAST (ORIGINAL)
+    // function startRapidFlipping() {
+    //   nextButton.style.display = "none";
+    //   prevButton.style.display = "none";
+    //   autoPlayInterval = setInterval(moveToNextItem, 50); // Short interval for rapid flipping
+    // }
+
+    // function stopRapidFlipping() {
+    //   clearInterval(autoPlayInterval);
+    //   nextButton.style.display = "block"; // Show next and prev buttons after stopping
+    //   prevButton.style.display = "block";
+    //   console.log("Rapid flipping stopped.");
+    // }
+
+    // --------------------------------------------------------
+    // CONTROLS FOR FLIPPING
+    // --------------------------------------------------------
 
     function setupManualControls() {
       nextButton.addEventListener("click", () => {

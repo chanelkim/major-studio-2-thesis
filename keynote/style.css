@@ -97,7 +97,7 @@ body {
 #main-content {
   opacity: 0; /* Start with the content invisible */
   transform: translateY(30px); /* Start slightly below the final position */
-  transition: opacity 1s ease-in, transform 1s ease-in; /* Animate both properties */
+  transition: opacity 1.5s ease-in, transform 1.5s ease-in; /* Animate both properties */
   display: grid;
   place-items: center;
   min-height: 100vh;
