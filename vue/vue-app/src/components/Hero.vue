@@ -11,7 +11,8 @@
 
 <script>
 import hero from "../assets/png/hero.png";
-import logo from "../assets/svg/IoAD_stack.svg";
+// import hero from "../assets/png/hero_noBlur.png";
+import logo from "../assets/svg/IoAD_stack-2.svg";
 // import IndexOf from "../assets/svg/IoAD_American.svg";
 // import American from "../assets/svg/IoAD_American.svg";
 // import Design from "../assets/svg/IoAD_Design.svg";
@@ -34,6 +35,7 @@ export default {
   text-align: center;
   align-items: center;
   position: relative;
+  /* background-color: black; */
 }
 .hero img {
   flex: 1;
@@ -43,8 +45,9 @@ export default {
   object-fit: cover;
 }
 .logo img {
-  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(183deg)
-    brightness(102%) contrast(101%);
+  /* filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(183deg) */
+  /* brightness(102%) contrast(101%); */
+  /* ^^^ INVERT BLACK SVG TO WHITE ^^^ */
   flex: 1;
   z-index: 1;
   position: absolute;

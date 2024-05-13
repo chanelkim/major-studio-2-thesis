@@ -1,9 +1,16 @@
 <template>
-  <div>
-    <h1>Page X</h1>
-    <h3>Discovery Page (Interaction)</h3>
-    <p>Metadata for objects pictured in the IoAD</p>
+  <div class="wip">
+    <p>Under Construction</p>
+  </div>
+  <div class="header">
+    <h1>Discover</h1>
+    <h2>Interactive Directory</h2>
+  </div>
+  <div class="description">
+    <p>Ten Categories According to the Consolidated Catalogs</p>
+  </div>
 
+  <div class="directory">
     <!-- Render buttons for each array of sections -->
     <div v-for="(sectionsArray, arrayIndex) in sectionData" :key="arrayIndex">
       <div v-for="(section, sectionTitle) in sectionsArray" :key="sectionTitle">

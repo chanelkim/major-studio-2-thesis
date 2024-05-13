@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <p>Categories Bar Chart</p>
+  <div class="chart">
+    <h3>Categories Bar Chart</h3>
     <svg :height="height" :width="width">
       <!-- Render bars using rects -->
       <g class="bars">
@@ -10,7 +10,7 @@
             :y="bar.y"
             :width="bar.width"
             :height="bar.height"
-            fill="blue"
+            fill="#3c5064"
           ></rect>
         </template>
       </g>

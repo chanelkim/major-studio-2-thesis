@@ -1,20 +1,130 @@
+/* GLOBAL STYLES */
 body {
   margin: 0;
-  font-family: "NeueMontreal-Regular";
-}
-h1 {
-  font-family: "Courier New", Courier, monospace;
-}
-h2 {
-  font-family: "NeueMachina-Regular";
-}
-p {
+  padding: 0;
   font-family: "NeueMontreal-Regular";
   font-style: normal;
+  color: black;
+  /* padding-right: 2rem; */
 }
+h1 {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1rem;
+  margin: 1rem;
+}
+h2 {
+  color: black;
+  font-family: "NeueMontreal-Regular";
+  font-style: normal;
+  font-size: 3rem;
+  margin: 1rem;
+}
+h3 {
+  color: black;
+  font-family: "NeueMontreal-Regular";
+  font-style: normal;
+  font-size: 2rem;
+  margin: 1rem;
+}
+p {
+  color: black;
+  font-family: "NeueMontreal-Regular";
+  font-style: normal;
+  margin: 1rem;
+}
+
+/* HEADER */
+.header {
+  flex-direction: column;
+  align-items: left;
+  text-align: left;
+  padding-left: 2rem;
+}
+.header h1 {
+  font-size: 1rem;
+  /* font-weight: lighter; */
+  padding-top: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+.header h2 {
+  /* font-size: 3rem; */
+  font-weight: lighter;
+}
+
+/* DESCRIPTION */
+.description {
+  padding: 2rem;
+  text-align: left;
+}
+.description p {
+  color: black;
+}
+
+/* UNDER CONSTRUCTION */
+.wip {
+  /* padding: 0.5rem; */
+  text-align: center;
+  background-color: white;
+  text-transform: uppercase;
+  border: 4px solid #e63c28;
+  margin: 2rem;
+}
+.wip p {
+  color: #e63c28;
+  font-weight: bold;
+}
+
+/* MENU LINK */
 .el-menu a:link {
   text-decoration: none;
 }
 /* .bar {
   color: blue;
 } */
+
+/* CHARTS */
+.chart {
+  padding-left: 2rem;
+  text-align: left;
+}
+.chart h3 {
+  font-weight: lighter;
+  padding-left: 1rem;
+  margin: 1rem;
+}
+
+/* DIRECTORY */
+.directory {
+  padding-left: 3rem;
+  text-align: left;
+  /* background-color: white; */
+}
+.directory button {
+  margin: 0.5rem;
+  border: 2px solid black;
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 1.5rem;
+  text-align: left;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* COLORS */
+/*
+"cc-red": #e63c28,
+"cc-yellow": #f0d23c,
+"cc-gold": #f0b43c,
+"cc-blue": #3282dc,
+"cc-brown": #64281e,
+"cc-pink": #e6b4be,
+"cc-metal": #3c5064,
+"cc-grey": #c8d2dc,
+"cc-green": #505a32,
+"cc-violet": #5a50b4, */

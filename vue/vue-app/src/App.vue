@@ -7,7 +7,7 @@
       mode="horizontal"
       @select="handleSelect"
     >
-      <el-menu-item index="1">
+      <el-menu-item class="el-menu" index="1">
         <router-link class="margin-x" to="/">Home</router-link>
       </el-menu-item>
       <el-menu-item index="2">
@@ -95,6 +95,7 @@ export default {
   margin: 0px 5px;
 }
 body {
-  background-color: #faffff;
+  color: black;
+  background-color: #f5f0e6;
 }
 </style>

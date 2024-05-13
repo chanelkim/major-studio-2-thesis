@@ -1,9 +1,14 @@
 <template>
-  <div>
-    <h1>Page X</h1>
-    <h3>Acknowledgments</h3>
-    <p>Thank you</p>
+  <div class="wip">
+    <p>Under Construction</p>
   </div>
+  <div class="header">
+    <h1>Acknowledgments</h1>
+    <h2>Thank you</h2>
+  </div>
+  <!-- <div class="description">
+    <p></p>
+  </div> -->
 </template>
 
 <script>
@@ -12,4 +17,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+h1 {
+  color: white;
+}
+</style>

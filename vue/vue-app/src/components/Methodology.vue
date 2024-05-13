@@ -1,9 +1,15 @@
 <template>
-  <div>
-    <h1>Page X</h1>
-    <h3>Methodology</h3>
-    <p>How I got there</p>
+    <div class="wip">
+    <p>Under Construction</p>
   </div>
+  <div class="header">
+    <h1>Methodology</h1>
+    <h2>Data Structures & Analysis</h2>
+  </div>
+  <div class="description">
+    <p>Data Comparison: Collection of Estimated Object Counts per Category</p>
+  </div>
+
   <div>
     <CatalogBarChart
       :transformedData="transformData"
@@ -18,7 +24,7 @@
     :width="width"
   />
 </div>
-  <div>
+  <div class="description">
     <p>Data Length: {{ Object.keys(catalogData).length }}</p>
     <p v-for="(items, category) in catalogData" :key="category">
       <ul v-for="item in items" :key="item.category">
@@ -133,7 +139,8 @@ export default {
 };
 </script>
 
-<style>ul {
+<style>
+ul {
   color: black;
 }
 @media (max-width: 768px) {
@@ -141,4 +148,5 @@ export default {
     flex-direction: column;
     align-items: left;
   }
-}</style>
+}
+</style>

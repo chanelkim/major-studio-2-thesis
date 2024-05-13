@@ -1,9 +1,15 @@
 <template>
-  <div>
-    <h1>Page X</h1>
-    <h3>The Collection</h3>
-    <p>IoAD Today: a set of watercolors</p>
+  <div class="wip">
+    <p>Under Construction</p>
   </div>
+  <div class="header">
+    <h1>Collection</h1>
+    <h2>Index by Artist</h2>
+  </div>
+  <div class="description">
+    <p>Zoomable Treemap</p>
+  </div>
+
   <div>
     <ul>
       <li v-for="(artist, index) in allArtists" :key="index">
@@ -45,8 +51,4 @@ export default {
 };
 </script>
 
-<style>
-p {
-  color: black;
-}
-</style>
+<style></style>

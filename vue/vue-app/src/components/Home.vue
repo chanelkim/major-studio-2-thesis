@@ -21,23 +21,23 @@
       </Modal>
     </teleport>
 
-    <button @click="toggleModal">open modal success</button>
-    <button @click="toggleModalTwo">open modal two</button>
-    <SearchBar />
+    <!-- <button @click="toggleModal">open modal success</button> -->
+    <!-- <button @click="toggleModalTwo">open modal two</button> -->
+    <!-- <SearchBar /> -->
   </div>
 </template>
 
 <script>
 import Hero from "./Hero.vue";
-import Modal from "./Modal.vue";
-import SearchBar from "./SearchBar.vue";
+// import Modal from "./Modal.vue";
+// import SearchBar from "./SearchBar.vue";
 
 export default {
   name: "Home",
   components: {
     Hero,
-    Modal,
-    SearchBar,
+    // Modal,
+    // SearchBar,
   },
   data() {
     return {
@@ -60,11 +60,10 @@ body {
 }
 #app,
 #modals {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: black;
 }
 .recommendation-group {
   display: flex;
